@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: HOPE WorldWide of Canada
 tagline: Bringing Hope. Changing Lives.
 ---
 {% include JB/setup %}
