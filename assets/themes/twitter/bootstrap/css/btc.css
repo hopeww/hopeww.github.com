@@ -1,0 +1,506 @@
+/**************************************
+ ********** Beyond the Cloud **********
+ **************************************
+ ************* WISHES YOU *************
+ ********* happy Bootstrap-ing ********
+ **************************************/
+
+/*
+ * Landing Page
+ */
+body.btc-landing {
+	padding-top: 30px;
+}
+body.btc-landing .header {
+	padding-top: 40px;
+}
+
+
+
+
+/*
+ * Regular Page
+ */
+body.btc-page {
+	padding-top: 30px;
+}
+body.btc-page > .header {
+	position: relative;
+	height: 90px;
+	padding-top: 20px;
+}
+.btc-page > .header > .fx-header {
+	position: absolute;
+}
+body.btc-page img.logo {
+	position: absolute;
+	z-index: 3;
+}
+
+
+
+
+/*
+ * Breadcrumbs
+ */
+.main-upper ul.breadcrumb {
+	border: none;
+	box-shadow: none;
+	background: none;
+	font-weight: bold;
+	filter: none;
+}
+.main-upper ul.breadcrumb a {
+	color: black;
+}
+
+
+
+
+/*
+ * Subscription Box
+ */
+
+.form-subscribe h3 small {
+	font-size: 12px;
+}
+
+.form-subscribe input {
+
+	-webkit-border-top-left-radius: 13px;
+	-webkit-border-bottom-left-radius: 13px;
+	-moz-border-radius-topleft: 13px;
+	-moz-border-radius-bottomleft: 13px;
+	border-top-left-radius: 13px;
+	border-bottom-left-radius: 13px;
+
+	padding: 10px;
+	border-color: #8EB2DB;
+	background-color: #E7EFFA;
+	color: #000;
+}
+
+.form-subscribe input:focus {
+	background-color: #fff !important;
+}
+
+.form-subscribe button {
+
+	-webkit-border-top-right-radius: 13px !important;
+	-webkit-border-bottom-right-radius: 13px !important;
+	-moz-border-radius-topright: 13px !important;
+	-moz-border-radius-bottomright: 13px !important;
+	border-top-right-radius: 13px !important;
+	border-bottom-right-radius: 13px !important;
+
+	width: 148px !important;
+	padding: 10px !important;
+	font-size: 15px !important;
+	font-weight: bold;
+}
+
+    /* Subscription Box Primary */
+.form-subscribe.form-subscribe-primary input {
+	border-color: #5F99DD;
+	
+}
+
+    /* Subscription Box Flashy */
+.form-subscribe.form-subscribe-flashy input {
+	border-color: #F2870C;
+	background-color: #F8F3EF;
+}
+
+
+
+
+/*
+ * Header
+ */
+.header {
+	width: 100%;
+	background-image: url(../img/sky.jpg);
+}
+.header > .fx-header {
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: 45px;
+	background: url(../img/sl-t.png);
+}
+
+
+
+
+/*
+ * Header Heroes
+ */
+ 
+.header .hero-unit {
+	position: relative;
+	margin-bottom: 0;
+	border: 0;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	overflow: hidden;
+	background: url(../img/bg-light.png);
+}
+
+    /* Hero fx */
+.header .fx-hero-tl,
+.header .fx-hero-tr,
+.header .fx-hero-bl,
+.header .fx-hero-br,
+.header .fx-hero-lo,
+.header .fx-hero-li, 
+.header .fx-hero-ro,
+.header .fx-hero-ri,
+.header .fx-hero-to,
+.header .fx-hero-ti,
+.header .fx-hero-bo,
+.header .fx-hero-bi {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	overflow: hidden;
+	z-index: 2;
+}
+.header .fx-hero-tl {
+	top: 0;
+	left: 0;
+	background-image: url(../img/h-tl.png);
+}
+.header .fx-hero-tr {
+	top: 0;
+	right: 0;
+	background-image: url(../img/h-tr.png);
+}
+.header .fx-hero-bl {
+	bottom: 0;
+	left: 0;
+	background-image: url(../img/h-bl.png);
+}
+.header .fx-hero-br {
+	bottom: 0;
+	right: 0;
+	background-image: url(../img/h-br.png);
+}
+.header .fx-hero-lo {
+	height: 100%;
+	top: 20px;
+	left: 0;
+}
+.header .fx-hero-li {
+	height: 100%;
+	top: -40px;
+	left: 0;
+	background-image: url(../img/h-l.png);
+}
+.header .fx-hero-ro {
+	height: 100%;
+	top: 20px;
+	right: 0;
+}
+.header .fx-hero-ri {
+	height: 100%;
+	top: -40px;
+	right: 0;
+	background-image: url(../img/h-r.png);
+}
+.header .fx-hero-to {
+	width: 100%;
+	top: 0;
+	left: 20px;
+}
+.header .fx-hero-ti {
+	width: 100%;
+	top: 0px;
+	left: -40px;
+	background-image: url(../img/h-t.png);
+}
+.header .fx-hero-bo {
+	width: 100%;
+	bottom: 0;
+	left: 20px;
+}
+.header .fx-hero-bi {
+	width: 100%;
+	bottom: 0px;
+	left: -40px;
+	background-image: url(../img/h-b.png);
+}
+
+    /* Hero Special */
+.header .hero-special {
+	background: url(../img/stars.jpg);
+	padding: 30px 60px;
+}
+.header .hero-special h2 small {
+	font-size: 17px;
+	color: #798CA2;
+}
+.header .hero-special h1,
+.navbar .nav .active > a,
+.navbar .nav .active > a:hover,
+.navbar .nav > li > a:hover {
+    color: #CDDBF2;
+}
+.header .hero-special {
+	color: #E7EFFA;
+}
+
+    /* Hero Light */
+.header .hero-light,
+.header .hero-xlight
+ {
+	background: transparent;
+}
+.hero-light *,
+.hero-xlight * {
+	color: black !important;
+}
+
+
+    /* Hero Light Frame: Speacil * XLight */
+.header .hero-special .fx-hero-tl,
+.header .hero-xlight .fx-hero-tl {
+	background-image: url(../img/nc/h-tl.png);
+}
+.header .hero-special .fx-hero-tr,
+.header .hero-xlight .fx-hero-tr {
+	background-image: url(../img/nc/h-tr.png);
+}
+.header .hero-special .fx-hero-bl,
+.header .hero-xlight .fx-hero-bl {
+	background-image: url(../img/nc/h-bl.png);
+}
+.header .hero-special .fx-hero-br,
+.header .hero-xlight .fx-hero-br {
+	background-image: url(../img/nc/h-br.png);
+}
+.header .hero-special .fx-hero-li,
+.header .hero-xlight .fx-hero-li {
+	background-image: url(../img/nc/h-l.png);
+}
+.header .hero-special .fx-hero-ri,
+.header .hero-xlight .fx-hero-ri {
+	background-image: url(../img/nc/h-r.png);
+}
+.header .hero-special .fx-hero-ti,
+.header .hero-xlight .fx-hero-ti {
+	background-image: url(../img/nc/h-t.png);
+}
+.header .hero-special .fx-hero-bi,
+.header .hero-xlight .fx-hero-bi {
+	background-image: url(../img/nc/h-b.png);
+}
+
+
+
+
+/*
+ * Header Hero Carousel
+ */
+
+.header .hero-carousel {
+	height: 300px;
+	padding: 0;
+}
+
+.header .hero-carousel .carousel {}
+
+.header .hero-carousel .carousel-inner {}
+
+.header .hero-carousel .carousel-item-content {
+	padding: 30px 65px;
+}
+
+.header .hero-carousel .carousel-caption {
+	position: absolute;
+	bottom: 20px;
+	height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+}
+
+	/* Carousel Control */
+.header .hero-carousel .carousel-control {
+	z-index: 3;
+	top: 128px;
+}
+.header .hero-carousel .carousel-control.left {
+	left: 10px;
+}
+.header .hero-carousel .carousel-control.right {
+	right: 10px;
+}
+
+
+
+
+/*
+ * Upper Main Section
+ */
+
+.main-upper {
+	background-image: url(../img/bg-light.png);
+	color: #000;
+}
+.main-upper .fx-main-upper {
+	position: relative;
+	top: 0;
+	width: 100%;
+	height: 20px;
+	background-color: #fff;
+	background-image: url(../img/sl-b.png);
+	background-repeat: repeat-x;
+}
+
+.main-upper h1,
+.main-upper h2,
+.main-upper h3,
+.main-upper h4 {
+	color: rgb(51, 51, 51);
+}
+
+.main-upper .well {
+	background-color: #E1EBF5;
+}
+
+
+
+
+/*
+ * Lower Main Section
+ */
+.main-lower {
+	background-image: url(../img/bg-white.png);
+}
+.main-lower .fx-main-lower {
+	position: relative;
+	top: 0;
+	width: 100%;
+	height: 20px;
+	background-color: #fff;
+	background-image: url(../img/sl2.png);
+	background-repeat: repeat-x;
+}
+
+
+
+
+/*
+ * Footer
+ */
+.footer {
+	background-image: url(../img/bg-dark.png);
+	color: white;
+}
+.footer .fx-footer {
+	position: relative;
+	top: 0;
+	width: 100%;
+	height: 20px;
+	background-color: #fff;
+	background-image: url(../img/sl3.png);
+	background-repeat: repeat-x;
+}
+
+
+
+
+/*
+ * Fonts
+ */
+
+body, .btn, .navbar * {
+	font-family: Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+h1, ul, ol {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* WHY different font for H1:
+ * Because Ubuntu has HORRID antialising on larger sizes on most platforms.
+ */
+
+.brand, h2, h3, h4 {
+	font-weight: bolder;
+}
+
+h1 small, h2 small, h3 small, h4 small {
+	text-transform: uppercase;
+}
+
+
+
+
+/*
+ * Logo
+ */
+
+img.logo {
+	margin-left: -8px;
+}
+
+
+
+
+/*
+ * Buttons
+ */
+
+.btn-flashy,
+.form-subscribe.form-subscribe-flashy button {
+  background-color: hsl(32, 90%, 50%) !important;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#f6b263), to(#f2870c));
+  background-image: -moz-linear-gradient(top, #f6b263, #f2870c);
+  background-image: -ms-linear-gradient(top, #f6b263, #f2870c);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f6b263), color-stop(100%, #f2870c));
+  background-image: -webkit-linear-gradient(top, #f6b263, #f2870c);
+  background-image: -o-linear-gradient(top, #f6b263, #f2870c);
+  background-image: linear-gradient(#f6b263, #f2870c);
+  border-color: #f2870c #f2870c hsl(32, 90%, 45.5%);
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.29);
+  -webkit-font-smoothing: antialiased;
+
+  color: #000 !important;  
+}
+
+.btn-btc-primary,
+.form-subscribe.form-subscribe-primary button {
+	background-color: hsl(212, 65%, 62%) !important;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#a2c4eb), to(#5f99dd));
+	background-image: -moz-linear-gradient(top, #a2c4eb, #5f99dd);
+	background-image: -ms-linear-gradient(top, #a2c4eb, #5f99dd);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a2c4eb), color-stop(100%, #5f99dd));
+	background-image: -webkit-linear-gradient(top, #a2c4eb, #5f99dd);
+	background-image: -o-linear-gradient(top, #a2c4eb, #5f99dd);
+	background-image: linear-gradient(#a2c4eb, #5f99dd);
+	border-color: #5f99dd #5f99dd hsl(212, 65%, 58%);
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.26);
+	-webkit-font-smoothing: antialiased;
+
+	font-weight: bold !important;
+	color: black !important;
+}
+
+.btn-btc,
+.form-subscribe button {
+	background-color: hsl(212, 52%, 71%) !important;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#dce7f3), to(#8eb2db));
+	background-image: -moz-linear-gradient(top, #dce7f3, #8eb2db);
+	background-image: -ms-linear-gradient(top, #dce7f3, #8eb2db);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #dce7f3), color-stop(100%, #8eb2db));
+	background-image: -webkit-linear-gradient(top, #dce7f3, #8eb2db);
+	background-image: -o-linear-gradient(top, #dce7f3, #8eb2db);
+	background-image: linear-gradient(#dce7f3, #8eb2db);
+	border-color: #8eb2db #8eb2db hsl(212, 52%, 66%);
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.33);
+	-webkit-font-smoothing: antialiased;
+
+	color: black !important;
+}
