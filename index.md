@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hmm..
+title: hmm.. curiouser...
 tagline: Bringing Hope. Changing Lives.
 ---
 {% include JB/setup %}
