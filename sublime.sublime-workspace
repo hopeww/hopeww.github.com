@@ -15,31 +15,7 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 1284,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Rakefile",
-			"settings":
-			{
-				"buffer_size": 10687,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/JB/setup",
-			"settings":
-			{
-				"buffer_size": 733,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 98,
+				"buffer_size": 1288,
 				"line_ending": "Windows"
 			}
 		}
@@ -68,11 +44,14 @@
 	},
 	"file_history":
 	[
+		"/L/workspace/spatzle.github.com/sublime.sublime-workspace",
+		"/C/Users/joyce/workspace/spatzle.github.com/Rakefile",
 		"/C/Users/joyce/workspace/spatzle.github.com/_layouts/default2.html",
 		"/C/Users/joyce/workspace/spatzle.github.com/_config.yml",
-		"/C/Users/joyce/workspace/spatzle.github.com/_includes/themes/twitter/default.html",
-		"/C/Users/joyce/workspace/spatzle.github.com/_layouts/default.html",
 		"/C/Users/joyce/workspace/spatzle.github.com/index.md",
+		"/C/Users/joyce/workspace/spatzle.github.com/_includes/JB/setup",
+		"/C/Users/joyce/workspace/spatzle.github.com/_layouts/default.html",
+		"/C/Users/joyce/workspace/spatzle.github.com/_includes/themes/twitter/default.html",
 		"/C/Users/joyce/workspace/spatzle.github.com/_includes/themes/twitter/post.html",
 		"/C/Users/joyce/workspace/spatzle.github.com/assets/themes/twitter/css/style.css",
 		"/C/Users/joyce/workspace/spatzle.github.com/_posts/core-samples/2011-12-29-jekyll-introduction.md",
@@ -105,9 +84,7 @@
 		"/C/xampp/htdocs/bootstrap/js/README.md",
 		"/C/Users/joyce/workspace/bootstrap/index.html",
 		"/C/Users/joyce/workspace/spatzle.github.com/_layouts/page.html",
-		"/C/Users/joyce/workspace/spatzle.github.com/_includes/JB/setup",
 		"/C/Users/joyce/workspace/spatzle.github.com/pages.html",
-		"/C/Users/joyce/workspace/spatzle.github.com/Rakefile",
 		"/C/Users/joyce/workspace/spatzle.github.com/README.md",
 		"/C/xampp/htdocs/ywcahope/steps/readme.md",
 		"/C/xampp/htdocs/ywcahope/index.html",
@@ -225,7 +202,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -233,15 +210,15 @@
 					"file": "index.md",
 					"settings":
 					{
-						"buffer_size": 1284,
+						"buffer_size": 1288,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								209,
-								209
+								20,
+								20
 							]
 						],
 						"settings":
@@ -249,88 +226,6 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Rakefile",
-					"settings":
-					{
-						"buffer_size": 10687,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4547,
-								4547
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3887.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/JB/setup",
-					"settings":
-					{
-						"buffer_size": 733,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								733,
-								733
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 98,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								32,
-								32
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
