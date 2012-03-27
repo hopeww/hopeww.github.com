@@ -11,14 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_layouts/frontpage.html",
-			"settings":
-			{
-				"buffer_size": 107,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,10 +36,14 @@
 	},
 	"file_history":
 	[
-		"/C/Users/joyce/Desktop/spatzle.github.com/pages.html",
-		"/L/workspace/spatzle.github.com/_includes/themes/twitter/default.html",
+		"/L/workspace/spatzle.github.com/about.md",
+		"/L/workspace/spatzle.github.com/Rakefile",
+		"/L/workspace/spatzle.github.com/changelog.md",
 		"/L/workspace/spatzle.github.com/index.md",
 		"/L/workspace/spatzle.github.com/_layouts/frontpage.html",
+		"/L/workspace/spatzle.github.com/_includes/themes/twitter/frontpage.html",
+		"/C/Users/joyce/Desktop/spatzle.github.com/pages.html",
+		"/L/workspace/spatzle.github.com/_includes/themes/twitter/default.html",
 		"/C/Users/joyce/Desktop/spatzle.github.com/_layouts/frontpage.html",
 		"/L/workspace/spatzle.github.com/_layouts/default2.html",
 		"/L/workspace/spatzle.github.com/sublime.sublime-workspace",
@@ -208,35 +204,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_layouts/frontpage.html",
-					"settings":
-					{
-						"buffer_size": 107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								107,
-								107
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
