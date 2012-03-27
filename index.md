@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: frontend
 title: hmm.. curiouser... and curiouser
 tagline: Bringing Hope. Changing Lives.
 ---
