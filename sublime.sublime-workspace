@@ -12,29 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.md",
-			"settings":
-			{
-				"buffer_size": 1288,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "---\ntheme :\n  name : twitter\n---\n{% include JB/setup %}\n{% include themes/twitter/frontpage.html %}\n",
 			"file": "_layouts/frontpage.html",
-			"file_size": 112,
-			"file_write_time": 129772798343464154,
 			"settings":
 			{
-				"buffer_size": 100,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/themes/twitter/default.html",
-			"settings":
-			{
-				"buffer_size": 2330,
+				"buffer_size": 107,
 				"line_ending": "Windows"
 			}
 		}
@@ -63,6 +44,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/joyce/Desktop/spatzle.github.com/pages.html",
+		"/L/workspace/spatzle.github.com/_includes/themes/twitter/default.html",
+		"/L/workspace/spatzle.github.com/index.md",
+		"/L/workspace/spatzle.github.com/_layouts/frontpage.html",
+		"/C/Users/joyce/Desktop/spatzle.github.com/_layouts/frontpage.html",
 		"/L/workspace/spatzle.github.com/_layouts/default2.html",
 		"/L/workspace/spatzle.github.com/sublime.sublime-workspace",
 		"/C/Users/joyce/workspace/spatzle.github.com/Rakefile",
@@ -222,84 +208,28 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.md",
-					"settings":
-					{
-						"buffer_size": 1288,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								458,
-								458
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_layouts/frontpage.html",
 					"settings":
 					{
-						"buffer_size": 100,
+						"buffer_size": 107,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								107,
+								107
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/themes/twitter/default.html",
-					"settings":
-					{
-						"buffer_size": 2330,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								262
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
