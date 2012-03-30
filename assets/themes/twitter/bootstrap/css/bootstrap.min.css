@@ -3951,11 +3951,13 @@ a.thumbnail:hover {
 }
 .carousel-caption h4,
 .carousel-caption p {
-  color: #ffffff;
+  color: white;
 }
 .hero-unit {
-  padding: 60px;
-  margin-bottom: 30px;
+  /*padding: 60px;*/
+  padding: 20px;
+  /*margin-bottom: 30px;*/
+  margin-bottom: 15px;
   background-color: #f5f5f5;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
