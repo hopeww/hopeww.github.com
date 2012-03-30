@@ -1,5 +1,5 @@
 ---
-layout: frontpage2
+layout: hero_unit
 title: hmm.. curiouser... and curiouser
 tagline: Bringing Hope. Changing Lives.
 ---
