@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <!--
-   _____ _    _          _ _         _                 _       ___
-  |_   _| |  |/         | | |       | |               | |     |_  |
-    | | | |_ ___    __ _| | |   __ _| |__   ___  _   _| |_      | | ___  ___ _   _ ___
-    | | | __/ __|  / _` | | |  / _` | '_ \ / _ \| | | | __|     | |/ _ \/ __| | | / __|
-   _| |_| |_\__ \ | (_| | | | | (_| | |_) | (_) | |_| | |_  /\__/ /  __/\__ \ |_| \__ \
-   \___/ \__|___/  \__,_|_|_|  \__,_|_.__/ \___/ \__,_|\__| \____/ \___||___/\__,_|___/
+  HOPE WorldWide of Canada
 -->
 <html lang="en">
   <head>
@@ -15,7 +10,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    
     <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}/bootstrap/css/custom.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 
@@ -63,6 +60,12 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+          <form action="http://google.com/search" method="get" class="navbar-search pull-left">
+            <fieldset role="search">
+              <input type="hidden" name="q" value="site:brianarmstrong.org" />
+              <input type="text" name="q" results="0" placeholder="Search" class="search-query span2" />
+            </fieldset>
+          </form>
           
         </div>
         
@@ -89,13 +92,7 @@
               <li class="nav-header">Sidebar</li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               
             </ul>
