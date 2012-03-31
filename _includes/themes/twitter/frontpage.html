@@ -29,7 +29,7 @@
       function search(query) {
         //Try searching for 'Python', 'Hyde', 'Linux'.
         //var result = $.getJSON('http://hopewwc.api.houndsleuth.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
-        var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
+        var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
           $('div#results').empty();
           $.each(data.results, function(index, result) {
             /*$('div#results').append('<div id="result">\
