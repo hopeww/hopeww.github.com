@@ -128,4 +128,4 @@ indextank_index: HOPE_WorldWide_of_Canada
 
 
 # these values are applied as regular expressions 
-indextank_excludes: [ 404.html, ^/secret/]
+indextank_excludes: [404.html, ^/secret/]
