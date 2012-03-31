@@ -2806,10 +2806,10 @@ input[type="submit"].btn.btn-mini {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
 }
 .navbar .container {
-  width: auto;
+  width: 100%;
 }
 .navbar .container .search-container {
-  width: auto;
+  /*width: auto;*/
 }
 
 .btn-navbar {
