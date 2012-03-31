@@ -2784,6 +2784,7 @@ input[type="submit"].btn.btn-mini {
   *z-index: 2;
   overflow: visible;
   margin-top:0px;
+  padding-top:0px;
 }
 .navbar-inner {
   padding-left: 20px;
@@ -2808,7 +2809,7 @@ input[type="submit"].btn.btn-mini {
   width: auto;
 }
 .navbar .search-container {
-  width: auto;
+  /*width: auto;*/
 }
 
 .btn-navbar {
