@@ -33,11 +33,11 @@
         var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
           $('div#results').empty();
           $.each(data.results, function(index, result) {
-            /*$('div#results').append('<div id="result">\
+            $('div#results').append('<div id="result">\
                 <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
                 ' + result.snippet_text + '</p>\
-            </div')*/
-            alert(result.snippet_text);
+            </div')
+            // alert(result.snippet_text);
           });
         });
       }
@@ -71,7 +71,7 @@
             </fieldset>
           </form>
           -->
-          <form id="search" class="navbar-search pull-left" >
+          <form id="search" class="navbar-search pull-right" >
             <input type="text" id="query" name="query" class="search-query span2"/>
             <input type="submit" value="search" id="submit"/>
           </form>
