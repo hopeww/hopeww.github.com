@@ -21,7 +21,8 @@
       
       $(document).ready(function() {
         $('form#search').submit(function() {
-            search($('input#query').val());
+            alert ('hi');
+            //search($('input#query').val());
           return false;
         }); 
       });
@@ -36,7 +37,7 @@
                 <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
                 ' + result.snippet_text + '</p>\
             </div')*/
-            alert(rest.docid);
+            alert(results.docid);
           });
         });
       }
