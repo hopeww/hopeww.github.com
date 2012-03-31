@@ -20,6 +20,6 @@ Canada M6R2Y7
 
 h2. Email regarding
 
-* "Volunteer Management":mailto:volunteer@hopewwcanada.org
-* "Marketing and Communications":mailto:communications@hopewwcanada.org
-* "Website":mailto:webmaster@hopewwcanada.org
+* "(classname)Volunteer Management(Volunteer Management)":mailto:volunteer@hopewwcanada.org
+* "(classname)Marketing and Communications(Marketing and Communications)":mailto:communications@hopewwcanada.org
+* "(classname)Website(Website)":mailto:webmaster@hopewwcanada.org
