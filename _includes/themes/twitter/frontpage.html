@@ -31,7 +31,7 @@
 
     <div class="navbar">
       <div class="navbar-inner" >
-        <span class="container" >
+        <div class="container" >
           <a class="brand" href="{{ HOME_PATH }}">
             {{ site.title }}
 
@@ -41,8 +41,7 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-        </span>
-        <span class="search-container">
+          <span class="search-container">
           <form method="get" action="http://www.google.com/search" style="padding-top:5px;margin-top:5px;" align="right">
               <input type="text"   name="q" size="25" 
                maxlength="255" value="" />
@@ -50,6 +49,8 @@
               <input type="submit" value="Google Search" style="padding-top:2px;"/>
             </form>
           </span>
+        </div>
+        
       </div>
     </div>
 

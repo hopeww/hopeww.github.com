@@ -2808,8 +2808,8 @@ input[type="submit"].btn.btn-mini {
 .navbar .container {
   width: auto;
 }
-.navbar .search-container {
-  /*width: auto;*/
+.navbar .container .search-container {
+  width: auto;
 }
 
 .btn-navbar {
