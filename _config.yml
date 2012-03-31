@@ -124,9 +124,10 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-indextank_index: HOPEWW 
+#indextank_index: HOPEWW 
+#indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
 
+indextank_index: HOPE_WorldWide_of_Canada  
+indextank_api_url: http://:Pk4kJPFRIhptDd@txje.api.indextank.com
 
-# these values are applied as regular expressions 
-indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
 indextank_excludes: [404.html, ^/secret/]
