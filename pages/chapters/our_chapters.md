@@ -1,5 +1,5 @@
 ---
-layout: our_chapters
+layout: default
 title: "Our Chapters"
 ---
 {% include JB/setup %}
