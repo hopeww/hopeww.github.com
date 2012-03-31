@@ -1,17 +1,12 @@
 <!DOCTYPE html>
-<!--
-  HOPE WorldWide of Canada
--->
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>HOPE WorldWide of Canada</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
 
-    
-    <!-- Le styles -->
+     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/custom.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -117,3 +112,4 @@
     ================================================== -->
   </body>
 </html>
+
