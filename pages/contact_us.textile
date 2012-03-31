@@ -26,4 +26,4 @@ h2. Email regarding
 
 h2. Social Media
 * "(icon-facebook-sign)Facebook(Facebook)":https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
-* "(icon-twitter-sign)Twitter(Twitter)"https://twitter.com/#!/HOPEwwofCanada
+* "(icon-twitter-sign)Twitter(Twitter)":https://twitter.com/#!/HOPEwwofCanada
