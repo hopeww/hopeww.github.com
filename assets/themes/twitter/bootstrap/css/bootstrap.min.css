@@ -3947,7 +3947,7 @@ a.thumbnail:hover {
   bottom: 0;
   padding: 10px 15px 5px;
   background: #333333;
-  background: rgba(0, 0, 0, 0.75);
+  /*background: rgba(0, 0, 0, 0.75);*/
 }
 .carousel-caption h4,
 .carousel-caption p {
