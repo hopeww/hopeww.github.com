@@ -6,6 +6,8 @@ title: "Privacy Policy"
 
 #hopewwcanada.org Privacy Policy#
 
+
+
 ##Purpose of Policy##
 [www.hopewwcanada.org](www.hopewwcanada.org "HOPEWorldWide of Canada") is committed to protecting your privacy and the information that you provide to us or that we collect. This policy discusses the type of information we collect, how we use it, whether we share it with others, what you can do to limit our use of it and how you can correct the information or have it deleted. Please read this policy carefully before using our web site. This policy applies to [www.hopewwcanada.org](www.hopewwcanada.org "HOPEWorldWide of Canada") only and not to any other persons, organizations or entities linked to or included on the web site (referred to as "third parties"). This policy was developed using the laws and regulations of the United States as a guide. The laws and regulations of your country regarding privacy may be different, if you reside outside of the United States. For that reason we suggest that you check them. After doing so, you may decide not to provide personal information. However, if you do decide to continue to visit or use our web site, it is expressly understood that you agree to be bound by the provisions of this privacy policy.
 
