@@ -21,7 +21,7 @@
       //just a quick example, in no way pretty code.
       
       $(document).ready(function() {
-        $('form#search').submit(function() {
+        $('form#search').button().submit(function() {
             search($('input#query').val());
           return false;
         }); 
@@ -71,9 +71,10 @@
             </fieldset>
           </form>
           -->
-          <form id="search" class="navbar-search pull-right" >
+          <form id="search" class="navbar-search pull-left" >
             <input type="text" id="query" name="query" class="search-query span2"/>
-            <input type="submit" value="search" id="submit"/>
+            <button class="btn" data-toggle="button">Submit</button>
+            <!--<input type="submit" value="search" id="submit"/>-->
           </form>
         </div>
         
