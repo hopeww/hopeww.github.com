@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<!--
+  HOPE WorldWide of Canada
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>HOPE WorldWide of Canada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}/bootstrap/css/custom.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+    <script src="{{ ASSET_PATH }}/bootstrap/js/jquery.min.js"></script>
+    <script type="text/javascript">
+      //just a quick example, in no way pretty code.
+      
+      $(document).ready(function() {
+        $('form#search').button().submit(function() {
+            search($('input#query').val());
+          return false;
+        }); 
+      });
+
+      function search(query) {
+        //Try searching for 'Python', 'Hyde', 'Linux'.
+        //var result = $.getJSON('http://hopewwc.api.houndsleuth.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
+        var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
+          $('div#results').empty();
+          $.each(data.results, function(index, result) {
+            $('div#results').append('<div id="result">\
+                <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
+                ' + result.snippet_text + '</p>\
+            </div')
+            // alert(result.snippet_text);
+          });
+        });
+      }
+    </script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+  </head>
+
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+
+    <div class="navbar">
+      <div class="navbar-inner" >
+        <div class="container" >
+          <a class="brand" href="{{ HOME_PATH }}">
+            {{ site.title }}
+          </a>
+          <ul class="nav">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+          </ul>
+          <form id="search" class="navbar-search pull-left" >
+            <input type="text" id="query" name="query" class="search-query span2"/>
+            <button class="btn" data-toggle="button">Search</button>
+            <!--<input type="submit" value="search" id="submit"/>-->
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header"><img align="center" src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png" /></li>
+              <li class="active"><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              
+            </ul>
+          </div><!--/.well -->
+          <div id="results">
+          </div>
+          
+        </div><!--/span-->
+        <div class="span9">
+          <div class="hero-unit">
+           <div id="myCarousel" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="item active">
+                <table border=0 width="100%"><tr>
+                  <td width="10%" /><td width="40%"><h1>Welcome</h1> <p>We are excited to share with you all the great things HOPE is doing across Canada and around the world. Visit us regularly to learn about our work in serving the poor and vulnerable.</p>
+                    <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></td>
+                  <td width="5%" />
+                  <td width="45%" align="right">
+                    <img src="{{ ASSET_PATH }}/images/frontpage/1_toronto.jpg" alt="">
+                  </td></tr>
+                </table>
+                <div class="carousel-caption">
+                  <h4>Walkathon in Toronto</h4>
+                  <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                </div>
+              </div><!--end item-->
+              <div class="item ">
+                <table border=0 width="100%"><tr>
+                  <td width="10%" /><td width="40%"><h1>Our Chapters</h1> <p>Every chapter of HOPE worldwide of Canada has something special to bring hope and change lives in our communities. Click on Our Chapters to find out more!</p>
+                    <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></td>
+                  <td width="5%" />
+                  <td width="45%" align="right">
+                    <img src="{{ ASSET_PATH }}/images/frontpage/2_montreal.jpg" alt="">
+                  </td></tr>
+                </table>
+                <div class="carousel-caption">
+                  <h4>Bags collection for school aged children</h4>
+                  <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                </div>
+              </div><!--end item-->
+              <div class="item ">
+                <table border=0 width="100%"><tr>
+                  <td width="10%" /><td width="40%"><h1>Global Outreach</h1> <p>Our work touches lives beyond our native land, across the world. Read about our various projects and initiatives happening around the world.</p>
+                    <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></td>
+                  <td width="5%" />
+                  <td width="45%" align="right">
+                    <img src="{{ ASSET_PATH }}/images/frontpage/3_global.jpg" alt="">
+                  </td></tr>
+                </table>
+                <div class="carousel-caption">
+                  <h4>Medical equipment donation</h4>
+                  <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                </div>
+              </div><!--end item-->
+              <div class="item ">
+                <table border=0 width="100%"><tr>
+                  <td width="10%" /><td width="40%"><h1>HOPE Youth Corp</h1> <p>Over the summer, two of our teen volunteers had the opportunity to participate in HOPE Youth Corps in the United States. Read about their adventures down south in Texas & Philadelphia.</p>
+                    <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p></td>
+                  <td width="5%" />
+                  <td width="45%" align="right">
+                    <img src="{{ ASSET_PATH }}/images/frontpage/4_hope_yc.png" alt="">
+                  </td></tr>
+                </table>
+                <div class="carousel-caption">
+                  <h4>After we came back from HOPE Youth Corp</h4>
+                  <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
+                </div>
+              </div><!--end item-->
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+          </div><!--/row-->
+
+          <div class="row-fluid">
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+          </div><!--/row-->
+      
+      </div><!--/span-->
+      </div><!--/row-->   
+      
+
+      <hr> 
+
+      <footer align="center">
+
+        <table width="100%" align="left" style="background-color: #f5f5f5;border-radius:4px" ><tr>
+            <tr><td colspan=7>&#160;&#160;&#160;&#160;&#160;</td></tr>
+            <td width="74%"  align="left"><a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456"><img src="{{ ASSET_PATH }}/images/icons/highvalue0.jpg" alt="" 
+              onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});"
+              align="center"></a> </td>
+            <td width="14%" align="right"> 
+              <a href="/pages/privacy_policy.html">Privacy Policy </a>  
+              <br /> <a href="/pages/terms_of_use.html">Terms of Use </a>
+              <br /> <a href="/pages/contact_us.html">Contact Us </a>
+              <br /><b>&copy; HOPE WorldWide of Canada 2012.  All rights reserved.</b>
+            </td>
+            <td width="1%" />
+            <td width="2%" align="left">
+              <a href="https://twitter.com/#!/HOPEwwofCanada">
+                <img src="{{ ASSET_PATH }}/images/icons/twitter_128x128.png" alt="" width="90" height="90">  
+              </a>
+            </td>
+            <td width="2%" align="right">
+              <a href="https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449">
+                <img src="{{ ASSET_PATH }}/images/icons/facebook_128x128.png" alt="" width="90" height="90">  
+              </a>
+            </td>
+            <td width="6%" align="right">
+              <a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456">
+                <img src="{{ ASSET_PATH }}/images/icons/highvalue2.jpg" alt="" 
+                      onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});" >
+              </a>
+              <br />
+            </td>
+            <td width="1%" />
+          </tr>
+          <tr ><td colspan="14" >&#160;</td>
+          </tr>
+          <tr ><td colspan="14" />
+          </tr>
+          
+        </table>
+      </footer>
+      <hr> 
+    </div><!--/.fluid-container-->
+
+    {% include JB/analytics %}
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/glossy.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/cvi_glossy_lib.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/cvi_istack_lib.js"></script>
+    <!--
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-transition.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-alert.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-modal.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-dropdown.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-scrollspy.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-tab.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-tooltip.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-popover.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-button.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-collapse.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-typeahead.js"></script>
+    <script src="{{ ASSET_PATH }}/bootstrap/js/application.js"></script>
+  -->
+    <!-- Analytics
+    ================================================== -->
+
+  </body>
+</html>
