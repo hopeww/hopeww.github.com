@@ -37,7 +37,7 @@
                 <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
                 ' + result.snippet_text + '</p>\
             </div')*/
-            alert(results.docid);
+            alert(result.snippet_text);
           });
         });
       }
@@ -71,7 +71,7 @@
             </fieldset>
           </form>
           -->
-          <form id="search" class="navbar-search pull-left" onsubmit="search($('#query').val();">
+          <form id="search" class="navbar-search pull-left" >
             <input type="text" id="query" name="query" class="search-query span2"/>
             <input type="submit" value="search" id="submit"/>
           </form>
