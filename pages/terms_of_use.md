@@ -5,7 +5,6 @@ title: "Terms Of Use"
 {% include JB/setup %}
 
 
-#Terms of Use#
 By accessing any portion of the HOPE worldwide of Canada Website, the user agrees to the terms and conditions set out below.
 
 ##NOTICE OF DISCLAIMER AND TERMS OF USE##
