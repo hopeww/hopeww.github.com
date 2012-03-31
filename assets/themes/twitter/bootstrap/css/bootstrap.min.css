@@ -240,9 +240,10 @@ a:hover {
 .offset1 {
   margin-left: 100px;
 }
-.row-fluid #dark{
-background-color:black;
-color: white;
+
+dark.row-fluid {
+  background-color:black;
+  color: white;
 }
 .row-fluid {
   width: 100%;
