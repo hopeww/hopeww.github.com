@@ -18,12 +18,12 @@ Canada M6R2Y7
 
  
 
-h2. (icon-envelope) Email regarding
+h2. (icon-envelope)Email regarding
 
  * "Volunteer Management(Volunteer Management)":mailto:volunteer@hopewwcanada.org
 * "Marketing and Communications(Marketing and Communications)":mailto:communications@hopewwcanada.org
 * "Website(Website)":mailto:webmaster@hopewwcanada.org
 
 h2. Social Media
-* "Facebook((icon-facebook-sign)Facebook)":https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
-* "Twitter((icon-twitter-sign)Twitter)":https://twitter.com/#!/HOPEwwofCanada
+* (icon-facebook-sign)"Facebook(Facebook)":https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
+* "(icon-twitter-sign)Twitter(Twitter)":https://twitter.com/#!/HOPEwwofCanada
