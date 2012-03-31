@@ -1,7 +1,7 @@
 ---
-layout: our_chapters
+layout: ourchapters
 title: "Our Chapters"
 ---
 {% include JB/setup %}
 
-Test
+Test2
