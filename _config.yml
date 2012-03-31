@@ -128,5 +128,5 @@ indextank_index: HOPE_WorldWide_of_Canada
 
 
 # these values are applied as regular expressions 
-indextank_api_url: http://:Pk4kJPFRIhptDd@txje.api.indextank.com
+indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
 indextank_excludes: [404.html, ^/secret/]
