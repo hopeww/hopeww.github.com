@@ -35,7 +35,7 @@
           $('div#results').empty();
           $.each(data.results, function(index, result) {
             $('div#results').append('<div id="result">\
-                <p><a href="' + result.docid + '">' + result.title + '</a><br/>\
+                <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
                 ' + result.snippet_text + '</p>\
             </div')
           });
