@@ -19,6 +19,29 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 
+    <script type="text/javascript">
+      //just a quick example, in no way pretty code.
+      
+      $(document).ready(function() {
+        $('form#search').submit(function() {
+            search($('input#query').val());
+          return false;
+        }); 
+      });
+
+      function search(query) {
+        //Try searching for 'Python', 'Hyde', 'Linux'.
+        var result = $.getJSON('http://http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
+          $('div#results').empty();
+          $.each(data.results, function(index, result) {
+            $('div#results').append('<div id="result">\
+                <p><a href="' + result.docid + '">' + result.title + '</a><br/>\
+                ' + result.snippet_text + '</p>\
+            </div')
+          });
+        });
+      }
+    </script>
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -53,12 +76,12 @@
             <ul class="nav nav-list">
               <li class="nav-header"><img align="center" src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png" /></li>
               <li >
-                <form class="search-container" method="get" action="http://www.google.com/search"  align="left">
-                <input type="text"   name="q" size="25" 
-                 maxlength="255" value="" />
-                 <input type="hidden" name="sitesearch" value="spatzle.github.com" />
-                <input type="submit" value="Google Search" style="padding-top:2px;"/>
+                <form id="search" class="search-container" method="get"  align="left">
+                
+                  <input type="text" id="query" name="query"/>
+                  <input type="submit"/>
               </form>
+
               </li>
               <li class="active"><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
@@ -77,6 +100,8 @@
               
             </ul>
           </div><!--/.well -->
+          <div id="results">
+          </div>
           <a href="http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456"><img src="{{ ASSET_PATH }}/images/icons/highvalue0.jpg" alt="" align="center"
                     
                        ></a> 
