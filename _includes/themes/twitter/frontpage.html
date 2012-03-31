@@ -16,6 +16,7 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 
+    <script src="{{ ASSET_PATH }}/bootstrap/js/jquery.min.js"></script>
     <script type="text/javascript">
       //just a quick example, in no way pretty code.
       
@@ -71,9 +72,9 @@
             </fieldset>
           </form>
           -->
-          <form id="search" class="navbar-search pull-left">
+          <form id="search" class="navbar-search pull-left" onsubmit="search($('#query').val();">
             <input type="text" id="query" name="query" class="search-query span2"/>
-            <input type="submit" value="search"/>
+            <input type="submit" value="search" id="submit"/>
           </form>
         </div>
         
@@ -258,7 +259,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/glossy.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/cvi_glossy_lib.js"></script>
