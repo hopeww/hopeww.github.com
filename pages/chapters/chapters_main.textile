@@ -19,11 +19,11 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <table>
 	<tr>
 		<td>
-			<h4>Vision</h4>
+			<h3>Vision</h3>
 				<p>
 				HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.</p>
 
-			<h4>Mission </h4>
+			<h3>Mission </h3>
 				<p>
 				HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.</p>
 		</td>
