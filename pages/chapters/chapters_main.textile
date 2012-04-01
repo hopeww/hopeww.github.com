@@ -5,22 +5,21 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 {% include JB/setup %}
 
 <p><br /></p>
-<p><br /></p>
-<p><br /></p>
 <section id="vision">
-
 h2. Vision & Mission
+<table>
+	<tr>
+		<td>
+			<h4>Vision</h4>
+				HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.
+			<h4>Mission </h4>
+				HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.
+		</td>
+		<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt="">
+		</td>
+	</tr>
+</table>
 
-h4. Vision
-
-HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.
-
-h4. Mission 
-
-HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.
-
-
-<img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt="">
 </section>
 
 <h2><a name="history">History</a></h2>
