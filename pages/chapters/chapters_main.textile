@@ -114,6 +114,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
 		</tr>
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
 			<td>
 				<h5>Service</h5>
 				Ways to serve and care for the poor locally and in partnership with HOPE <i>worldwide</i> global affiliates.
@@ -125,21 +126,20 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>HOPE Youth / Volunteer / Disaster Response Corp</li>
 				</ul>
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg" alt=""></td>
 			<td>
 				<h5>Serving in the Local Community</h5>
 				HOPE <i>worldwide</i> volunteers provide thousands of hours serving their local communities.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg" alt=""></td>
 		</tr>
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
 			<td>
 				<h5>Serving in the Around the World</h5>
 				Members of any chapter can also serve abroad in programs such as HOPE Youth Corp and HOPE Volunteer Corp.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
@@ -147,12 +147,12 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="why">
 	<table cellpadding="5" >
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
 			<td>
 				<h2>Why Start a HOPE Chapter</h2>
 				Each chapter is operated by a locally appointed leader and a board of advisor.
 				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
