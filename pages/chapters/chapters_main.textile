@@ -91,36 +91,69 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				<p>Moreover, each chapter is responsible for local volunteer recruitment and management.  They are also responsible to directing all the volunteer run programs, and organization with the goal of meeting the needs of that community.
 			</td>
 		</tr>
+		
 	</table>
 </section>
 
-<section id="op">
+<section id="faith">
 	<table cellpadding="5" >
 		<tr>
 			<td>
-				<h2>Locally Operated</h2>
-				Each chapter is operated by a locally appointed leader and a board of advisor.
-				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
+				<h2>Faith</h2>
+				Programs are designed to also inspire the faith of the volunteers.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
 		</tr>
-	</table>
-</section>
-<section id="op">
-	<table cellpadding="5" >
 		<tr>
 			<td>
-				<h2>Locally Operated</h2>
-				Each chapter is operated by a locally appointed leader and a board of advisor.
-				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
+				Currently operating in 110 cities, including Canada and the Caribbeans.
+				<p>The programs impact over 110,000 people annually.
+				<p>More than 800 volunteers serve each year in Canada.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/functions.jpg" alt=""></td>
+			<td>
+				All HOPE programs strives to fulfill three main functions:
+				<ul>
+					<li>Service</li>
+					<li>Fundraising</li>
+					<li>Inspiring</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h5>Service</h5>
+				Ways to serve and care for the poor locally and in partnership with HOPE <i>worldwide</i> global affiliates.
+				<ul>
+					<li>after school programs</li>
+					<li>mentorship</li>
+					<li>healthy lifestyles programs</li>
+					<li>healthy lifestyles programs</li>
+					<li>HOPE Youth / Volunteer / Disaster Response Corp</li>
+				</ul>
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
-<h2><a name="prog">Programs</a></h2>
-<h2><a name="faith">Faith</a></h2>
-<h2><a name="why">Why Start a HOPE Chapter</a></h2>
+
+<section id="why">
+	<table cellpadding="5" >
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
+			<td>
+				<h2>Why Start a HOPE Chapter</h2>
+				Each chapter is operated by a locally appointed leader and a board of advisor.
+				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
+			</td>
+		</tr>
+	</table>
+</section>
+<section id="contact">
 <h2><a name="contact">Contact Us</a></h2>
 For more information on starting a HOPE _worldwide_ of Canada Chapter, please contact our country director Chris Jung.  <a href="chris.jung@hopewwcanada.org"><i class="icon-envelope" ></i> &#160;chris.jung@hopewwcanada.org</a>, or call +1 647 802 6884.
+</section>
 </div>
