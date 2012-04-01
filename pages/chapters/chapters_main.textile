@@ -5,10 +5,10 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 {% include JB/setup %}
 <div align="center">
 <section id="vision">
-	<h2>Our Vision & Mission</h2>
 	<table>
 		<tr>
 			<td>
+				<h2>Our Vision & Mission</h2>
 				<h3>Vision</h3>
 					<p>
 					HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.</p>
@@ -24,11 +24,12 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 </section>
 
 <section id="history">
-<h2>Our History</h2>
+
 <table cellpadding="5" >
 		<tr>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
 			<td>
+				<h2>Our History</h2>
 				<p>HOPE <i>worldwide</i> was founded in response to the Scriptures, which call us to have the heart of Jesus by serving the poor and needy around the world.
 				<p>We began in 1991 with three small local programs. Today, HOPE <i>worldwide</i> operates on every inhabited continent, serving more than one million people annually.
 
