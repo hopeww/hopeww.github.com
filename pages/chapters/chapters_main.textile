@@ -39,23 +39,83 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 </section>
 
 <section id="partners">
-<h2>Our Partners</h2><br />
-<table cellpadding="5" >
+	<table cellpadding="5" >
 		<tr>
 			<td>
-				We are proud of our history of collaboration
+				<h2>Our Partners</h2><
+				We are proud of our history of collaboration.  Our valued relationship with the International Churches of Christ dates from our founding. Our global network has grown to include countless individuals and organizations who are valued partners in the fight against poverty.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/partners.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
 
+<section id="govern">
+	<table cellpadding="5" >
+		<tr>
+			<td>
+				<h2>Local Chapters Governance</h2><
+				Stated in the U.S., there are currently 110 Chapters.  Formerly chapters were named 'branches' or 'subsidiaries'.  Our goal is to have 141 U.S. chapters by the end of 2012.
+				<p> We started with 4 chapters in Canada. Our goal is to have 11 by the end of 2012.	
+				<p> Each chapter will be governed by our Canadian Board of Directors and supported by a Local Board of Advisors.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg" alt=""></td>
+			<td>
+				<h2>Centrally Managed</h2><
+				The HOPE <i>worldwide</i> of Canada Board will manage local chapters and coordinate days of service, national partnerships, nationwide fundraising directives, and grants management.
+			</td>
+		</tr>
+	</table>
+</section>
 
-<h2><a name="partners">Partners</a></h2>
-<h2><a name="local">Local Chapters</a></h2>
-<h2><a name="mgmt">Management</a></h2>
-<h2><a name="op">Operations</a></h2>
-<h2><a name="acc">Accountability</a></h2>
+<section id="op">
+	<table cellpadding="5" >
+		<tr>
+			<td>
+				<h2>Locally Operated</h2><
+				Each chapter is operated by a locally appointed leader and a board of advisors.
+				<p>Within the local chapter, these servant leaders, are chosen because they are deemed adequately equipped and having a passion for serving the poor through the programs of HOPE <i>worldwide</i> of Canada.  
+				<p>The board of advisors meets quarterly to direct the chapter leader on how best to implement HOPE <i>worldwide</i> in the church and in the community.	
+				<p>Most importantly, they also serve as the voice of the volunteers.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/board.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/programs.jpg" alt=""></td>
+			<td>
+				Local chapters are responsible for local program development, human resources, financial and fundraising decisions.
+			</td>
+		</tr>
+	</table>
+</section>
+
+<section id="op">
+	<table cellpadding="5" >
+		<tr>
+			<td>
+				<h2>Locally Operated</h2><
+				Each chapter is operated by a locally appointed leader and a board of advisor.
+				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
+		</tr>
+	</table>
+</section>
+<section id="op">
+	<table cellpadding="5" >
+		<tr>
+			<td>
+				<h2>Locally Operated</h2><
+				Each chapter is operated by a locally appointed leader and a board of advisor.
+				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
+		</tr>
+	</table>
+</section>
 <h2><a name="prog">Programs</a></h2>
 <h2><a name="faith">Faith</a></h2>
 <h2><a name="why">Why Start a HOPE Chapter</a></h2>
