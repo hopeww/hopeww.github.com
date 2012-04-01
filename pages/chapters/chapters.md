@@ -4,7 +4,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters (md)"
 ---
 {% include JB/setup %}
 
-<a name="vision">Vision & Mission</a>
+<a name="vision">Vision and Mission</a>
 <a name="history">History</a>
 <a name="partners">Partners</a>
 <a name="local">Local Chapters</a>
