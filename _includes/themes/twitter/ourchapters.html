@@ -21,7 +21,10 @@
             search($('input#query').val());
           return false;
         }); 
+        $('#navbar').scrollspy();
+        $('#subnav').scrollspy();
       });
+
 
       function search(query) {
         //Try searching for 'Python', 'Hyde', 'Linux'.
