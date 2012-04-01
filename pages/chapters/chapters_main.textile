@@ -7,10 +7,9 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <p><br /></p>
 <p><br /></p>
 <p><br /></p>
-<p><br /></p>
-<p><br /></p>
 <section id="vision">
-<h2><a name="vision">Vision & Mission</a></h2>
+
+h2. Vision & Mission
 
 h4. Vision
 
