@@ -95,7 +95,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 	</table>
 </section>
 
-<section id="faith">
+<section id="programs">
 	<table cellpadding="5" >
 		<tr>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
@@ -179,7 +179,29 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>invite speakers to your church to talk about HOPE <i>worldwide</i> programs and news from other chapters </li>
 				</ul>
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg" alt=""></td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/service.jpg" alt=""></td>
+		</tr>
+	</table>
+</section>
+<section id="benefits">
+	<table cellpadding="5" >
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits.jpg" alt=""></td>
+			<td>
+				<h2>Benefits to your church</h2>
+				Service is an integral part of a follower of Christ.  It builds strong faith, increases gratefulness and obedience to the Word of God.
+
+				Volunteering with other faith groups serves to confirm one's faith rather than confuses it
+
+				It is an 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h2>Centrally Managed</h2>
+				The HOPE <i>worldwide</i> of Canada Board will manage local chapters and coordinate days of service, national partnerships, nationwide fundraising directives, and grants management.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
