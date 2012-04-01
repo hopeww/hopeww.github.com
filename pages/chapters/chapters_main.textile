@@ -191,33 +191,51 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				<h2>Benefits to your church</h2>
 				Service is an integral part of a follower of Christ.  It builds strong faith, increases gratefulness and obedience to the Word of God.
 
-				Volunteering with other faith groups serves to confirm one's faith rather than confuses it
+				<p>Volunteering with other faith groups serves to confirm one's faith rather than confuses it
 
-				It is an 
+				<p>It is an excellent public relations tool and outreach to the community.	
+
+				<p>The bottom line is that we get a more giving, grateful, and God glorifying church.
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<h2>Centrally Managed</h2>
-				The HOPE <i>worldwide</i> of Canada Board will manage local chapters and coordinate days of service, national partnerships, nationwide fundraising directives, and grants management.
+				<h2>Benefits to members and youths</h2>
+				A opportunity for members to discover and utilize certain gifts and talents that would otherwise not be used
+				<p>Allow for leadership opportunities
+				<p>Gives members a chance to be involved in the community
+				<p>Gives Exposure to tangible problems in the community
+				<p>Gives members a sense of fulfillment, being a part of a solution
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg" alt=""></td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits2.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits3.jpg" alt=""></td>
+			<td>
+				<h2>Benefits to the community</h2>
+				More children are cared for and 	given opportunities to develop & succeed, less children dropping out of school and becoming delinquents.
+				<p>Youth volunteers 	are involved	outside of church and in school
+				<p>People come together for a common cause
+				<p>The social energy and love provided by volunteers can spur other changes in the community
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>
+				<h2>Chapters are official parters of HOPE <i>worldwide</i> and receive special benefits</h2>
+				The permission to use HOPE <i>worldwide</i> name and logo
+				<p>Receive one-on-one support from Canada/US Team programs and other HOPE <i>worldwide</i> staff
+				<p>Access to Canada Revenue Agency (CRA) non profit status through HOPE <i>worldwide</i> of Canada Corporation
+				<p>Receive specialized chapter resources
+				<p>Participate in monthly Canada and US Team conference calls  to share ideas and plan programs
+				<p>Participate in HOPE <i>worldwide</i> of Canada and global initiatives
+				<p>Receive national recognition
+				<p>Invited to HOPE <i>worldwide</i> conferences and trainings
+			</td>
 		</tr>
 	</table>
 </section>
 
-<section id="why">
-	<table cellpadding="5" >
-		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
-			<td>
-				<h2>Why Start a HOPE Chapter</h2>
-				Each chapter is operated by a locally appointed leader and a board of advisor.
-				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
-			</td>
-		</tr>
-	</table>
-</section>
 <section id="contact">
 <h2><a name="contact">Contact Us</a></h2>
 For more information on starting a HOPE _worldwide_ of Canada Chapter, please contact our country director Chris Jung.  <a href="chris.jung@hopewwcanada.org"><i class="icon-envelope" ></i> &#160;chris.jung@hopewwcanada.org</a>, or call +1 647 802 6884.
