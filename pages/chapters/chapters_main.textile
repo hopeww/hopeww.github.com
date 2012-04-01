@@ -6,7 +6,9 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 <p><br /></p>
 <section id="vision">
+	
 h2. Vision & Mission
+
 <table>
 	<tr>
 		<td>
