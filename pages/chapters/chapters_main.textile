@@ -7,7 +7,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="vision">
 	<table>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt="">
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt=""></td>
 			<td>
 				<h2>Our Vision & Mission</h2>
 				<h3>Vision</h3>
@@ -18,7 +18,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<p>
 					HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.</p>
 			</td>
-			</td>
+			
 		</tr>
 	</table>
 </section>
