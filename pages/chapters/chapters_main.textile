@@ -1,6 +1,6 @@
 ---
 layout: ourchapters
-title: "Introduction to HOPE WorldWide of Canada Chapters"
+title: "Introduction to HOPE WorldWide of Canada Chapters (txt)"
 ---
 {% include JB/setup %}
 

@@ -1,21 +1,17 @@
 ---
 layout: ourchapters
-title: "Introduction to HOPE WorldWide of Canada Chapters (md)"
+title: "Introduction to HOPE WorldWide of Canada Chapters"
 ---
 {% include JB/setup %}
 
-<a name="vision">Vision and Mission</a>
-<a name="history">History</a>
-<a name="partners">Partners</a>
-<a name="local">Local Chapters</a>
-<a name="mgmt">Centrally Managed</a>
-<a name="op">Operations</a>
-<a name="board">Board of Advisors</a>
-<a name="acc">Accountability</a>
-<a name="prog">Programs</a>
-<a name="fin">Finances</a>
-<a name="drive">Members Driven</a>
-<a name="faith">Faith</a>
-<a name="fn">Functions of a Chapter</a>
-<a name="why">Why Start a HOPE Chapter</a>
-<a name="contact">Contact Us</a>
+<li><a name="vision">Vision & Mission</a></h1>
+<li><a name="history">History</a></h1>
+<h1><a name="partners">Partners</a></h1>
+<h1><a name="local">Local Chapters</a></h1>
+<h1><a name="mgmt">Management</a></h1>
+<h1><a name="op">Operations</a></h1>
+<h1><a name="acc">Accountability</a></h1>
+<h1><a name="prog">Programs</a></h1>
+<h1><a name="faith">Faith</a></h1>
+<h1><a name="why">Why Start a HOPE Chapter</a></h1>
+<h1><a name="contact">Contact Us</a></h1>
