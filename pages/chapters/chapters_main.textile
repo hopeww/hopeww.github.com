@@ -5,6 +5,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 {% include JB/setup %}
 
 <h2><a name="vision">Vision & Mission</a></h2>
+
 h4. Vision
 
 HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.
