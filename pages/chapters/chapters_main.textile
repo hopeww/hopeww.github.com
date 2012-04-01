@@ -5,6 +5,8 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 {% include JB/setup %}
 
 <h2><a name="vision">Vision & Mission</a></h2>
+h4. Vision
+HOPE _worldwide_
 <h2><a name="history">History</a></h2>
 <h2><a name="partners">Partners</a></h2>
 <h2><a name="local">Local Chapters</a></h2>
@@ -15,4 +17,4 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <h2><a name="faith">Faith</a></h2>
 <h2><a name="why">Why Start a HOPE Chapter</a></h2>
 <h2><a name="contact">Contact Us</a></h2>
-For more information on starting a HOPE WorldWide of Canada Chapter, please contact our country director Chris Jung.  <a href="chris.jung@hopewwcanada.org"><i class="icon-envelope" ></i> &#160;chris.jung@hopewwcanada.org</a>, or call +1 647 802 6884.
+For more information on starting a HOPE _worldwide_ of Canada Chapter, please contact our country director Chris Jung.  <a href="chris.jung@hopewwcanada.org"><i class="icon-envelope" ></i> &#160;chris.jung@hopewwcanada.org</a>, or call +1 647 802 6884.
