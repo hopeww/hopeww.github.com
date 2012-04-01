@@ -11,6 +11,13 @@
  header{
   font-family: Tahoma, sans-serif;
  }
+ section table{
+  width:50%;
+ }
+ section table td
+{
+vertical-align:bottom;
+}
 article,
 aside,
 details,
