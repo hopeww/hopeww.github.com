@@ -31,7 +31,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 <section id="history">
 <h2>Our History</h2><br />
-<table cellpadding=5>
+<table cellpadding=5 width="300">
 		<tr>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
 			<td>
@@ -42,6 +42,19 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 		</tr>
 	</table>
 </section>
+
+<section id="partners">
+<h2>Our Partners</h2><br />
+<table cellpadding=5 width="300">
+		<tr>
+			<td>
+				We are proud of our history of collaboration
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
+		</tr>
+	</table>
+</section>
+
 
 <h2><a name="partners">Partners</a></h2>
 <h2><a name="local">Local Chapters</a></h2>
