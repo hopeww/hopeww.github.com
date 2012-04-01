@@ -113,7 +113,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 		</tr>
 		<tr>
 			<td>
-				<h5>Service</h5>
+				<h3>Service</h3>
 				Ways to serve and care for the poor locally and in partnership with HOPE <i>worldwide</i> global affiliates.
 				<ul>
 					<li>after school programs</li>
@@ -138,6 +138,48 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				Members of any chapter can also serve abroad in programs such as HOPE Youth Corp and HOPE Volunteer Corp.
 			</td>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg" alt=""></td>
+			<td>
+				<h3>Fundraise</h3>
+				Aside from donations to the poor, resources may go towards
+				<ul>
+					<li>Your chapter's operational costs</li>
+					<li>HOPE worldwide of Canada costs</li>
+					<li>Global affiliates operational costs</li>
+					<li>In support of HOPE Youth / Volunteer Corp participants</li>
+					<li>Travel to the HOPE worldwide global summit and Canadian & US chapters' team conferences and training	</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Chapters may develop fundraising goals and hold fundraisers such as:
+				<ul>
+					<li>5k walk/run for HOPE worldwide</li>
+					<li>direct solitations from donors</li>
+					<li>in kind gifts</li>
+					<li>house party fundraisers</li>
+					<li>silent auctions</li>
+					<li>special contributions by local</li>
+				</ul>
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><h3>Inspire</h3>
+				To inspire chapter's volunteers, friends, and local community, we can	
+				<ul>
+					<li>organize a HOPE <i>worldwide</i> service for your Churches</li>
+					<li>advocate on behalf of people in need</li>
+					<li>develop your chapter's website </li>
+					<li>develop a <i>Season of Service</i> brochure for your church</li>
+					<li>faith based inspirational materials for chapter volunteers</li>
+					<li>invite speakers to your church to talk about HOPE <i>worldwide</i> programs and news from other chapters </li>
+				</ul>
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
