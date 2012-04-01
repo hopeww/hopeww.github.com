@@ -99,22 +99,11 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 	<table cellpadding="5" >
 		<tr>
 			<td>
-				<h2>Faith</h2>
+				<h2>Programs</h2>
 				Programs are designed to also inspire the faith of the volunteers.
-			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
-		</tr>
-		<tr>
-			<td>
 				Currently operating in 110 cities, including Canada and the Caribbeans.
 				<p>The programs impact over 110,000 people annually.
 				<p>More than 800 volunteers serve each year in Canada.
-			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
-		</tr>
-		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/functions.jpg" alt=""></td>
-			<td>
 				All HOPE programs strives to fulfill three main functions:
 				<ul>
 					<li>Service</li>
@@ -122,6 +111,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>Inspiring</li>
 				</ul>
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
 		</tr>
 		<tr>
 			<td>
@@ -136,6 +126,20 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				</ul>
 			</td>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg" alt=""></td>
+			<td>
+				<h5>Serving in the Local Community</h5>
+				HOPE <i>worldwide</i> volunteers provide thousands of hours serving their local communities.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h5>Serving in the Around the World</h5>
+				Members of any chapter can also serve abroad in programs such as HOPE Youth Corp and HOPE Volunteer Corp.
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
