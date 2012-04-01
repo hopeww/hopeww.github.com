@@ -11,7 +11,7 @@ HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's needie
 
 h4. Mission HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.
 
-!{{ ASSET_PATH }}/images/chapters/about/vision.jpg(vision)!
+!{{ ASSET_PATH }}images/chapters/about/vision.jpg(vision)!
 
 <h2><a name="history">History</a></h2>
 <h2><a name="partners">Partners</a></h2>
