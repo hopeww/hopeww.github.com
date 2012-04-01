@@ -10,31 +10,39 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <p><br /></p>
 <p><br /></p>
 <p><br /></p>
-<p><br /></p>
-<p><br /></p>
 <section id="vision">
+	<h2>Our Vision & Mission</h2>
+	<table>
+		<tr>
+			<td>
+				<h3>Vision</h3>
+					<p>
+					HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.</p>
 
-<h2>Vision & Mission</h2>
-
-<table>
-	<tr>
-		<td>
-			<h3>Vision</h3>
-				<p>
-				HOPE <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.</p>
-
-			<h3>Mission </h3>
-				<p>
-				HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.</p>
-		</td>
-		<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt="">
-		</td>
-	</tr>
-</table>
-
+				<h3>Mission </h3>
+					<p>
+					HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.</p>
+			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg" alt="">
+			</td>
+		</tr>
+	</table>
 </section>
 
-<h2><a name="history">History</a></h2>
+<section id="history">
+<h2>Our History</h2>
+<table>
+		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
+			<td>
+				<p>HOPE <i>worldwide</i> was founded in response to the Scriptures, which call us to have the heart of Jesus by serving the poor and needy around the world.
+				<p>We began in 1991 with three small local programs. Today, HOPE <i>worldwide</i> operates on every inhabited continent, serving more than one million people annually.
+
+			</td>
+		</tr>
+	</table>
+</section>
+
 <h2><a name="partners">Partners</a></h2>
 <h2><a name="local">Local Chapters</a></h2>
 <h2><a name="mgmt">Management</a></h2>
