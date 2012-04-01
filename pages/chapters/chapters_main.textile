@@ -6,7 +6,13 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 <h2><a name="vision">Vision & Mission</a></h2>
 h4. Vision
-HOPE _worldwide_
+
+HOPE _worldwide_'s vision is to bring hope and change to the world's neediest people.
+
+h4. Mission
+
+HOPE _worldwide_ is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.
+
 <h2><a name="history">History</a></h2>
 <h2><a name="partners">Partners</a></h2>
 <h2><a name="local">Local Chapters</a></h2>
