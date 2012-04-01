@@ -168,6 +168,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg" alt=""></td>
 		</tr>
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/service.jpg" alt=""></td>
 			<td><h3>Inspire</h3>
 				To inspire chapter's volunteers, friends, and local community, we can	
 				<ul>
@@ -179,14 +180,12 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>invite speakers to your church to talk about HOPE <i>worldwide</i> programs and news from other chapters </li>
 				</ul>
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/service.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
 <section id="benefits">
 	<table cellpadding="5" >
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits.jpg" alt=""></td>
 			<td>
 				<h2>Benefits to your church</h2>
 				Service is an integral part of a follower of Christ.  It builds strong faith, increases gratefulness and obedience to the Word of God.
@@ -197,8 +196,10 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 				<p>The bottom line is that we get a more giving, grateful, and God glorifying church.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits.jpg" alt=""></td>
 		</tr>
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits2.jpg" alt=""></td>
 			<td>
 				<h2>Benefits to members and youths</h2>
 				A opportunity for members to discover and utilize certain gifts and talents that would otherwise not be used
@@ -207,10 +208,8 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				<p>Gives Exposure to tangible problems in the community
 				<p>Gives members a sense of fulfillment, being a part of a solution
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits2.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits3.jpg" alt=""></td>
 			<td>
 				<h2>Benefits to the community</h2>
 				More children are cared for and 	given opportunities to develop & succeed, less children dropping out of school and becoming delinquents.
@@ -218,6 +217,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				<p>People come together for a common cause
 				<p>The social energy and love provided by volunteers can spur other changes in the community
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits3.jpg" alt=""></td>
 		</tr>
 		<tr>
 			<td></td>
