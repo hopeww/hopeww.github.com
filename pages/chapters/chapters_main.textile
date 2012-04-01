@@ -100,10 +100,8 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 		<tr>
 			<td>
 				<h2>Programs</h2>
-				Programs are designed to also inspire the faith of the volunteers.
-				Currently operating in 110 cities, including Canada and the Caribbeans.
-				<p>The programs impact over 110,000 people annually.
-				<p>More than 800 volunteers serve each year in Canada.
+				Programs are designed with the goal in mind to also inspire the faith of the volunteers.
+				Currently we are operating in 110 cities, including Canada and the Caribbeans, impacting over 110,000 people annually. More than 800 volunteers serve each year in Canada.
 				All HOPE programs strives to fulfill three main functions:
 				<ul>
 					<li>Service</li>
