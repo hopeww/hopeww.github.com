@@ -53,20 +53,20 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="govern">
 	<table cellpadding="5" >
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
 			<td>
 				<h2>Local Chapters Governance</h2>
 				Stated in the U.S., there are currently 110 Chapters.  Formerly chapters were named 'branches' or 'subsidiaries'.  Our goal is to have 141 U.S. chapters by the end of 2012.
 				<p> We started with 4 chapters in Canada. Our goal is to have 11 by the end of 2012.	
 				<p> Each chapter will be governed by our Canadian Board of Directors and supported by a Local Board of Advisors.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg" alt=""></td>
 			<td>
 				<h2>Centrally Managed</h2>
 				The HOPE <i>worldwide</i> of Canada Board will manage local chapters and coordinate days of service, national partnerships, nationwide fundraising directives, and grants management.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
@@ -74,6 +74,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="op">
 	<table cellpadding="5" >
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/board.jpg" alt=""></td>
 			<td>
 				<h2>Locally Operated</h2>
 				Each chapter is operated by a locally appointed leader and a board of advisors.
@@ -81,15 +82,14 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 				<p>The board of advisors meets quarterly to direct the chapter leader on how best to implement HOPE <i>worldwide</i> in the church and in the community.	
 				<p>Most importantly, they also serve as the voice of the volunteers.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/board.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/programs.jpg" alt=""></td>
 			<td>
 				Local chapters are responsible for local program development, human resources, financial and fundraising decisions.
 
 				<p>Moreover, each chapter is responsible for local volunteer recruitment and management.  They are also responsible to directing all the volunteer run programs, and organization with the goal of meeting the needs of that community.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/programs.jpg" alt=""></td>
 		</tr>
 		
 	</table>
@@ -98,6 +98,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="faith">
 	<table cellpadding="5" >
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
 			<td>
 				<h2>Programs</h2>
 				Programs are designed with the goal in mind to also inspire the faith of the volunteers.
@@ -109,10 +110,8 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>Inspiring</li>
 				</ul>
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
 			<td>
 				<h5>Service</h5>
 				Ways to serve and care for the poor locally and in partnership with HOPE <i>worldwide</i> global affiliates.
@@ -124,20 +123,21 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 					<li>HOPE Youth / Volunteer / Disaster Response Corp</li>
 				</ul>
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg" alt=""></td>
 		</tr>
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg" alt=""></td>
 			<td>
 				<h5>Serving in the Local Community</h5>
 				HOPE <i>worldwide</i> volunteers provide thousands of hours serving their local communities.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg" alt=""></td>
 		</tr>
 		<tr>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
 			<td>
 				<h5>Serving in the Around the World</h5>
 				Members of any chapter can also serve abroad in programs such as HOPE Youth Corp and HOPE Volunteer Corp.
 			</td>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
@@ -145,12 +145,12 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 <section id="why">
 	<table cellpadding="5" >
 		<tr>
+			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
 			<td>
 				<h2>Why Start a HOPE Chapter</h2>
 				Each chapter is operated by a locally appointed leader and a board of advisor.
 				<p>They are servant leaders, who either bring a certain skill to the table or have the heart for the poor, and for the programs of HOPE <i>worldwide</i> of Canada in general.
 			</td>
-			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/we_volunteer.jpg" alt=""></td>
 		</tr>
 	</table>
 </section>
