@@ -260,7 +260,7 @@ dark.row-fluid {
   *zoom: 1;
 }
 .row-fluid h2{
-  background-color:silver;
+  background-color:#FFFFCC;
 }
 .row-fluid:before,
 .row-fluid:after {
