@@ -259,6 +259,9 @@ dark.row-fluid {
   width: 100%;
   *zoom: 1;
 }
+.row-fluid h2{
+  background-color:silver;
+}
 .row-fluid:before,
 .row-fluid:after {
   display: table;
