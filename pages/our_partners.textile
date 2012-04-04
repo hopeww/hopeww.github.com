@@ -6,11 +6,11 @@ title: "Partners and Affiliates"
 
 h2. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
 
-!/assets/themes/twitter/images/about_us/our_partners_1.jpg!
+!/assets/themes/twitter/images/about_us/our_partners_1.jpg!:http://www.hopeww.org
 
 <hr />
 
-h4. Our Global Affliates
+h2. Our Global Affliates
 
 
 * Afghanistan
@@ -41,6 +41,6 @@ h4. Our Global Affliates
 
 <hr />
 
-h4. Our Global Affliates
+h2. Our Global Affliates
 
 !/assets/themes/twitter/images/about_us/our_partners_2.jpg!:http://www.canadianchurches.info/dir/
