@@ -1,5 +1,46 @@
 ---
 layout: page
-title: "Our Partners"
+title: "Partners and Affiliates"
 ---
 {% include JB/setup %}
+
+h2. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
+
+!/assets/themes/twitter/images/about_us/our_partners_1.jpg!
+
+<hr />
+
+h4. Our Global Affliates
+
+
+# "Afghanistan"
+# "Australia"
+# "Brazil"
+# "Canada"
+# "China"
+# "Croatia"
+# "Ethiopia"
+# "Germany"
+# "Honduras"
+# "India"
+# "Indonesia"
+# "Jamaica"
+# "Kenya"
+# "Lithuania"
+# "Malaysia"
+# "Nigeria"
+# "Panama"
+# "Papua New Guinea"
+# "Philippines"
+# "Russia"
+# "Singapore"
+# "South Africa"
+# "Thailand"
+# "United Kingdom"
+# "United States"
+
+<hr />
+
+h4. Our Global Affliates
+
+!/assets/themes/twitter/images/about_us/our_partners_2.jpg!:http://www.canadianchurches.info/dir/
