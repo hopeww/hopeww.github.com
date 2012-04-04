@@ -8,8 +8,11 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
- .img-center{
-  float: center;
+ .img-right{
+  float: right;
+ }
+ .img-left{
+  float: left;
  }
  
  header{
