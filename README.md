@@ -1,6 +1,24 @@
+## Stack
+[IndexTank](http://indextank.com)
+[Jekyll IndexTank Plugin](https://github.com/PascalW/jekyll_indextank)
+[Jekyll Bootstrap](http://jekyllbootstrap.com/)
+#### supporting
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+[Glossy.js](http://www.netzgesta.de/glossy/)
+[Fontawesom](http://fortawesome.github.com/Font-Awesome/)
+[Fontawesom](http://fortawesome.github.com/Font-Awesome/)
+[Bootswatch](http://bootswatch.com/)
+
+
+## Unused Pages 
+pages.html
+archive.html
+tags.html
+categories.html
+aboutus.html
+
 # Jekyll-Bootstrap
 
-# https://github.com/PascalW/jekyll_indextank
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
