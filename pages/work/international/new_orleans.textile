@@ -15,7 +15,7 @@ This is an interview with a volunteer who had visited the New Orleans site.
 h2. Tell us about yourself (occupation, hobbies, future aspirations)
 
 My name is Ian Liwanag. I'm an ex-electrician that has given up the trade (since 92) to pursue my passion in photography. Also a Dj of 26 years, I continue to be part of my client's most important date of their lives…. their wedding day. I'm blessed to be doing what I've been loving for so long that it makes a difference in my clients lives. I'm not just any "DJ" as my clients always tell me. "My website":http://www.ianliwanag.com
-
+!(img-right)/assets/themes/twitter/images/work/international/new_orleans_4.png!
 
 h2. Why did you decide to take part in the New Orleans Outreach Trip
 
@@ -31,7 +31,8 @@ and Neville Yee, Kassie & Nature Gibner, Kristin Stewart, Brett Livesey, Lindsay
 
 I was also interested in documenting our efforts to let people know exactly what still exists today and that still needs to be done in the years to come.
 
-!(img-right)/assets/themes/twitter/images/work/international/new_orleans_4.png!
+!(img-right)/assets/themes/twitter/images/work/international/new_orleans_2.png!
+<br />
 
 h2. What were some of the highlights of your experience in New Orleans?
 
@@ -50,8 +51,7 @@ We learned a trade! For some who have never held a hammer, nail gun, paint brush
 To know that the homeowner is trusting a complete stranger to enter their home to work and all they can give in return is a "thank you". What do you say to that? How would you feel if you were in their shoes? 
 
 As Sister Judy of the St. Bernard project put it: "For every imperfection from the volunteers, it's a gift to the homeowner, a reminder, that a stranger cared enough to help"
-!(img-right)/assets/themes/twitter/images/work/international/new_orleans_2.png!
-<br />
+
 
 h2. What’s a typical day like during your trip?
 
@@ -60,14 +60,14 @@ One day to soak up all New Orleans has to offer. Sights, sounds and food.
 Next day 7am wake up/shower/breakfast. 8:15am leave dorm and head to job site. 9am start work. Breaks and lunch are obviously normal like any other job. 4pm clean-up. 5pm shower/rest/get ready for dinner. 10pm lights out.
 
 Breakfast and Dinner were included in the accommodations.
+!(img-right)/assets/themes/twitter/images/work/international/new_orleans_3.png!
 <br />
+
 
 
 h2. What did you enjoy most about your experience in New Orleans?
 
 The fact that we made a difference in the community. We have touched someone's life in ways they never though
-!(img-right)/assets/themes/twitter/images/work/international/new_orleans_3.png!
-<br />
 
 h2. What did this experience in New Orleans teach you?
 
@@ -78,6 +78,8 @@ h2. Any advice to offer those interested in going to New Orleans next year?
 
 This is the best and most rewarding trip you will ever make. DO IT! You will never regret, but only look for a time again to make a difference in a person's life. It's life changing.
 
+!(img-right)/assets/themes/twitter/images/work/international/new_orleans_1.png!
+<br />
 
 h2. Has this experience helped you view to service to the poor and needy differently from before? 
 
@@ -87,5 +89,3 @@ YES!!! They are people too. And just like us when we need a hand we may ask for 
 h2. Any final thoughts?
 
 I hope to personally share your joys next year in 2012 to tell me, "Ian, I'm glad I came."
-!(img-right)/assets/themes/twitter/images/work/international/new_orleans_1.png!
-<br />
