@@ -25,6 +25,7 @@ Volunteerism presents you with wonderful opportunities for professional developm
 
 7. __Creates an environment of engagement, collaboration, support and respect.  Through volunteering you not only get involved, but you can encourage others to join you, and craft new solutions to community problems.__  Working in volunteer settings will help you to develop strategic thinking, change management and conflict resolution skills.  Provides a great instrument for collaboration and creative problem solving.
 
+----
 
 Re-energizes and renews your faith in life and society.  Volunteer work relating to a personal interest or hobby can be fun, relaxing and energizing.  Volunteering fosters hope not only in your life, but in the lives of people you help.  It allows you to empower yourself and your community.
 
