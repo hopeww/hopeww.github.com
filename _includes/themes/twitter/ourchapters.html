@@ -34,9 +34,7 @@
       <footer>
         <hr />
         <br />
-        <p>&copy; {{ site.author.name }} 2012.
-          Made with <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-        </p>
+        {% include foot_text.html %}
       </footer>
 
     </div> <!-- /container -->
@@ -45,24 +43,7 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/glossy.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/cvi_glossy_lib.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/glossy/cvi_istack_lib.js"></script>
-    <!--
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-transition.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-alert.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-modal.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-dropdown.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-scrollspy.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-tab.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-tooltip.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-popover.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-button.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-collapse.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-carousel.js"></script>
-  -->
+    {% include load_js.html %}
     
     <!-- Analytics
     ================================================== -->
