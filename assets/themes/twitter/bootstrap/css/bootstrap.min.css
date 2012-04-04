@@ -14,6 +14,12 @@
  .img-left{
   float: left;
  }
+
+ .center
+{
+margin-left:auto;
+margin-right:auto;
+}
  
  header{
   font-family: Tahoma, sans-serif;

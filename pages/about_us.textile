@@ -4,7 +4,7 @@ title: "About Us"
 ---
 {% include JB/setup %}
 
-!/assets/themes/twitter/images/about_us/about_us_banner.jpg!
+!(center)/assets/themes/twitter/images/about_us/about_us_banner.jpg!
 
 <hr />
 
