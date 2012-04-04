@@ -625,7 +625,7 @@
 
   $(function () {
     $('html').on('click.dropdown.data-api', clearMenus)
-    $('body').on('click.dropdown.data-api', toggle, Dropdown.prototype.toggle)
+    $('body').on('mouseover.dropdown.data-api', toggle, Dropdown.prototype.toggle)
   })
 
 }( window.jQuery );/* =========================================================
