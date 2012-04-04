@@ -13,31 +13,31 @@ h2. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
 h4. Our Global Affliates
 
 
-# "Afghanistan"
-# "Australia"
-# "Brazil"
-# "Canada"
-# "China"
-# "Croatia"
-# "Ethiopia"
-# "Germany"
-# "Honduras"
-# "India"
-# "Indonesia"
-# "Jamaica"
-# "Kenya"
-# "Lithuania"
-# "Malaysia"
-# "Nigeria"
-# "Panama"
-# "Papua New Guinea"
-# "Philippines"
-# "Russia"
-# "Singapore"
-# "South Africa"
-# "Thailand"
-# "United Kingdom"
-# "United States"
+* Afghanistan
+* Australia
+* Brazil
+* Canada
+* China
+* Croatia
+* Ethiopia
+* Germany
+* Honduras
+* India
+* Indonesia
+* Jamaica
+* Kenya
+* Lithuania
+* Malaysia
+* Nigeria
+* Panama
+* Papua New Guinea
+* Philippines
+* Russia
+* Singapore
+* South Africa
+* Thailand
+* United Kingdom
+* United States
 
 <hr />
 
