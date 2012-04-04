@@ -34,4 +34,4 @@ Be an active participant in your life, grow and develop, motivate others, embrac
 ----
 
 #### footnotes
-1.  Corporation for National and Community Service, Office of Research and Policy Development. The Health Benefits of Volunteering: A Review of Recent Research [link](http://www.nationalservice.gov/about/volunteering/benefits.asp "Benefits of Volunteering"). Washington, DC 2007.
+1.  Corporation for National and Community Service, Office of Research and Policy Development. [The Health Benefits of Volunteering: A Review of Recent Research ](http://www.nationalservice.gov/about/volunteering/benefits.asp "Benefits of Volunteering"). Washington, DC 2007.
