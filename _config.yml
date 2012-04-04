@@ -73,6 +73,7 @@ JB :
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /archive.html
+  categories_list: custom
   categories_path : /categories.html
   tags_path : /tags.html
 
