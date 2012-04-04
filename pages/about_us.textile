@@ -4,7 +4,7 @@ title: "About Us"
 ---
 {% include JB/setup %}
 
-!/assets/themes/twitter/images/about_us/about_us_banner.JPG!
+!/assets/themes/twitter/images/about_us/about_us_banner.jpg!
 
 h2. About Us
 
@@ -19,7 +19,7 @@ To develop innovative programs and events that engage volunteers and communities
 
 h2. Charity Information
 
-|Legal Name| HOPE worldwide OF CANADA|
-|BN| 888159860RR0001|
-|Address| 11 Parkside Drive, Toronto, ON, Canada M6R2Y7|
-|Contact us| "(icon-envelope) &nbsp;)":mailto:info@hopewwcanada.org|
+|Legal Name|&nbsp;&nbsp; HOPE worldwide OF CANADA|
+|BN|&nbsp;&nbsp; 888159860RR0001|
+|Address|&nbsp;&nbsp; 11 Parkside Drive, Toronto, ON, Canada M6R2Y7|
+|Contact us|&nbsp;&nbsp; "(icon-envelope) &nbsp;":mailto:info@hopewwcanada.org|
