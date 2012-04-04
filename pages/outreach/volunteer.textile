@@ -4,9 +4,13 @@ title: "Volunteer"
 ---
 {% include JB/setup %}
 
+
+
 h2. Articles
 
 "Grow, Give back, Hope! Benefits of Volunteering":/pages/articles/benefits_volunteering.html
+
+<hr />
 
 h2. Opportunities in Toronto
 
