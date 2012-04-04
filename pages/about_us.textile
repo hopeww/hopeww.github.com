@@ -6,6 +6,8 @@ title: "About Us"
 
 !/assets/themes/twitter/images/about_us/about_us_banner.jpg!
 
+<hr />
+
 h2. About Us
 
 We are a registered non-profit charity, headquartered in Toronto, Ontario. Our grass-roots work began in 1993 with one program and has now grown to serve thousands of poor and needy individuals in Canada's major urban centres.
