@@ -3,3 +3,5 @@ layout: page
 title: "New Orleans"
 ---
 {% include JB/setup %}
+
+<iframe src="http://player.vimeo.com/video/26805867?portrait=0" width="400" height="300" frameborder="0" title="JoomlaWorks AllVideos Player"></iframe>
