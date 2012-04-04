@@ -6,6 +6,8 @@ title: "Volunteer"
 
 h2. Articles
 
+"Grow, Give back, Hope! Benefits of Volunteering":/pages/articles/benefits_volunteering.html
+
 h2. Opportunities in Toronto
 
 |GTA Regional Program Coordinator|Posted on Sept 05 2011|"Details":https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl|
