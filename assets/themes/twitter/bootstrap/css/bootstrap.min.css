@@ -10,6 +10,7 @@
  */
  .img-right{
   float: right;
+  padding: 5px;
  }
  .img-left{
   float: left;
