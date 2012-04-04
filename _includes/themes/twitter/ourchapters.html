@@ -1,72 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
-
-     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/custom.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/bootstrap/css/font-awesome.css" rel="stylesheet">
-    
-    <script src="{{ ASSET_PATH }}/bootstrap/js/jquery.min.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap-scrollspy.js"></script>
-    <script src="{{ ASSET_PATH }}/bootstrap/js/application.js"></script>
-    <script type="text/javascript">
-      //just a quick example, in no way pretty code.
-      
-      $(document).ready(function() {
-        $('form#search').button().submit(function() {
-            search($('input#query').val());
-          return false;
-        }); 
-        $('#subnav').scrollspy();
-      });
-
-
-      function search(query) {
-        var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
-          $('div#results').empty();
-          $.each(data.results, function(index, result) {
-            $('div#results').append('<div id="result">\
-                <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
-                ' + result.snippet_text + '</p>\
-            </div')
-          });
-        });
-      }
-    </script>
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le fav and touch icons -->
-  </head>
+  {% include head.html %}
 
   <body>
 
-   <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner" >
-        <div class="container" >
-          <a class="brand" href="{{ HOME_PATH }}">
-            {{ site.title }}
-          </a>
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
-          <form id="search" class="navbar-search pull-left" >
-            <input type="text" id="query" name="query" class="search-query span2"/>
-            <button class="btn" data-toggle="button">Search</button>
-          </form>
-        </div>
-      </div>
-    </div>
+   {% include navbar.html %}
 
     <div class="container">
       <p><br /><p>
