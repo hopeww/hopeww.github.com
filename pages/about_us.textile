@@ -11,17 +11,15 @@ h2. About Us
 We are a registered non-profit charity, headquartered in Toronto, Ontario. Our grass-roots work began in 1993 with one program and has now grown to serve thousands of poor and needy individuals in Canada's major urban centres.
 We are affiliated with HOPE worldwide, a non-profit charity, headquartered in Philadelphia, the city of brotherly love. We share HOPE worldwide's mission, which is as simple as its name: Bringing Hope, Changing Lives
 
-<p><br /><p>
 
 h2. Mission
 
 To develop innovative programs and events that engage volunteers and communities to meet the needs of the poor and needy, bringing hope and changing lives.
 
-<p><br /><p>
 
 h2. Charity Information
 
-|Legal Name:| HOPE worldwide OF CANADA|
-|BN:| 888159860RR0001|
-|Address:| 11 Parkside Drive, Toronto, ON, Canada M6R2Y7|
-|Contact us:| "(icon-envelope) &nbsp;)":mailto:info@hopewwcanada.org|
+|Legal Name| HOPE worldwide OF CANADA|
+|BN| 888159860RR0001|
+|Address| 11 Parkside Drive, Toronto, ON, Canada M6R2Y7|
+|Contact us| "(icon-envelope) &nbsp;)":mailto:info@hopewwcanada.org|
