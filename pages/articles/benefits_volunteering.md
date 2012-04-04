@@ -19,7 +19,7 @@ Volunteerism presents you with wonderful opportunities for professional developm
 
 # *Provides hope and assistance to those in need and inspires you to contribute your skills, knowledge and talent to an organization, a cause, a goal.*  You can volunteer at a time that fits your schedule. Volunteering is an excellent way to put vision into action and become active in your local and global community.
 
-# *Contributes to the success of your community and generates an inner feeling of good will, happiness and spirituality.  Volunteering allows you to become passionate about life and promotes a sense of purpose.* Research has shown that people who volunteer live longer and have a more positive outlook on life. <sub>1<sub>
+# *Contributes to the success of your community and generates an inner feeling of good will, happiness and spirituality.  Volunteering allows you to become passionate about life and promotes a sense of purpose.* Research has shown that people who volunteer live longer and have a more positive outlook on life. <sup>1</sup>
 
 # *Raises your profile within your community, organizations and committees you are affiliated with (work, churches, societies).*  Volunteering can expose you to a wide range of people, including many strong, influential community leaders.  Through volunteer work, you can build your personal brand and become known as a “solution maker”, “creative thinker”, “passionate, dedicated, person”, “person of integrity”.
 
@@ -31,4 +31,4 @@ Re-energizes and renews your faith in life and society.  Volunteer work relating
 Be an active participant in your life, grow and develop, motivate others, embrace the journey, have faith and give back to your community.
 
 ---
-<sub>1.  Corporation for National and Community Service, Office of Research and Policy Development. [The Health Benefits of Volunteering: A Review of Recent Research](http://www.nationalservice.gov/about/volunteering/benefits.asp "Benefits of Volunteering"). Washington, DC 2007.</sub>
+<sup>1.  Corporation for National and Community Service, Office of Research and Policy Development. [The Health Benefits of Volunteering: A Review of Recent Research](http://www.nationalservice.gov/about/volunteering/benefits.asp "Benefits of Volunteering"). Washington, DC 2007.</sup>
