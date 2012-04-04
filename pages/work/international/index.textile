@@ -7,7 +7,7 @@ title: "International Relief Assistance"
 
 h2. Philippines Update
 
-!/assets/themes/twitter/images/work/international/main_1_phillipns.jpg!
+!(img-right)/assets/themes/twitter/images/work/international/main_1_phillipns.jpg!
 
 Since 2010, HOPE worldwide of Canada has contributed funds to restore and improve the Laguna Centre of HOPE in the Philippines. Much has been accomplished since 2010. Read about their progress in this feature report.
 
@@ -17,7 +17,7 @@ Since 2010, HOPE worldwide of Canada has contributed funds to restore and improv
 
 h2. St. Lucia Update
 
-!/assets/themes/twitter/images/work/international/main_st_lucia.png!
+!(img-right)/assets/themes/twitter/images/work/international/main_st_lucia.png!
 
 An ophthalmic camera was donated that will serve as a further tool by which public health practitioners in Saint Lucia will diagnose and treat eye ailments in particular those associated with diabetes.
 
@@ -25,7 +25,7 @@ An ophthalmic camera was donated that will serve as a further tool by which publ
 
 h2. New Orleans Update
 
-!/assets/themes/twitter/images/work/international/main_neworleans.png!
+!(img-right)/assets/themes/twitter/images/work/international/main_neworleans.png!
 
 In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina.
 
