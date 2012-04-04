@@ -1,5 +1,5 @@
 ---
-p(right).layout: page
+layout: page
 title: "New Orleans"
 ---
 {% include JB/setup %}
@@ -30,7 +30,8 @@ Again, know that I went on this trip with my wife Grace, our son Anthony (18 yea
 and Neville Yee, Kassie & Nature Gibner, Kristin Stewart, Brett Livesey, Lindsay Jurado, and Cheryl Parker. I was not a Christian at the time. 
 
 I was also interested in documenting our efforts to let people know exactly what still exists today and that still needs to be done in the years to come.
-!/assets/themes/twitter/images/work/international/new_orleans_1.png!
+
+!(img-center)/assets/themes/twitter/images/work/international/new_orleans_1.png!
 
 h2. What were some of the highlights of your experience in New Orleans?
 
