@@ -18,6 +18,47 @@ author :
   twitter : HOPEwwofCanada
   feedburner : feedname
 
+headquarters-info:
+  address : "11 Parkside Drive"
+  city : Toronto
+  province : Ontario
+  country : Canada
+  postalcode : M6R2Y7
+  phone : 1 416 278 7607
+
+departments :
+  volunteer-management :
+    name : Racine Mandrage
+    email : volunteer@hopewwcanada.org
+  marketing-communications :
+    name : Vuso Moyana
+    email : communications@hopewwcanada.org
+  webmastering :
+    name : Joyce chan
+    email : joyce.chan@hopewwcanada.org
+  country-director :
+    name : Chris Jung
+    email : chris.jung@hopewwcanada.org
+  cities :
+    toronto-director :
+      name : Golden Iriah
+      email : golden.iriah@hopewwcanada.org
+    montreal-director :
+      name : Anne Du Sault
+      email : anne.dusault@hopewwcanada.org
+
+social-media-presence :
+  facebook : https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
+  twitter : "https://twitter.com/#!/HOPEwwofCanada"
+  canadahelps : http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456
+
+#indextank_index: HOPEWW 
+#indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
+
+indextank_index: HOPE_WorldWide_of_Canada  
+indextank_api_url: http://:Pk4kJPFRIhptDd@txje.api.indextank.com
+
+indextank_excludes: [404.html, ^/secret/]
 
 
 # The production_url is only used when full-domain names are needed
@@ -127,10 +168,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-#indextank_index: HOPEWW 
-#indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
-
-indextank_index: HOPE_WorldWide_of_Canada  
-indextank_api_url: http://:Pk4kJPFRIhptDd@txje.api.indextank.com
-
-indextank_excludes: [404.html, ^/secret/]

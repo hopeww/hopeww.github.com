@@ -6,26 +6,26 @@ title: "Contact Us"
 
 h2. By Phone
 
-1 416 278 7607 (Toronto)
+{{ site.headquarters-info.phone }} ({{ site.headquarters-info.city }})
 
 h2. Mailing Address
 
-11 Parkside Drive,
+{{ site.headquarters-info.address }},
 
-Toronto, ON,
+{{ site.headquarters-info.city }}, {{ site.headquarters-info.province }},
 
-Canada M6R2Y7
+{{ site.headquarters-info.country }} {{ site.headquarters-info.postalcode }}
 
  
 
 h2. Email regarding
 
-"(icon-envelope) &nbsp;Volunteer Management( Volunteer Management)":mailto:volunteer@hopewwcanada.org
-"(icon-envelope) &nbsp;Marketing and Communications( Marketing and Communications)":mailto:communications@hopewwcanada.org
-"(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.author.email }}
+"(icon-envelope) &nbsp;Volunteer Management( Volunteer Management)":mailto:{{ site.deparments.volunteer-management.email }}
+"(icon-envelope) &nbsp;Marketing and Communications( Marketing and Communications)":{{ site.deparments.volunteer-management.communications }}
+"(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.deparments.webmastering.email }}
 
 h2. Social Media
 
-"(icon-facebook-sign) &nbsp;Facebook( Facebook)":https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
+"(icon-facebook-sign) &nbsp;Facebook( Facebook)":{{ site.social-media-presence.facebook }}
 
-"(icon-twitter-sign) &nbsp;Twitter( Twitter)":https://twitter.com/#!/HOPEwwofCanada
+"(icon-twitter-sign) &nbsp;Twitter( Twitter)":{{ site.social-media-presence.twitter }}
