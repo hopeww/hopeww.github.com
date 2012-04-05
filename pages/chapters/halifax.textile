@@ -3,3 +3,17 @@ layout: page
 title: "Halifax"
 ---
 {% include JB/setup %}
+
+h2. Past Chapter Activities
+
+h6. Singing Christmas Carols at Melville Heights Retirement Home 
+
+Members of the congregation are singing in support for ARK Outreach Ministries Sunday Supper Gift Baskets HDCC donated funds to help purchase Christmas Baskets for some of the guests of this program (various local congregations are als helping)
+
+h6. Youth & Family Ministry Christmas Cards for Canadian Forces serving overseas
+
+Our Youth & Family Ministry wrote & mailed Christmas cards to send overseas to our service men and women who will be away for the holidays
+
+h2. Chapter Information
+
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.edmonton-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.edmonton-director.email }}

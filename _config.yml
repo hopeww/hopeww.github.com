@@ -47,6 +47,18 @@ departments :
     montreal-director :
       name : Anne Du Sault
       email : anne.dusault@hopewwcanada.org
+    vancouver-director :
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
+    edmonton-director :
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
+    halifax-director :
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
+    hamilton-director :
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
 
 social-media-presence :
   facebook : https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
