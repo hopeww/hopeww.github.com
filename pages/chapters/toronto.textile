@@ -12,7 +12,7 @@ title: "Toronto"
 
 h2. What HOPE worldwide of Canada means to me?
 
-{{ site.departments.cities.toronto-director.blurb }}
+HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE is an avenue to provide light and hope to the downtrodden and those who feel that they have no hope in the rough and tough world in which we live.
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.cities.toronto-director.name }}, Chapter Director__
 
