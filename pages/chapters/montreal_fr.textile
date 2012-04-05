@@ -8,7 +8,6 @@ title: "Montréal (Version française)"
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
 </div>
 
-<hr />
 
 h2. Nouvelles de notre chapitre
 
@@ -18,11 +17,9 @@ h6. Activités de HOPE worldwide à Montréal en 2011 Octobre à Décembre
 * Collecte de fonds pour la construction d’une école à Bodarie (Haïti) Décembre
 * Activités de Noël pour les enfants défavorisés
 
-<hr />
 
 h2. L'information de notre chapitre
 
 Pour plus d'informations sur le Chapitre du Québec, s'il vous plaît contacter {{ site.departments.cities.montreal-director.name }}: {{ site.departments.cities.montreal-director.email }}
-<hr />
 
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner2.jpg!

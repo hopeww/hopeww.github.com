@@ -25,12 +25,13 @@ headquarters-info:
   country : Canada
   postalcode : M6R2Y7
   phone : 1 416 278 7607
-
+  contacts-page : /contact_us.html
+  
 departments :
   volunteer-management :
     name : Racine Mandrage
     email : volunteer@hopewwcanada.org
-  marketing-communications :
+  marcom :
     name : Vuso Moyana
     email : communications@hopewwcanada.org
   webmastering :

@@ -10,9 +10,10 @@ title: "Toronto"
 
 
 h2. What HOPE worldwide of Canada means to me?
- 
 
-~ Chris Jung, Chapter Director
+HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE is an avenue to provide light and hope to the downtrodden and those who feel that they have no hope in the rough and tough world in which we live.
+
+<i class="icon-leaf"> Golden Iriah, Chapter Director </i>
 
 h2. Past Chapter Activities
 
@@ -31,4 +32,4 @@ Read our latest newsletter (Feb 27, 2010)
 
 h2. Chapter Information
 
-For more information on the Toronto Chapter, please contact Chris Jung: chris.jung@hopewwcanada.org
+For more information on the Toronto Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.toronto-director.name }}( Toronto Chapter Director)":mailto:{{ site.departments.cities.toronto-director.email }}

@@ -20,9 +20,9 @@ h2. Mailing Address
 
 h2. Email regarding
 
-"(icon-envelope) &nbsp;Volunteer Management( Volunteer Management)":mailto:{{ site.deparments.volunteer-management.email }}
-"(icon-envelope) &nbsp;Marketing and Communications( Marketing and Communications)":{{ site.deparments.volunteer-management.communications }}
-"(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.deparments.webmastering.email }}
+"(icon-envelope) &nbsp;Volunteer Management( Volunteer Management)":mailto:{{ site.departments.volunteer-management.email }}
+"(icon-envelope) &nbsp;Marketing and Communications( Marcom)":mailto:{{ site.departments.marcom.email }}
+"(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}
 
 h2. Social Media
 
