@@ -47,6 +47,9 @@ departments :
     montreal-director :
       name : Anne Du Sault
       email : anne.dusault@hopewwcanada.org
+    winnipeg-director :
+      name : Kimberlee Potter
+      email : kimberlee.potter@hopewwcanada.org
     vancouver-director :
       name : Chris Jung
       email : chris.jung@hopewwcanada.org

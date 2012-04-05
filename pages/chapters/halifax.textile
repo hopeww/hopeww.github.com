@@ -3,6 +3,7 @@ layout: page
 title: "Halifax"
 ---
 {% include JB/setup %}
+{% assign city="Halifax" %}
 
 h2. Past Chapter Activities
 

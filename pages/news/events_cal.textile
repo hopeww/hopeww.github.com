@@ -3,3 +3,10 @@ layout: page
 title: "Events Calendar"
 ---
 {% include JB/setup %}
+
+
+<iframe id="gcalendar_frame" src="http://www.google.com/calendar/embed?showTitle=1&amp;showNav=1&amp;showDate=1&amp;showPrint=1&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1&amp;mode=MONTH&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;hl=en-GB&amp;height=500&amp;src=eventinfo@hopewwcanada.org&amp;color=%232952A3"
+width="100%"
+height="500" align="top"
+frameborder="0"
+class="gcalendar"> No Iframes supported by your browser</iframe>
