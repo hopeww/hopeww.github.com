@@ -3,9 +3,10 @@ layout: page
 title: "Montreal "
 ---
 {% include JB/setup %}
+{% assign city = "Montreal" %}
 
 <div align="center">
-!/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
+!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_banner.jpg!
 </div>
 
 
@@ -17,7 +18,7 @@ To me HOPE worldwide is a hand filled with hope and love for all the needy of ou
 
 h2. Chapter News
 
-HOPE Worldwide of Quebec 
+HOPE Worldwide of {{ city  }} 
 
 h6. HOPE worldwide's Activities in Montreal from October to December 2011
 * Charitable service activities in collaboration with other charitable organizations in November
@@ -28,6 +29,6 @@ h6. HOPE worldwide's Activities in Montreal from October to December 2011
 
 h2. Chapter Info
 
-For more information on the Toronto Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( Toronto Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
+For more information on the {{ city  }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
 
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner2.jpg!

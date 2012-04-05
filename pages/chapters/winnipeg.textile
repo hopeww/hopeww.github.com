@@ -3,3 +3,40 @@ layout: page
 title: "Winnipeg"
 ---
 {% include JB/setup %}
+{% assign city = "Winnipeg" %}
+
+<div align="center">
+!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_banner.jpg!
+</div>
+
+h2. What HOPE worldwide of Canada means to me?
+
+Whether involved in a large community project, making a donation for disaster relief or a few hours pitching in at a local shelter, HOPE worldwide of Canada provides me with the opportunity to be a champion for the needy, and to make a difference once small act of service at a time. HOPE unites me with other volunteers so that as a collective we can make a contribution to the eradication of poverty and injustice in our world.
+
+<icon class="icon-leaf" /> __&#160;{{ site.departments.cities.winnipeg-director.name }}, Chapter Director__
+
+h2. Upcoming Chapter Activities
+
+Here are some upcoming events for the {{ city }} Chapter:
+
+|April, 2012 | Sandwich Sunday|
+|May, 2012 |Volunteer event at Winnipeg Harvest, a local food shelter|
+
+h2. Past Chapter Activities
+
+h6. December 2011: Annual Christmas Dinner for Inner City Families
+
+Since 1999, the Winnipeg chapter has partnered with Pregnancy and Family Support Services Inc., to host an annual Christmas dinner for underprivileged children and their parents from Winnipeg's downtown district. The 2011 banquet was a huge success as we served a delicious turkey dinner with all the trimmings to 54 families with a total of 141 people in attendance. The children made christmas crafts designed by HOPE volunteers while waiting for dinner and spent time singing and visiting with Santa after the meal. HOPE provided gifts to 133 children and their parents and surprised one lucky family with a door prize at the end of the evening. Photos
+
+h6. November 20, 2011: IDOG 2011 
+
+Winnipeg HOPE volunteers raised almost $4,000 for this year's International Day of Giving on November 20, 2011. The funds donated will be distributed to the Laguna Centre of HOPE in the Philippines to assist in their work with abused children.
+
+h6. July 23rd, 2011: Volunteer event at Winnipeg Harvest Food Bank sorting and packing food
+
+|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_1.jpg!|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_2.jpg!|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_3.jpg!|
+
+
+h2. Chapter Information
+
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.winnipeg-director.name }}( {{ city }} Chapter Director)":mailto:{{ site.departments.cities.winnipeg-director.email }}
