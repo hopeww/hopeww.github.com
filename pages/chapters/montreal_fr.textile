@@ -1,18 +1,22 @@
 ---
 layout: page
-title: "Montréal (Version française)"
+title: "Montréal"
 ---
 {% include JB/setup %}
+{% assign city_en = "Montreal" %}
+{% assign city = "Montréal" %}
+
+h6. Version française
 
 <div align="center">
-!/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
+!/assets/themes/twitter/images/chapters/{{ city_en | lowcase }}/{{ city_en | lowcase }}_banner.jpg!
 </div>
 
 
-h2. Nouvelles de notre chapitre
+h2. Activités de HOPE worldwide à Montréal
 
-HOPE Worldwide du Quebec (French)
-h6. Activités de HOPE worldwide à Montréal en 2011 Octobre à Décembre
+h6. en 2011 Octobre à Décembre
+
 * Activités mensuelles de service en collaboration avec un autre organisme de charité Novembre
 * Collecte de fonds pour la construction d’une école à Bodarie (Haïti) Décembre
 * Activités de Noël pour les enfants défavorisés
@@ -20,6 +24,6 @@ h6. Activités de HOPE worldwide à Montréal en 2011 Octobre à Décembre
 
 h2. L'information de notre chapitre
 
-Pour plus d'informations sur le Chapitre du Québec, s'il vous plaît contacter {{ site.departments.cities.montreal-director.name }}: {{ site.departments.cities.montreal-director.email }}
+Pour plus d'informations sur le Chapitre du {{ city  }}, s'il vous plaît contacter "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
 
-!/assets/themes/twitter/images/chapters/montreal/montreal_banner2.jpg!
+!/assets/themes/twitter/images/chapters/{{ city_en | lowercase }}/{{ city_en | lowcase }}_banner2.jpg!
