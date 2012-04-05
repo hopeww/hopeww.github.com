@@ -29,4 +29,4 @@ h2. Charity Information
 |Legal Name|&nbsp;&nbsp; HOPE worldwide OF CANADA|
 |BN|&nbsp;&nbsp; 888159860RR0001|
 |Address|&nbsp;&nbsp; 11 Parkside Drive, Toronto, ON, Canada M6R2Y7|
-|Contact us|&nbsp;&nbsp; "(icon-envelope) &nbsp;info@hopewwcanada.org":mailto:info@hopewwcanada.org|
+|Contact us|&nbsp;&nbsp; "(icon-envelope) &nbsp;&nbsp;info@hopewwcanada.org":mailto:info@hopewwcanada.org|
