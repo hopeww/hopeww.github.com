@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Montreal (English)"
+title: "Montreal "
 ---
 {% include JB/setup %}
 
@@ -13,6 +13,7 @@ h2. What HOPE worldwide of Canada means to me?
 
 To me, HOPE worldwide is a hand filled with hope and love for all the needy of our hurting world. HOPE worldwide is thousands of volunteers with a huge caring heart ready to do anything and go anywhere to offer those facing challenges the right to live healthy and in decent conditions. Finally, to me HOPE worldwide gives me a great opportunity to use my talent and expertise to change lives.
 
+<icon class="icon-leaf" /> __&#160;{{ site.departments.cities.montreal-director.name }}, Chapter Director__
 
 h2. Chapter News
 
@@ -27,6 +28,6 @@ h6. HOPE worldwide's Activities in Montreal from October to December 2011
 
 h2. Chapter Info
 
-For more information on the Quebec Chapter, please contact Anne Du Sault: anne.dusault@hopewwcanada.org
+For more information on the Toronto Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( Toronto Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
 
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner2.jpg!

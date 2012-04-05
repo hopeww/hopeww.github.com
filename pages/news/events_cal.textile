@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Events Cal"
+title: "Events Calendar"
 ---
 {% include JB/setup %}
