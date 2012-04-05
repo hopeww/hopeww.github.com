@@ -27,8 +27,7 @@ Empire Theatre (North York Center) & Daily Bread Food Bank Collecting non-perish
 
 h2. Latest Newsletter
 
-Read our latest newsletter (Feb 27, 2010)
-
+"(btn icon-external-link)&nbsp;Read our latest newsletter (Feb 27, 2010) (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk
 
 h2. Chapter Information
 

@@ -8,6 +8,7 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+
  .img-right{
   float: right;
   padding: 5px;
@@ -397,7 +398,7 @@ h1 {
 h1 small {
   font-size: 18px;
 }
-.span12 h2{
+.span8 h2{
   padding-top:30px;
 }
 h2 {
