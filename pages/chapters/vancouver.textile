@@ -5,6 +5,10 @@ title: "Vancouver"
 {% include JB/setup %}
 {% assign city = "Vancouver" %}
 
+<div align="center">
+!/assets/themes/twitter/images/chapters/vancouver/vancouver_banner.jpg!
+</div>
+
 h2. Chapter Activities
 
 Homeless Christmas Wishlist Program (our fourth year) where we provide volunteers, media contact and a website to post the needs of scores of homeless people in Vancouver so that each one of them can receive a gift on Christmas morning. (approximately 20 volunteers)
