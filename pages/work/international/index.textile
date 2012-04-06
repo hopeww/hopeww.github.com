@@ -1,5 +1,5 @@
 ---
-layout: page_282
+layout: page_narrower_main
 title: "International Relief Assistance"
 ---
 {% include JB/setup %}
