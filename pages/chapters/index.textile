@@ -25,7 +25,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 <section id="history">
 
-<table cellpadding="5" >
+	<table cellpadding="5" >
 		<tr>
 			<td><img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" alt=""></td>
 			<td>
