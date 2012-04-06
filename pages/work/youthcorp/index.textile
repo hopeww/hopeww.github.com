@@ -7,8 +7,16 @@ title: "Adventures in HOPE Youth Corps"
 Every year, young people can sign up to serve in HOPE Youth Corp either abroad or in America.
 
 In 2011, two young people Gillian and Kate bravely took on the challenge to serve.  Here are their stories.
-|_.Gillian in Philidelpia|_.Kate in Dallas|
-|<img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner1.png" />|<img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.png" />|
+
+<span class="span4">
+	<a class="icon-user" href="philidelphia/gillian">Gillian in Philidelpia</a><br />
+	<img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner1.png" />
+</span>
+<span class="span4">
+	<a class="icon-user" href="dallas/kate">Kate in Dallas</a><br />
+	<img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.png" />
+</span>
+	<!--
 <table>
 	<tr>
 		<td><a class="icon-user" href="philidelphia/gillian">Gillian in Philidelpia</a></td>
@@ -18,3 +26,4 @@ In 2011, two young people Gillian and Kate bravely took on the challenge to serv
 		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.png" /></td>
 	</tr>
 </table>
+-->
