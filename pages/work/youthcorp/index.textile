@@ -5,7 +5,6 @@ title: "HOPE Youth Corp"
 {% include JB/setup %}
 
 h2. Adventures in HOPE Youth Corps
-
 <table>
 	<tr>
 		<td><a class="icon-user" href="philidelphia/gillian">Gillian in Philidelpia</a></td>
