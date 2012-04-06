@@ -3,7 +3,7 @@ layout: page
 title: "Adventures in HOPE Youth Corps"
 ---
 {% include JB/setup %}<div class="hero-unit">
-<table>
+<table align=center>
 	<tr>
 		<td><a class="icon-user" href="philidelphia/gillian">Gillian in Philidelpia</a></td>
 		<td><a class="icon-user" href="dallas/kate">Kate in Dallas</a></td>
