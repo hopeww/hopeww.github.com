@@ -398,14 +398,14 @@ h1 {
 h1 small {
   font-size: 18px;
 }
-.span8 h2{
+.span8 h2, .span12 h2{
   padding-top:30px;
 }
-.span8 h6{
+.span8 h6, .span12 h6{
   padding-top:10px;
   padding-bottom:3px;
 }
-.span8 p{
+.span8 p, .span8 p{
   padding-top:10px;
 }
 h2 {
