@@ -8,7 +8,6 @@ title: "About Us"
 !/assets/themes/twitter/images/about_us/about_us_banner.jpg!
 </div>
 
-<hr />
 
 h2. Who we are
 
@@ -16,13 +15,11 @@ We are a registered non-profit charity, headquartered in Toronto, Ontario. Our g
 
 We are affiliated with "*HOPE* __worldwide__":http://hopeww.org, a non-profit charity, headquartered in Philadelphia, the city of brotherly love. We share HOPE worldwide's mission, which is as simple as its name: Bringing Hope, Changing Lives
 
-<hr />
 
 h2. Mission
 
 To develop innovative programs and events that engage volunteers and communities to meet the needs of the poor and needy, bringing hope and changing lives.
 
-<hr />
 
 h2. Charity Information
 
