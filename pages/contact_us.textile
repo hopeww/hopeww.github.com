@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_narrower_main
 title: "Contact Us"
 ---
 {% include JB/setup %}
