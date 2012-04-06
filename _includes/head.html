@@ -21,6 +21,9 @@
           search($('input#query').val());
         return false;
       }); 
+      $('#clear_search').click(function(){
+        $('div#results').empty();
+      });
     });
 
 
