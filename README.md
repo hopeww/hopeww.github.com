@@ -20,6 +20,11 @@
 - categories.html
 - aboutus.html
 
+## *HOPE* __worldwide__ of Canada Website License
+
+(c) 2012 *HOPE* __worldwide__ of Canada
+
+
 # Jekyll-Bootstrap
 
 
@@ -60,6 +65,6 @@ This repository tracks 2 projects:
 The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
 
 
-## License
+## Jekyll Bootstrap License
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
