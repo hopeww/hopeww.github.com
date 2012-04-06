@@ -5,9 +5,7 @@ title: "Vancouver"
 {% include JB/setup %}
 {% assign city = "Vancouver" %}
 
-<div align="center">
-!/assets/themes/twitter/images/chapters/vancouver/vancouver_banner.jpg!
-</div>
+!(img-right)/assets/themes/twitter/images/chapters/vancouver/vancouver_banner.jpg!
 
 h2. Chapter Activities
 
