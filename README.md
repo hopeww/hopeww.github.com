@@ -42,7 +42,7 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 This repository tracks 2 projects:
 
-- **Jekyll-Bootstrap Framework.**  
+ **Jekyll-Bootstrap Framework.**  
   The framework for which users should clone and build their blog on top of is available in the master branch.
   
   To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
@@ -58,7 +58,7 @@ This repository tracks 2 projects:
   This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
   Translation : it might take a bit longer so please be patient! (but sincerely thank you).
  
-- **Jekyll-Bootstrap Documentation Website.**    
+ **Jekyll-Bootstrap Documentation Website.**    
   The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
   Please fork and contribute documentation additions to this branch only.
 
