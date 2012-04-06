@@ -17,11 +17,21 @@
     //just a quick example, in no way pretty code.
     
     $(document).ready(function() {
-      $('form#search').button().submit(function() {
+      $('form#search').submit(function() {
           search($('input#query').val());
         return false;
       }); 
+
+      $('body').on('click.modal.data-api', '[data-toggle="modal"]', function ( e ) {
+        var $this = $(this), href
+        , $target = $($this.attr('data-target') || (href = $this.attr('href')) && href.replace(/.*(?=#[^\s]+$)/, '')) //strip for ie7
+        , option = $target.data('modal') ? 'toggle' : $.extend({}, $target.data(), $this.data())
+        e.preventDefault()
+        $target.modal(option)
+      });  
+
     });
+
 
     function search(query) {
       //Try searching for 'Python', 'Hyde', 'Linux'.
