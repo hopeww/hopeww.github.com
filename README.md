@@ -1,23 +1,24 @@
 # This is the data for *HOPE* __worldwide__ of Canada Website
 
 ## Stack
-[IndexTank](http://indextank.com)
-[Jekyll IndexTank Plugin](https://github.com/PascalW/jekyll_indextank)
-[Jekyll Bootstrap](http://jekyllbootstrap.com/)
+- [IndexTank](http://indextank.com)
+- [Jekyll IndexTank Plugin](https://github.com/PascalW/jekyll_indextank)
+- [Jekyll Bootstrap](http://jekyllbootstrap.com/)
+
 #### supporting
-[Twitter Bootstrap](http://twitter.github.com/bootstrap/)
-[Glossy.js](http://www.netzgesta.de/glossy/)
-[Fontawesom](http://fortawesome.github.com/Font-Awesome/)
-[Fontawesom](http://fortawesome.github.com/Font-Awesome/)
-[Bootswatch](http://bootswatch.com/)
+- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- [Glossy.js](http://www.netzgesta.de/glossy/)
+- [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
+- [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
+- [Bootswatch](http://bootswatch.com/)
 
 
 ## Unused Pages 
-pages.html
-archive.html
-tags.html
-categories.html
-aboutus.html
+- pages.html
+- archive.html
+- tags.html
+- categories.html
+- aboutus.html
 
 # Jekyll-Bootstrap
 
