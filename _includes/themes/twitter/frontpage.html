@@ -1,186 +1,113 @@
-<!DOCTYPE html>
-<!--
-  HOPE worldwide of Canada
--->
 
+<!DOCTYPE html>
 <html lang="en">
 
   {% include head.html %}
 
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
-    {% include navbar.html %}
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">Project name</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+            <p class="navbar-text pull-right">Logged in as <a href="#">username</a></p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
 
     <div class="container-fluid">
-      
       <div class="row-fluid">
         <div class="span3">
-
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header"><img align="center" src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png" /></li>
+              <li class="nav-header">Sidebar</li>
               <li class="active"><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
             </ul>
           </div><!--/.well -->
-          <div id="results" />
-          
         </div><!--/span-->
-
         <div class="span9">
           <div class="hero-unit">
-           <div id="myCarousel" class="carousel slide">
-            <div class="carousel-inner">
-              <div class="item active">
-                <table border=0 width="100%"><tr>
-                  <td width="10%" /><td width="40%"><h1>Welcome</h1> <p>We are excited to share with you all the great things HOPE is doing across Canada and around the world. Visit us regularly to learn about our work in serving the poor and marginalized in Canada.</p>
-                  </td>
-                  <td width="5%" />
-                  <td width="45%" align="right">
-                    <img src="{{ ASSET_PATH }}/images/frontpage/1_toronto.jpg" alt="">
-                  </td></tr>
-                </table>
-                <div class="carousel-caption">
-                  <h4>Walkathon in Toronto</h4>
-                </div>
-              </div><!--end item-->
-              <div class="item ">
-                <table border=0 width="100%"><tr>
-                  <td width="10%" /><td width="40%"><h2>Our Chapters</h2> <p>Every chapter of HOPE <i>worldwide</i> of Canada has something special to bring hope and change lives in our communities. Click on Our Chapters to find out more!</p>
-                    <p><a class="btn btn-primary btn-large" href="/pages/chapters/">Learn more &raquo;</a></p></td>
-                  <td width="5%" />
-                  <td width="45%" align="right">
-                    <img src="{{ ASSET_PATH }}/images/frontpage/2_montreal.jpg" alt="">
-                  </td></tr>
-                </table>
-                <div class="carousel-caption">
-                  <h4>Bags collection for school aged children</h4>
-                </div>
-              </div><!--end item-->
-              <div class="item ">
-                <table border=0 width="100%"><tr>
-                  <td width="10%" /><td width="40%"><h2>Global Outreach</h2> <p>Our work touches lives beyond our native land, across the world. Read about our various projects and initiatives happening around the world.</p>
-                    <p><a class="btn btn-primary btn-large" href="/pages/work/international/">Learn more &raquo;</a></p></td>
-                  <td width="5%" />
-                  <td width="45%" align="right">
-                    <img src="{{ ASSET_PATH }}/images/frontpage/3_global.jpg" alt="">
-                  </td></tr>
-                </table>
-                <div class="carousel-caption">
-                  <h4>Medical equipment donation</h4>
-                </div>
-              </div><!--end item-->
-              <div class="item ">
-                <table border=0 width="100%"><tr>
-                  <td width="10%" /><td width="40%"><h2>HOPE Youth Corp</h2> <p>Over the summer, two of our teen volunteers participated in HOPE Youth Corps in the United States. Read about their adventures down south in Texas & Philadelphia.</p>
-                    <p><a class="btn btn-primary btn-large" href="/pages/work/youthcorp/">Learn more &raquo;</a></p></td>
-                  <td width="5%" />
-                  <td width="45%" align="right">
-                    <img src="{{ ASSET_PATH }}/images/frontpage/4_hope_yc.png" alt="">
-                  </td></tr>
-                </table>
-                <div class="carousel-caption">
-                  <h4>After we came back from HOPE Youth Corp</h4>
-                </div>
-              </div><!--end item-->
-            </div>
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-            </div>
+            <h1>Hello, world!</h1>
+            <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+            <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
           </div>
           <div class="row-fluid">
             <div class="span4">
-              <h2>International Relief</h2>
-              <p><img src="{{ ASSET_PATH }}/images/frontpage/4_international_phillipns.jpg"><br /><h5>International Relief Assistance</h5>Philippines Update ...</p>
-              <p><a class="btn"  href="/pages/work/international/">View details &raquo;</a></p>
-            </div><!--/span-->
-
-             <div class="span4">
-              <h2>Canada News</h2>
-              <p><img src="{{ ASSET_PATH }}/images/frontpage/5_chapter_integration.jpg"><br /><h5>Our Chapters</h5>"A small group of thoughtful...</p>
-              <p><a class="btn" href="/pages/chapters/">View details &raquo;</a></p>
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="span4">
-              <h2>Upcoming Events</h2>
-              <p><img src="{{ ASSET_PATH }}/images/frontpage/6_upcoming_events.jpg"><br /><h5>Easter Events</h5>Check out our Easter events across Canada...  </p>
-              <p><a class="btn" href="/pages/news/events_cal.html" >View details &raquo;</a></p>
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
             </div><!--/span-->
           </div><!--/row-->
-
           <div class="row-fluid">
             <div class="span4">
-              <h2>News</h2>
+              <h2>Heading</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn" href="#">View details &raquo;</a></p>
-            </div>
+            </div><!--/span-->
             <div class="span4">
-              <h2>Shop</h2>
+              <h2>Heading</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn" href="#">View details &raquo;</a></p>
-            </div>
+            </div><!--/span-->
             <div class="span4">
-              <h2></h2>
-              <p>
-                <a href="/pages/outreach/volunteer.html"><img src="{{ ASSET_PATH }}/images/frontpage/getinvolved.jpg" /></a>
-              </p>
-            </div>
-          </div>
-      </div><!--/span-->
-      </div><!--/row-->   
-      <hr> 
-      <footer align="center">
-        <table width="100%" align="left" style="background-color: #f5f5f5;border-radius:4px" ><tr>
-            <tr><td colspan=7>&#160;&#160;&#160;&#160;&#160;</td></tr>
-            <td width="74%"  align="left"><a href="{{ site.social-media-presence.canadahelps }}"><img src="{{ ASSET_PATH }}/images/icons/highvalue0.jpg" alt="" 
-              onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});"
-              align="center"></a> </td>
-            <td width="14%" align="right"> 
-              <a href="/pages/privacy_policy.html">Privacy Policy </a>  
-              <br /> <a href="/pages/terms_of_use.html">Terms of Use </a>
-              <br /> <a href="/pages/contact_us.html">Contact Us </a>
-              <br /><b>&copy; HOPE <i>worldwide</i> of Canada 2012.  All rights reserved.</b>
-            </td>
-            <td width="1%" />
-            <td width="2%" align="left">
-              <a href="{{ site.social-media-presence.twitter }}">
-                <img src="{{ ASSET_PATH }}/images/icons/twitter_128x128.png" alt="" width="90" height="90">  
-              </a>
-            </td>
-            <td width="2%" align="right">
-              <a href="{{ site.social-media-presence.facebook }}">
-                <img src="{{ ASSET_PATH }}/images/icons/facebook_128x128.png" alt="" width="90" height="90">  
-              </a>
-            </td>
-            <td width="6%" align="right">
-              <a href="{{ site.social-media-presence.canadahelps }}">
-                <img  src="{{ ASSET_PATH }}/images/icons/highvalue2.jpg" alt="" 
-                      onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});" >
-              </a>
-              <br />
-            </td>
-            <td width="1%" />
-          </tr>
-          <tr ><td colspan="14" >&#160;</td>
-          </tr>
-          <tr ><td colspan="14" />
-          </tr>
-        </table>
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+          </div><!--/row-->
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2012</p>
       </footer>
-      <hr> 
+
     </div><!--/.fluid-container-->
-    {% include JB/analytics %}
 
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    {% include load_js.html %}
-    
+     {% include load_js.html %}
     <!-- Analytics
     ================================================== -->
+    {% include JB/analytics %}  
   </body>
 </html>
