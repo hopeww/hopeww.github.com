@@ -4,6 +4,8 @@ title: "Contact Us"
 ---
 {% include JB/setup %}
 
+!/assets/themes/twitter/images/icons/hopewwc_logo.png!
+
 h2. By Phone
 
 {{ site.headquarters-info.phone }} ({{ site.headquarters-info.city }})
