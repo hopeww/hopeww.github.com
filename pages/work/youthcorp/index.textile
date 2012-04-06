@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_282
 title: "Adventures in HOPE Youth Corps"
 ---
 {% include JB/setup %}

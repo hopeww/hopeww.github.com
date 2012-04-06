@@ -408,6 +408,9 @@ h1 small {
 .span8 p, .span8 p{
   padding-top:10px;
 }
+.row span table{
+  padding-top:0px;
+}
 h2 {
   font-size: 24px;
   line-height: 36px;
