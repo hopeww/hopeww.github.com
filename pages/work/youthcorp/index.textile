@@ -9,7 +9,7 @@ title: "Adventures in HOPE Youth Corps"
 		<td><a class="icon-user" href="dallas/kate">Kate in Dallas</a></td>
 	</tr><tr>
 		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner1.png" /></td>
-		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.jpg" /></td>
+		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.png" /></td>
 	</tr>
 </table></div>
 Every year, young people can sign up to serve in HOPE Youth Corp either abroad or in America.
