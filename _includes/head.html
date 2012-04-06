@@ -17,7 +17,7 @@
     //just a quick example, in no way pretty code.
     
     $(document).ready(function() {
-      $('form#search').submit(function() {
+      $('form#search').button().submit(function() {
           search($('input#query').val());
         return false;
       }); 
