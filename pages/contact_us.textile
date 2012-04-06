@@ -4,7 +4,7 @@ title: "Contact Us"
 ---
 {% include JB/setup %}
 
-!/assets/themes/twitter/images/icons/hopewwc_logo.png!
+!(img-right)/assets/themes/twitter/images/icons/hopewwc_logo.png!
 
 h2. By Phone
 
