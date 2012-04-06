@@ -7,7 +7,7 @@ title: "Edmonton"
 
 !(img-right)/assets/themes/twitter/images/chapters/edmonton/edmonton_banner.jpg!
 
-h2. Upcoming Chapter Activities
+h2. Chapter Activities
 
 h6. Home for dinner program, Ronald Mcdonald house 
 
