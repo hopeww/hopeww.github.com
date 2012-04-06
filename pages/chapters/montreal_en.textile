@@ -6,7 +6,7 @@ title: "Montreal "
 {% assign city = "Montreal" %}
 
 <div align="center">
-!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_banner.jpg!
+!/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
 </div>
 
 

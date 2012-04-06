@@ -9,7 +9,7 @@ title: "Montréal"
 h6. Version française
 
 <div align="center">
-!/assets/themes/twitter/images/chapters/{{ city_en | lowcase }}/{{ city_en | lowcase }}_banner.jpg!
+!/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
 </div>
 
 

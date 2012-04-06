@@ -6,7 +6,7 @@ title: "Winnipeg"
 {% assign city = "Winnipeg" %}
 
 <div align="center">
-!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_banner.jpg!
+!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_banner.jpg!
 </div>
 
 h2. What HOPE worldwide of Canada means to me?
