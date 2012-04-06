@@ -13,12 +13,8 @@ h2. By Phone
 h2. Mailing Address
 
 {{ site.headquarters-info.address }},
-
 {{ site.headquarters-info.city }}, {{ site.headquarters-info.province }},
-
 {{ site.headquarters-info.country }} {{ site.headquarters-info.postalcode }}
-
- 
 
 h2. Email regarding
 
