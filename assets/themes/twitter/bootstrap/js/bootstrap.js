@@ -825,7 +825,6 @@
 
  /* MODAL DATA-API
   * ============== */
-
   $(function () {
     $('body').on('click.modal.data-api', '[data-toggle="modal"]', function ( e ) {
       var $this = $(this), href
