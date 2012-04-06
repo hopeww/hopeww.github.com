@@ -5,6 +5,8 @@ title: "Halifax"
 {% include JB/setup %}
 {% assign city="Halifax" %}
 
+!(img-right)/assets/themes/twitter/images/chapters/halifax/halifax_banner.jpg!
+
 h2. Past Chapter Activities
 
 h6. Singing Christmas Carols at Melville Heights Retirement Home 

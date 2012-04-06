@@ -3,3 +3,4 @@ layout: page
 title: "Hamilton"
 ---
 {% include JB/setup %}
+!(img-right)/assets/themes/twitter/images/chapters/hamilton/hamilton_banner.jpg!
