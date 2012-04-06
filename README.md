@@ -24,7 +24,7 @@
 
 (c) 2012 *HOPE* __worldwide__ of Canada
 
-
+--------------
 # Jekyll-Bootstrap
 
 
