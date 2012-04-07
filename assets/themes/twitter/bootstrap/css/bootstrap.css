@@ -136,7 +136,8 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #333333;
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
+  background-color: red;
 }
 a {
   color: #0088cc;
@@ -3955,8 +3956,8 @@ a.thumbnail:hover {
 .hero-unit {
   padding: 20px;
   margin-bottom: 0px;
-  /*background-color: #eeeeee;*/
-  background-color: red;
+  background-color: #eeeeee;
+  /*background-color: red;*/
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
