@@ -35,9 +35,4 @@ Improv is a great way to break down these barriers in a natural and playful way.
 help to break barriers across colour, race, tribe, background, and bring people together to
 become friends.
 
-For Dan Tao, who helped to initiate the YWCA program, it was a rewarding experience: "The
-
-best reward of service is to feel the hope, joy and increased confidence shining through those
-precious women after a new skill learnt, a new challenge conquered and a new opportunity
-discovered. God created each one of us in such a unique and talented way so together we can
-experience the true wonder of inspire one another to live life to the full."
+For Dan Tao, who helped to initiate the YWCA program, it was a rewarding experience: "The best reward of service is to feel the hope, joy and increased confidence shining through those precious women after a new skill learnt, a new challenge conquered and a new opportunity discovered. God created each one of us in such a unique and talented way so together we can experience the true wonder of inspire one another to live life to the full."
