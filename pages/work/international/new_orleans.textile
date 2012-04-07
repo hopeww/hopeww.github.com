@@ -7,7 +7,7 @@ title: "New Orleans"
 This is an interview with a volunteer who had visited the New Orleans site.
 
 <div align="center">
-<iframe src="http://player.vimeo.com/video/26805867?portrait=0" width="400" height="300" frameborder="0" title="JoomlaWorks AllVideos Player"></iframe>
+<iframe src="http://player.vimeo.com/video/26805867?portrait=0" width="400" height="300" frameborder="0" ></iframe>
 </div>
 
 <hr />
