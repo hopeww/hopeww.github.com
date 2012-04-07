@@ -10,8 +10,7 @@ In November 2010, after the earthquake that shook and destroyed major parts of H
 
 Thus began a relationship between HOPE worldwide of Canada and HOPE worldwide Haiti that continues to
 date. The training of individuals in useful trades is vital to the individual recovery of people and their families in the aftermath of the disaster and ensuing crisis. The next phase of the recovery of the people that comprise the PPCC was the planning, construction and development of a brand new community. On March 22, 2012, at
-11:00 am the Village de HOPE at Croix-des-Bouquets was officially inaugurated by Stanley Cesar, President
-HOPE worldwide Haiti (HwwH); Annael Hyppolite, Coordinator HwwH; Mark Ottenweller, Haiti Project Manager, HOPE worldwide, Ltd.; Beth Carroll, Project Director, Food For the Poor (FFP); Jean-Lenet Charles, President of
+11:00 am the Village de HOPE at Croix-des-Bouquets was officially inaugurated by Stanley Cesar, President HOPE worldwide Haiti (HwwH); Annael Hyppolite, Coordinator HwwH; Mark Ottenweller, Haiti Project Manager, HOPE worldwide, Ltd.; Beth Carroll, Project Director, Food For the Poor (FFP); Jean-Lenet Charles, President of
 the committee of the Village de HOPE; Jean St. Ange Darius, Maire of Croix-des-Bousquets; and Jean Tholbert
 Alexis, Deputy of Croix-des-Bousquets. 
 
