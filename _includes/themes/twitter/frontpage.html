@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <!--
-  HOPE worldwide of Canada
+  (c) HOPE worldwide of Canada 
+      ___           ___           ___         ___     
+     /__/\         /  /\         /  /\       /  /\    
+     \  \:\       /  /::\       /  /::\     /  /:/_   
+      \__\:\     /  /:/\:\     /  /:/\:\   /  /:/ /\  
+  ___ /  /::\   /  /:/  \:\   /  /:/~/:/  /  /:/ /:/_ 
+ /__/\  /:/\:\ /__/:/ \__\:\ /__/:/ /:/  /__/:/ /:/ /\
+ \  \:\/:/__\/ \  \:\ /  /:/ \  \:\/:/   \  \:\/:/ /:/
+  \  \::/       \  \:\  /:/   \  \::/     \  \::/ /:/ 
+   \  \:\        \  \:\/:/     \  \:\      \  \:\/:/  
+    \  \:\        \  \::/       \  \:\      \  \::/   
+     \__\/         \__\/         \__\/       \__\/    
 -->
 
 <html lang="en">
@@ -8,7 +19,6 @@
   {% include head.html %}
 
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
-    <div id="ribbon"style="background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjEwMCUiPgogICAgPGRlZnM+CiAgICAgICAgPHBhdHRlcm4gaWQ9InJhaW5ib3ciIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHdpZHRoPSI1MDBweCIgaGVpZ2h0PSIxMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSIwcHgiIHk9IjAiIHdpZHRoPSI0cHgiIGhlaWdodD0iMTBweCIgc3R5bGU9ImZpbGw6IzE3MjMyNyIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSI0cHgiIHk9IjAiIHdpZHRoPSIyOXB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiMxOTM3MmMiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMzNweCIgeT0iMCIgd2lkdGg9IjYxcHgiIGhlaWdodD0iMTBweCIgc3R5bGU9ImZpbGw6IzMyNzM0NCIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSI5NHB4IiB5PSIwIiB3aWR0aD0iMnB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiM0MzdlNGMiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iOTZweCIgeT0iMCIgd2lkdGg9IjlweCIgaGVpZ2h0PSIxMHB4IiBzdHlsZT0iZmlsbDojODY5OTU2IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjEwNXB4IiB5PSIwIiB3aWR0aD0iN3B4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiNiMDhmNDIiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMTEycHgiIHk9IjAiIHdpZHRoPSIyM3B4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiNiNDY4MzkiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMTM1cHgiIHk9IjAiIHdpZHRoPSIyNnB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiNhNDM5NDEiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMTYxcHgiIHk9IjAiIHdpZHRoPSIxMXB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiM5YzJjNTIiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMTcycHgiIHk9IjAiIHdpZHRoPSI1N3B4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiNiYjQyNmIiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMjI5cHgiIHk9IjAiIHdpZHRoPSI2cHgiIGhlaWdodD0iMTBweCIgc3R5bGU9ImZpbGw6IzhhMmY1YyIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSIyMzVweCIgeT0iMCIgd2lkdGg9IjVweCIgaGVpZ2h0PSIxMHB4IiBzdHlsZT0iZmlsbDojNmQ0MTZkIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjI0MHB4IiB5PSIwIiB3aWR0aD0iOHB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiM0MTMyNjQiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMjQ4cHgiIHk9IjAiIHdpZHRoPSIxMTNweCIgaGVpZ2h0PSIxMHB4IiBzdHlsZT0iZmlsbDojMjk0MTZlIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjM2MXB4IiB5PSIwIiB3aWR0aD0iMXB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiM1NjkwYTUiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMzYycHgiIHk9IjAiIHdpZHRoPSIyMHB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiMyZTg0OWQiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMzgycHgiIHk9IjAiIHdpZHRoPSI1M3B4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiMyNzY2ODYiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iNDM1cHgiIHk9IjAiIHdpZHRoPSI2NHB4IiBoZWlnaHQ9IjEwcHgiIHN0eWxlPSJmaWxsOiMyMzQzNmUiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iNDk5cHgiIHk9IjAiIHdpZHRoPSIxcHgiIGhlaWdodD0iMTBweCIgc3R5bGU9ImZpbGw6IzE0MmEwNiIgLz4KICAgICAgICAgICAgICAgIDwvcGF0dGVybj4KICAgIDwvZGVmcz4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwcHgiIGZpbGw9InVybCgjcmFpbmJvdykiIC8+Cjwvc3ZnPgo=);"></div>
     {% include navbar.html %}
 
     <div class="container-fluid">
