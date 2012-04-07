@@ -3954,7 +3954,7 @@ a.thumbnail:hover {
 }
 .hero-unit {
   padding: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
