@@ -6,7 +6,7 @@ tags: [YWCA,singles]
 ---
 {% include JB/setup %}
 
-![Improv is Fun](/assets/theme/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/1.jpg)
+![Improv is Fun](/assets/themes/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/1.jpg)
 
 Two funny sisters in Christ who are always ready for opportunities to laugh, Lara Tai and
 Laura Marijan, conducted a workshop in March titled "Improv is Fun" at a YWCA shelter in
