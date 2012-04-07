@@ -3245,7 +3245,7 @@ a.thumbnail:hover {
 }
 .carousel {
   position: relative;
-  margin-bottom: 18px;
+  margin-bottom: 8px;
   line-height: 1;
 }
 .carousel-inner {
@@ -3335,8 +3335,8 @@ a.thumbnail:hover {
   color: #ffffff;
 }
 .hero-unit {
-  padding: 60px;
-  margin-bottom: 30px;
+  padding: 10px;
+  margin-bottom: 0px;
   background-color: #f5f5f5;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
