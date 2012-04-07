@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "test 123"
-category: 
+category: none
 tags: []
 ---
 {% include JB/setup %}
