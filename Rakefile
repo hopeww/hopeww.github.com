@@ -66,6 +66,15 @@ task :post do
     post.puts "tags: []"
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts "<div id='post_container'>"
+    post.puts "<!--  Please put all the content between div and the ending div tag, thank you -->"
+    post.puts "<!--  The way to include an image is !/path/to/the/image.jpg! -->"
+    post.puts ""
+    post.puts ""
+    post.puts ""
+    post.puts "<!--  THE END (of the story) -->"
+    post.puts "</div>"
+
   end
 end # task :post
 
