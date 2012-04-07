@@ -33,22 +33,23 @@
       //Try searching for 'Python', 'Hyde', 'Linux'.
       //var result = $.getJSON('http://hopewwc.api.houndsleuth.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
       var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
-        $('div#results').empty();
-       $('div#results').append("<h3 id='results'>Search results</h3>");
-       var cnt = 0;
-        $.each(data.results, function(index, result) {
-          $('div#results').append('<div id="result">\
-              <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
-              ' + result.snippet_text + '</p>\
-          </div')
+      $('div#results').empty();
+      $('div#results').append("<h3 id='results'>Search results</h3>");
+      var cnt = 0;
+      $.each(data.results, function(index, result) {
+        $('div#results').append('<div id="result">\
+            <p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
+            ' + result.snippet_text + '</p>\
+        </div')
           // alert(result.snippet_text);
-          cnt +=1;
-        });
-        if(cnt==0){
-          $('h3#results').append(" Found 0 results.");
-        }
+        cnt +=1;
       });
-    }
+      if(cnt==0){
+        $('h3#results').append(" Found 0 results.");
+      }
+      
+    });
+  }
   </script>
   <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
