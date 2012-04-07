@@ -23,6 +23,7 @@
         return false;
       }); 
       $('#clear_search').click(function(){
+        $('input#query').val()="";
         $('div#results').empty();
       });
     });
