@@ -1,0 +1,15 @@
+---
+layout: post
+title: "test 123"
+category: 
+tags: []
+---
+{% include JB/setup %}
+<div id='post_container'>
+<!--  Please put all the content between div and the ending div tag, thank you -->
+<!--  The way to include an image is !/path/to/the/image.jpg! -->
+
+
+
+<!--  THE END (of the story) -->
+</div>
