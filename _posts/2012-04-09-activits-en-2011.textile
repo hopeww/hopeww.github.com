@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Activités en 2011"
+category: "Montréal"
+tags: []
+---
+{% include JB/setup %}
+
+This is a textile file
+
+<!--  The way to include an image is like so: !(img-right)/path/to/the/image.jpg! -->
+
+<!--  The way to include a video is like so: <div align='center'><iframe src='http://player.vimeo.com/video/26805867?portrait=0' width='400' height='300' frameborder='0' ></iframe></div>   -->
+<!--  Just substitute in the video number as seen in the vimeo link -->
+
+<!-- Here is the link for you to refer to textile syntax: http://en.wikipedia.org/wiki/Textile_(markup_language) -->
+
+
+
+I'm a story, I'm a story, I'm a story.  Just erase me & write your story here.
+
