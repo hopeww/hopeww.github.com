@@ -67,6 +67,7 @@ task :post do
     post.puts "tags: []"
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts ""
     post.puts "<!--  The way to include an image is like so: !(img-right)/path/to/the/image.jpg! -->"
     post.puts ""
     post.puts "<!--  The way to include a video is like so: \<div align='center'\>\<iframe src='http://player.vimeo.com/video/26805867?portrait=0' width='400' height='300' frameborder='0' \>\</iframe\>\</div\>   -->"
