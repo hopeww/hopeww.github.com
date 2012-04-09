@@ -14,7 +14,7 @@ h6. Version française
 
 h2. Activités de HOPE worldwide à  {{ city }}
 {% for category in site.categories %} 
-	{% if category[0] == city_en %}
+	{% if category[0] == city %}
 	  <ul>
 	    {% assign pages_list = category[1] %}  
 	    {% include JB/pages_list %}
