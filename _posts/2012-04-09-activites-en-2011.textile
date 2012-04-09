@@ -6,7 +6,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-This is a textile file
 
 <!--  The way to include an image is like so: !(img-right)/path/to/the/image.jpg! -->
 

@@ -68,7 +68,7 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
     post.puts ""
-    post.puts "This is a textile file"
+    post.puts "<!-- This is a textile file -->"
     post.puts ""
     post.puts "<!--  The way to include an image is like so: !(img-right)/path/to/the/image.jpg! -->"
     post.puts ""
