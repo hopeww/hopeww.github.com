@@ -7,6 +7,8 @@ tags: [homeless]
 {% include JB/setup %}
 
 
+!(img-right)/assets/themes/twitter/images/posts/2012-04-09-en-2011/3.jpg! 
+
 h2. Programme parascolaire du samedi
 
 En collaboration avec le centre communautaire Tyndale St-George. Des enfants de milieu défavorisé de la Petite-Bourgogne profitaient de cours de chant, danse, musique, français, mathématiques et basketball.
@@ -15,7 +17,6 @@ h2. Journée de grand ménage
 
 Des personnes âgées isolées et à mobilité réduite ont bénéficié de l’aide de bénévoles pour effectuer des tâches ménagères au-dessus de leur force.
 
-!(img-right)/assets/themes/twitter/images/posts/2012-04-09-en-2011/3.jpg! 
 
 h2. Programme de sacs d’école pour la rentrée
 
@@ -29,6 +30,8 @@ h2. Animation et décoration d’une résidence de personnes âgées
 
 à l’occasion de Noël.
 
+!(img-right)/assets/themes/twitter/images/posts/2012-04-09-en-2011/1.jpg! 
+
 h2. Grand vente aux enchères
 
 au profit de la clinique du SIDA de HOPE worldwide à Abidjan. Le montant total recueilli fut de 2 000 $.
@@ -37,7 +40,6 @@ h2. Sacs d’école pour la Côte d’Ivoire
 
 Grâce à la générosité de TELUS à Montréal, nous avons pu envoyer deux boîtes pleines de sacs d’école et de fournitures scolaires pour les enfants d’une école en milieu défavorisé à Abdijan.
 
-!(img-right)/assets/themes/twitter/images/posts/2012-04-09-en-2011/1.jpg! 
 
 h2. Port-au-Prince
 
