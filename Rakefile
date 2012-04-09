@@ -45,6 +45,7 @@ desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
+  category = ENV["category"] || ""
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
@@ -62,15 +63,18 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts "category: "
+    post.puts "category: \"#{category.gsub(/-/,' ')}\"""
     post.puts "tags: []"
     post.puts "---"
     post.puts "{% include JB/setup %}"
-    post.puts "<!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->"
+    post.puts "<!--  The way to include an image is like so: !(img-right)/path/to/the/image.jpg! -->"
     post.puts ""
-    post.puts "I'm a story, I'm a story, yadi yadi ya!  Just erase me & write your story here"
+    post.puts "<!--  The way to include a video is like so: <div align='center'><iframe src='http://player.vimeo.com/video/26805867?portrait=0' width='400' height='300' frameborder='0' ></iframe></div>   -->"
+    post.puts "<!--  Just substitute in the video number as seen in the vimeo link -->"
     post.puts ""
-    post.puts "<!--  THE END (of the story) -->"
+    post.puts ""
+    post.puts "I'm a story, I'm a story, I'm a story.  Just erase me & write your story here."
+    post.puts ""
 
   end
 end # task :post

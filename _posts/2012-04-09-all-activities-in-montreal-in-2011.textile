@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All activities in Montreal in 2011"
-category: 
+category: Montreal
 tags: []
 ---
 {% include JB/setup %}
