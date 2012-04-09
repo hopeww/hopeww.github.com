@@ -18,12 +18,6 @@ h2. Past Activities in {{ city }}
 {% endfor %}
 
 
-Homeless Christmas Wishlist Program (our fourth year) where we provide volunteers, media contact and a website to post the needs of scores of homeless people in Vancouver so that each one of them can receive a gift on Christmas morning. (approximately 20 volunteers)
-
-Financially supporting and providing volunteers for the Holiday Dinner at BC Children's Hospital on December 24 (this is our 5th year working with the Family Support Program of the Red Cross in this effort), a couple of our volunteers actually prepare the entire dinner for as many as 200 people; (approximately 12 volunteers)
-
-Financially supporting and providing volunteers and gift baskets for the Holiday Dinner at MacDonald Elementary School (this is our 15 year working with this school in one of the poorest neighbourhoods in Vancouver; (approximately 10 volunteers)
-
 h2. Chapter Information
 
 For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.vancouver-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.vancouver-director.email }}
