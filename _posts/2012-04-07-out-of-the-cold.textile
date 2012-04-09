@@ -6,7 +6,7 @@ tags: [homeless, east region]
 ---
 {% include JB/setup %}
 
-<iframe  src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" />
+<iframe class="img-left" src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" />
 
-!/assets/themes/twitter/images/posts/2012-04-07-out-of-the-cold/1.jpg!
+!(img-left)/assets/themes/twitter/images/posts/2012-04-07-out-of-the-cold/1.jpg!
 
