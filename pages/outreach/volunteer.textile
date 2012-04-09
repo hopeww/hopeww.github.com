@@ -5,8 +5,7 @@ title: "Volunteer"
 {% include JB/setup %}
 
 
-<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="2660" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
-
+<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="750" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
 
 
@@ -17,6 +16,8 @@ h2. Articles
 <hr />
 
 h2. Opportunities in Toronto
+
+Thank you for your interest in serving in __HOPE__ *worldwide* of Canada.  Please kindly review our various volunteer openings & fill in the volunteer registration form to the right.
 
 |GTA Regional Program Coordinator|Posted on Sept 05 2011|&nbsp;"(icon-external-link) &nbsp; Details (pdf)":https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl|
 |East Regional Program Coordinator|Posted on Sept 05 2011|&nbsp;"(icon-external-link)&nbsp; Details (pdf)":https://docs.google.com/open?id=0B5-xkEf58AbIM2ZkOTRlN2YtODYyNi00MDFhLTgxYTUtODQzZTIxMWJlOWQ2|
