@@ -2,7 +2,7 @@
 layout: post
 title: "Xmas 2011"
 category: Vancouver 
-tags: []
+tags: [homeless]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->

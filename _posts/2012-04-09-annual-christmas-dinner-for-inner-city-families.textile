@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Annual Christmas Dinner for Inner City Families"
-category: 
-tags: []
+category: Winnipeg
+tags: [children]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
 
-I'm a story, I'm a story, yadi yadi ya!  Just erase me & write your story here
+Since 1999, the Winnipeg chapter has partnered with Pregnancy and Family Support Services Inc., to host an annual Christmas dinner for underprivileged children and their parents from Winnipeg's downtown district. The 2011 banquet was a huge success as we served a delicious turkey dinner with all the trimmings to 54 families with a total of 141 people in attendance. The children made christmas crafts designed by HOPE volunteers while waiting for dinner and spent time singing and visiting with Santa after the meal. HOPE provided gifts to 133 children and their parents and surprised one lucky family with a door prize at the end of the evening.
 
 <!--  THE END (of the story) -->

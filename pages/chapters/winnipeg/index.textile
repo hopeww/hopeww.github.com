@@ -24,6 +24,16 @@ Here are some upcoming events for the {{ city }} Chapter:
 
 h2. Past Chapter Activities
 
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
 h6. December 2011: Annual Christmas Dinner for Inner City Families
 
 Since 1999, the Winnipeg chapter has partnered with Pregnancy and Family Support Services Inc., to host an annual Christmas dinner for underprivileged children and their parents from Winnipeg's downtown district. The 2011 banquet was a huge success as we served a delicious turkey dinner with all the trimmings to 54 families with a total of 141 people in attendance. The children made christmas crafts designed by HOPE volunteers while waiting for dinner and spent time singing and visiting with Santa after the meal. HOPE provided gifts to 133 children and their parents and surprised one lucky family with a door prize at the end of the evening. Photos

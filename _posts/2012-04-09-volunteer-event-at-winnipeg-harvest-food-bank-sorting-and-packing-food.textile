@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Volunteer event at Winnipeg Harvest Food Bank sorting and packing food"
-category: 
-tags: []
+category: Winnipeg
+tags: [food]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
 
-I'm a story, I'm a story, yadi yadi ya!  Just erase me & write your story here
+|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_1.jpg!|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_2.jpg!|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_3.jpg!|
 
 <!--  THE END (of the story) -->
