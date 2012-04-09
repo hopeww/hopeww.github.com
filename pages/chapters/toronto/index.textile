@@ -16,13 +16,11 @@ HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE i
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.cities.toronto-director.name }}, Chapter Director__
 
-h2. Past Chapter Activities
 
 {% assign city = "Toronto" %}
-
 {% for category in site.categories %} 
 	{% if category[0] == city %}
-	  <h2 id="{{ category[0] }}-ref">Activities in {{ category[0] | join: "/" }}</h2>
+	  <h2 id="{{ category[0] }}-ref">Past Activities in {{ category[0] | join: "/" }}</h2>
 	  <ul>
 	    {% assign pages_list = category[1] %}  
 	    {% include JB/pages_list %}
