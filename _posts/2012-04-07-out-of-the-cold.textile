@@ -5,10 +5,8 @@ category: Toronto
 tags: [homeless, east region]
 ---
 {% include JB/setup %}
-<div class="post_container">
+
 !(img-right)/assets/themes/twitter/images/posts/2012-04-07-out-of-the-cold/1.jpg!
-<div align="center">
-<iframe src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" ></iframe>
-</div>
-</div>
+<iframe align="center" src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" ></iframe>
+
 
