@@ -5,8 +5,9 @@ title: "Volunteer"
 {% include JB/setup %}
 
 
+<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="2660" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
-!(img-right)/assets/themes/twitter/images/outreach/volunteer_banner.gif!
+
 
 
 h2. Articles
@@ -24,4 +25,3 @@ h2. Opportunities in Toronto
 
 <hr />
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="2660" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
