@@ -22,7 +22,6 @@ Here are some upcoming events for the {{ city }} Chapter:
 |April, 2012 | Sandwich Sunday|
 |May, 2012 |Volunteer event at Winnipeg Harvest, a local food shelter|
 
-h2. Past Chapter Activities
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
