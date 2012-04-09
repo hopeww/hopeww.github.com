@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Activités de HOPE worldwide à Montréal en 2011"
+category: Montreal_French 
+tags: [homeless]
+---
+{% include JB/setup %}
+* Activités mensuelles de service en collaboration avec un autre organisme de charité Novembre
+* Collecte de fonds pour la construction d’une école à Bodarie (Haïti) Décembre
+* Activités de Noël pour les enfants défavorisés
