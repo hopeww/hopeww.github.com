@@ -26,10 +26,6 @@ h2. Past Activities in {{ city }}
 	{% endif %}
 {% endfor %}
 
-h2. Latest Newsletter
-
-"(btn icon-external-link btn-primary)&nbsp;Read our latest newsletter (Feb 27, 2012) (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk
-
 h2. Chapter Information
 
 For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.toronto-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.toronto-director.email }}

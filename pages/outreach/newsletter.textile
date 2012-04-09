@@ -3,3 +3,5 @@ layout: page
 title: "Newsletter"
 ---
 {% include JB/setup %}
+
+"(btn icon-external-link btn-primary)&nbsp;Read our latest newsletter (Feb 27, 2012) (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk
