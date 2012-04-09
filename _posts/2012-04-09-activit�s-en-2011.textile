@@ -16,6 +16,7 @@ This is a textile file
 <!-- Here is the link for you to refer to textile syntax: http://en.wikipedia.org/wiki/Textile_(markup_language) -->
 
 
-
-I'm a story, I'm a story, I'm a story.  Just erase me & write your story here.
+* Activités mensuelles de service en collaboration avec un autre organisme de charité Novembre
+* Collecte de fonds pour la construction d’une école à Bodarie (Haïti) Décembre
+* Activités de Noël pour les enfants défavorisés
 
