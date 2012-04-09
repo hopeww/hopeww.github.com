@@ -4,7 +4,9 @@ title: "Montréal"
 ---
 {% include JB/setup %}
 {% assign city_en = "Montreal" %}
+{% assign category_name = "Montreal_French" %}
 {% assign city = "Montréal" %}
+
 
 h6. Version française
 
@@ -14,7 +16,7 @@ h6. Version française
 
 h2. Activités de HOPE worldwide à  {{ city }}
 {% for category in site.categories %} 
-	{% if category[0] == city %}
+	{% if category[0] == category_name %}
 	  <ul>
 	    {% assign pages_list = category[1] %}  
 	    {% include JB/pages_list %}
