@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_282
 title: "Edmonton"
 ---
 {% include JB/setup %}
