@@ -8,6 +8,11 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
  
+
+.post_container p{
+  padding-top:10px;
+}
+
  .img-right{
   float: right;
   padding: 5px;
