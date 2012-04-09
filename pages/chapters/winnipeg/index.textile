@@ -34,7 +34,7 @@ Winnipeg HOPE volunteers raised almost $4,000 for this year's International Day 
 
 h6. July 23rd, 2011: Volunteer event at Winnipeg Harvest Food Bank sorting and packing food
 
-|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_1.jpg!|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_2.jpg!|!/assets/themes/twitter/images/chapters/{{ city | lowcase }}/{{ city | lowcase }}_3.jpg!|
+|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_1.jpg!|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_2.jpg!|!/assets/themes/twitter/images/chapters/winnipeg/winnipeg_3.jpg!|
 
 
 h2. Chapter Information
