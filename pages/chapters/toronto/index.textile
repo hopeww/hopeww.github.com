@@ -18,13 +18,17 @@ HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE i
 
 h2. Past Chapter Activities
 
-YWCA Improv Class 
-read more
+{% assign city = "Toronto" %}
 
-Food Drive for the Daily Bread Food Bank
-Dec 9 2011
-Empire Theatre (North York Center) & Daily Bread Food Bank Collecting non-perishable food items for the Daily Bread Food Bank to be donated to underprivileged neighbourhoods.
-
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <h2 id="{{ category[0] }}-ref">Activities in {{ category[0] | join: "/" }}</h2>
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
 
 h2. Latest Newsletter
 
