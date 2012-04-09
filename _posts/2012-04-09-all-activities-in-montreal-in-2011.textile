@@ -5,8 +5,8 @@ category: Montreal
 tags: []
 ---
 {% include JB/setup %}
-<!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
 
-I'm a story, I'm a story, yadi yadi ya!  Just erase me & write your story here
-
-<!--  THE END (of the story) -->
+* Charitable service activities in collaboration with other charitable organizations in November
+* Collection of funds for the construction of a school in Haiti in December
+* Christmas activities planned to serve underpriviledged children in December
+* sending volunteers and musicians to the Wedn and Thursday partys at Tyndale St. George Community Centre to help set up, serve food and clean up in Dec.

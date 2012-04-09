@@ -27,13 +27,6 @@ h2. Past Activities in {{ city }}
 {% endfor %}
 
 
-h6. October to December 2011
-* Charitable service activities in collaboration with other charitable organizations in November
-* Collection of funds for the construction of a school in Haiti in December
-* Christmas activities planned to serve underpriviledged children in December
-* sending volunteers and musicians to the Wedn and Thursday partys at Tyndale St. George Community Centre to help set up, serve food and clean up in Dec.
-
-
 h2. Chapter Information
 
 For more information on the {{ city  }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
