@@ -1,14 +1,15 @@
 ---
 layout: page_282
-title: Categories
+title: 
 header: Posts By Category
 group: navigation
 ---
 {% include JB/setup %}
 
+{% assign city = "Toronto" %}
 
 {% for category in site.categories %} 
-	{% if category[0] == 'Toronto' %}
+	{% if category[0] == city %}
 	  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
 	  <ul>
 	    {% assign pages_list = category[1] %}  
