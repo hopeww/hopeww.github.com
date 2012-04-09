@@ -16,7 +16,15 @@ To me HOPE worldwide is a hand filled with hope and love for all the needy of ou
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.cities.montreal-director.name }}, Chapter Director__
 
-h2. Past Activities
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
 
 
 h6. October to December 2011

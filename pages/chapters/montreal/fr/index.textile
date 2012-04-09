@@ -12,8 +12,15 @@ h6. Version française
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
 </div>
 
-
-h2. Activités de HOPE worldwide à Montréal
+h2. Activités de HOPE worldwide à  {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city_en %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
 
 h6. en 2011 Octobre à Décembre
 
