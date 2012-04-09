@@ -5,7 +5,6 @@ category: Toronto
 tags: [YWCA,singles]
 ---
 {% include JB/setup %}
-<div class="post_container" >
 !(img-right)/assets/themes/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/2.jpg!
 
 Two funny sisters in Christ who are always ready for opportunities to laugh, Lara Tai and
@@ -24,7 +23,6 @@ as a child."
 
 The rules of improv help to create an open, non- judgemental and fun environment where they
 could enjoy and laugh together.
-!(img-right)/assets/themes/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/1.jpg!
 
 Laura Marijan felt that "It was such a joy to watch these women come out of their shells and
 stretch themselves in new ways. One of our goals was to give them the freedom to simply play
@@ -37,4 +35,4 @@ help to break barriers across colour, race, tribe, background, and bring people 
 become friends.
 
 For Dan Tao, who helped to initiate the YWCA program, it was a rewarding experience: "The best reward of service is to feel the hope, joy and increased confidence shining through those precious women after a new skill learnt, a new challenge conquered and a new opportunity discovered. God created each one of us in such a unique and talented way so together we can experience the true wonder of inspire one another to live life to the full."
-</div>
+!(img-right)/assets/themes/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/1.jpg!
