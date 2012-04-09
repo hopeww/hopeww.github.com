@@ -7,7 +7,16 @@ title: "Vancouver"
 
 !(img-right)/assets/themes/twitter/images/chapters/vancouver/vancouver_banner.jpg!
 
-h2. Chapter Activities
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
 
 Homeless Christmas Wishlist Program (our fourth year) where we provide volunteers, media contact and a website to post the needs of scores of homeless people in Vancouver so that each one of them can receive a gift on Christmas morning. (approximately 20 volunteers)
 
