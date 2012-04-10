@@ -45,6 +45,7 @@ module Jekyll
     priority :normal
 
     def generate(site)
+      puts 'in GenerateTeam...'
       write_team(site)
     end
 
