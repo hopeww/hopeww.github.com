@@ -7,15 +7,17 @@ title: "Halifax"
 
 !(img-right)/assets/themes/twitter/images/chapters/halifax/halifax_banner.jpg!
 
-h2. Past Chapter Activities
 
-h6. Singing Christmas Carols at Melville Heights Retirement Home 
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
 
-Members of the congregation are singing in support for ARK Outreach Ministries Sunday Supper Gift Baskets HDCC donated funds to help purchase Christmas Baskets for some of the guests of this program (various local congregations are als helping)
-
-h6. Youth & Family Ministry Christmas Cards for Canadian Forces serving overseas
-
-Our Youth & Family Ministry wrote & mailed Christmas cards to send overseas to our service men and women who will be away for the holidays
 
 h2. Chapter Information
 

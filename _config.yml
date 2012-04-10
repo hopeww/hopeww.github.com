@@ -46,8 +46,35 @@ departments :
       email : golden.iriah@hopewwcanada.org
   montreal :
     director :
+      title :
+        en : director of the Quebec chapter
+        fr : directrice du chapitre du Québec
       name : Anne Du Sault
       email : anne.dusault@hopewwcanada.org
+    programs :
+      title :
+        en : Program coordinator
+        fr : Coordonnateur des programmes
+      name : Paul-André Vénor
+    treasurer :
+      title :
+        en : Treasurer
+        fr : Trésorier
+      name: Ralph Albert
+    secretary :
+      title :
+        en : Secretary
+        fr : Secrétariat
+      name : Patrick Kelly
+    hr :
+      title :
+        en : Volunteer coordinator
+        fr : Coordonnateur des bénévoles
+    logistics :
+      title :
+        en : Logistics management 
+        fr : La logistique
+
   winnipeg : 
     director :
       name : Kimberlee Potter

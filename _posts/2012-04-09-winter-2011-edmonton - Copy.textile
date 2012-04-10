@@ -1,0 +1,20 @@
+---
+layout: post
+title: "All winter activities in Edmonton 2011"
+category: Edmonton
+tags: [activities]
+---
+{% include JB/setup %}
+
+
+h2. Home For Dinner Program at Ronald McDonald House
+
+This happened on Sat Dec 17, 2011.  3 groups of volunteers, a food prep group serving dinner for the families staying at McD house, approx 65 people, a second group entertaining with Xmas carols and a third clean up group
+
+h2. JCI X'mas Hampers
+
+Providing at least 10 hampers for needy families for Xmas, date and delivery details TBA
+
+h2. Out on the Street Program
+
+One Wednesday in Dec distributing hats, mitts and other clothing items and providing a hot beverage or soup in the inner city area of Edmonton
