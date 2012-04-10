@@ -1,0 +1,16 @@
+---
+layout: post
+title: "L'Accueil Bonneau"
+category: Montreal_French
+tags: [Montreal_French]
+---
+{% include JB/setup %}
+
+L'Accueil Bonneau est un refuge bien connu de Montréal. Les hommes en situation d’itinérance peuvent y recevoir deux repas chaque jour et y trouver un lit pour la nuit.
+
+La division du Québec de HOPE Worldwide Canada apporte son aide à l’Accueil Bonneau en y envoyant un bénévole chaque mercredi et environ cinq bénévoles le dernier samedi de chaque mois. Ils aident à mettre en place les tables, à servir les repas et à nettoyer les lieux après chaque repas.
+
+Les disciples de Montréal sont tellement encouragés par cette opportunité qui leur est offerte de servir que le nombre de volontaires dépasse les besoins de l’Accueil Bonneau.  Ils sont activement à la recherche d’une autre organisation à aider.
+
+Les disciples de Montréal saisissent avec enthousiasme chaque occasion que HOPE et l’Église leur donnent de servir des itinérants et de sortir de leur zone de confort.
+ L'Accueil Bonneau a été un lieu de choix pour les débuts de ces bénévoles dévoués à donner aux pauvres, à les servir et à aider à soulager leurs souffrances avec tous les moyens dont ils disposent.
