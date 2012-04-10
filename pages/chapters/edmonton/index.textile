@@ -7,21 +7,15 @@ title: "Edmonton"
 
 !(img-right)/assets/themes/twitter/images/chapters/edmonton/edmonton_banner.jpg!
 
-h2. Chapter Activities
-
-h6. Home for dinner program, Ronald Mcdonald house 
-
-Sat Dec 17, 2011
-3 groups of volunteers, a food prep group serving dinner for the families staying at McD house, approx 65 people, a second group entertaining with Xmas carols and a third clean up group
-
-
-h6. JCI Xmas Hampers
-
-Providing at least 10 hampers for needy families for Xmas, date and delivery details TBA
-
-h6. Out on the street program
-
-One Wednesday in Dec distributing hats, mitts and other clothing items and providing a hot beverage or soup in the inner city area of Edmonton
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
 
 h2. Chapter Information
 
