@@ -21,7 +21,9 @@
     
     $(document).ready(function() {
       $('form#search').button().submit(function() {
+        if($.trim($('input#query').val())!=""){
           search($('input#query').val());
+        }
         return false;
       }); 
       $('#clear_search').click(function(){
