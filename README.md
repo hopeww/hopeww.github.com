@@ -11,7 +11,7 @@
 - [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
 - [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
 - [Bootswatch](http://bootswatch.com/)
-
+- [Bootstrap Modals Tutorial](http://www.w3resource.com/twitter-bootstrap/modals-tutorial.php)
 
 ## Unused Pages 
 - pages.html
