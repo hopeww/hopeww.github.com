@@ -28,6 +28,6 @@ h2. Activités de HOPE worldwide à  {{ city }}
 
 h2. L'information de notre chapitre
 
-Pour plus d'informations sur le Chapitre du {{ city  }}, s'il vous plaît contacter "(icon-envelope) &nbsp;{{ site.departments.cities.montreal-director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.montreal-director.email }}
+Pour plus d'informations sur le Chapitre du {{ city  }}, s'il vous plaît contacter "(icon-envelope) &nbsp;{{ site.departments.cities.montreal.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.montreal.director.email }}
 
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner2.jpg!
