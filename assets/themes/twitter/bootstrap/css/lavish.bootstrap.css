@@ -532,7 +532,7 @@ select,
   margin-bottom: 9px;
   font-size: 13px;
   line-height: 18px;
-  color: #db0202;
+  color: #ff002f;
   border: 1px solid #ccc;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -1562,7 +1562,7 @@ table .span12 {
   clear: both;
   font-weight: normal;
   line-height: 18px;
-  color: #db0202;
+  color: #ff002f;
   white-space: nowrap;
 }
 .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover {
@@ -2147,7 +2147,7 @@ button.btn.small, input[type="submit"].btn.small {
   border-color: #faf2f2 #faf2f2 #dddddd;
 }
 .nav-tabs > .active > a, .nav-tabs > .active > a:hover {
-  color: #db0202;
+  color: #ff002f;
   background-color: #faffff;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
