@@ -4,29 +4,21 @@ title: "International Relief Assistance"
 ---
 {% include JB/setup %}
 
-
-h2. Philippines Update
-
-!/assets/themes/twitter/images/work/international/main_1_phillipns.jpg!
-
-Since 2010, HOPE worldwide of Canada has contributed funds to restore and improve the Laguna Centre of HOPE in the Philippines. Much has been accomplished since 2010. Read about their progress in this feature report.
-
-"(btn icon-external-link)&nbsp;read more (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U
-
-
-
-h2. St. Lucia Update
-
-!/assets/themes/twitter/images/work/international/main_st_lucia.png!
-
-An ophthalmic camera was donated that will serve as a further tool by which public health practitioners in Saint Lucia will diagnose and treat eye ailments in particular those associated with diabetes.
-
-
-h2. New Orleans Update
-
-!/assets/themes/twitter/images/work/international/main_neworleans.png!
-
-In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina.
-
-"(btn)read more":new_orleans.html
+<div class="row-fluid">
+	<div class="span4">
+	 	<h2>Philippines Update</h2>
+	 	<p><img src="/assets/themes/twitter/images/work/international/main_1_phillipns.jpg"><br />Since 2010, HOPE worldwide of Canada has contributed funds to restore and improve the Laguna Centre of HOPE in the Philippines. Much has been accomplished since 2010. Read about their progress in this feature report.</p>
+	 	<p><a class="btn btn-primary icon-external-href" title="This is an external pdf" link="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U">View details &raquo;</a></p>
+	</div><!--/span-->
+	<div class="span4">
+	 	<h2>St. Lucia Update</h2>
+	 	<p><img src="/assets/themes/twitter/images/work/international/main_st_lucia.png"><br /><h5>Our Chapters</h5>An ophthalmic camera was donated that will serve as a further tool by which public health practitioners in Saint Lucia will diagnose and treat eye ailments in particular those associated with diabetes.</p>
+	 	<p></p>
+	</div><!--/span-->
+	<div class="span4">
+		<h2>New Orleans Update</h2>
+		<p><img src="/assets/themes/twitter/images/work/international/main_neworleans.png"><br />In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina.  </p>
+	 	<p><a class="btn btn-primary" href="new_orleans.html" >View details &raquo;</a></p>
+	</div><!--/span-->
+</div><!--/row-->
 
