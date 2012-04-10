@@ -1,6 +1,6 @@
 ---
 layout: page_282
-title: "Montreal "
+title: "HOPE worldwide of Quebec - Montreal"
 ---
 {% include JB/setup %}
 {% assign city = "Montreal" %}
