@@ -24,6 +24,14 @@ h2. Activités de HOPE worldwide à  {{ city }}
 	{% endif %}
 {% endfor %}
 
+h2. Structure Organisationnelle
+
+|{{ site.departments.montreal.director.name }}|&#160;&#160;&#160;{{ site.departments.montreal.director.title.fr }}|
+|{{ site.departments.montreal.programs.name }}|&#160;&#160;&#160;{{ site.departments.montreal.programs.title.fr }}|
+|{{ site.departments.montreal.treasurer.name }}|&#160;&#160;&#160;{{ site.departments.montreal.treasurer.title.fr }}|
+|{{ site.departments.montreal.secretary.name }}|&#160;&#160;&#160;{{ site.departments.montreal.secretary.title.fr }}|
+|{{ site.departments.montreal.hr.name }}|&#160;&#160;&#160;{{ site.departments.montreal.hr.title.fr }}|
+|{{ site.departments.montreal.logistics.name }}|&#160;&#160;&#160;{{ site.departments.montreal.logistics.title.fr }}|
 
 
 h2. L'information de notre chapitre
