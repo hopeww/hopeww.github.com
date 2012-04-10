@@ -35,7 +35,7 @@
 
     function create_heading(){
       $('div#results').empty();
-      $('div#results').append("<div class='modal-header'><a class='close' data-dismiss='modal'>x</a><h1 id='results'>Search results</h1></div><div class='modal-body'>");
+      $('div#results').append("<div class='modal-header'><a class='close' data-dismiss='modal'>x</a><h1 id='results'>Search results</h1></div><div class='modal-body' id='results_body'>");
     }
     function create_footer(){
       $('div#results').append("<br /></div><div class='modal-footer'><a href='' class='btn' data-dismiss='modal' >Close</a></div>");
@@ -47,7 +47,7 @@
       create_heading();
       var cnt = 0;
       $.each(data.results, function(index, result) {
-        $('div#results').append('<div id="result">\
+        $('#results_body').append('<div id="result">\
             <br /><p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
             ' + result.snippet_text + '</p>\
         </div>')
