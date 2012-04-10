@@ -40,42 +40,41 @@ departments :
   country-director :
     name : Chris Jung
     email : chris.jung@hopewwcanada.org
-  cities :
-    toronto : 
-      director :
-        title : director
-        name : Golden Iriah
-        email : golden.iriah@hopewwcanada.org
-    montreal :
-      director :
-        title_en : director
-        name : Anne Du Sault
-        email : anne.dusault@hopewwcanada.org
-    winnipeg : 
-      director :
-        title : director
-        name : Kimberlee Potter
-        email : kimberlee.potter@hopewwcanada.org
-    vancouver : 
-      director :
-        title : director
-        name : Chris Jung
-        email : chris.jung@hopewwcanada.org
-    edmonton :
-      director :
-        title : director
-        name : Chris Jung
-        email : chris.jung@hopewwcanada.org
-    halifax :
-      director :
-        title : director
-        name : Chris Jung
-       email : chris.jung@hopewwcanada.org
-    hamilton :
-      director :
-        title : director
-        name : Chris Jung
-        email : chris.jung@hopewwcanada.org
+  toronto : 
+    director :
+      title : director
+      name : Golden Iriah
+      email : golden.iriah@hopewwcanada.org
+  montreal :
+    director :
+      title_en : director
+      name : Anne Du Sault
+      email : anne.dusault@hopewwcanada.org
+  winnipeg : 
+    director :
+      title : director
+      name : Kimberlee Potter
+      email : kimberlee.potter@hopewwcanada.org
+  vancouver : 
+    director :
+      title : director
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
+  edmonton :
+    director :
+      title : director
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
+  halifax :
+    director :
+      title : director
+      name : Chris Jung
+     email : chris.jung@hopewwcanada.org
+  hamilton :
+    director :
+      title : director
+      name : Chris Jung
+      email : chris.jung@hopewwcanada.org
 
 social-media-presence :
   facebook : https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
