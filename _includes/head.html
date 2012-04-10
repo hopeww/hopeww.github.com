@@ -48,9 +48,9 @@
       var cnt = 0;
       $.each(data.results, function(index, result) {
         $('div#results').append('<div id="result">\
-            <p><br /><a href="' + result.docid + '">' + result.docid + '</a><br/>\
+            <br /><p><a href="' + result.docid + '">' + result.docid + '</a><br/>\
             ' + result.snippet_text + '</p>\
-        </div')
+        </div>')
           // alert(result.snippet_text);
         cnt +=1;
       });
