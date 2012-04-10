@@ -5,7 +5,7 @@ title: "Share About What Your Chapter is Doing"
 {% include JB/setup %}
 
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEZhVmtaVWs3bFdZajdrYjVJOUlVcGc6MQ" width="760" height="2153" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe align="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEZhVmtaVWs3bFdZajdrYjVJOUlVcGc6MQ" width="760" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 h2. Encourage Everyone by Sharing About What Your Chapter is Doing
 
