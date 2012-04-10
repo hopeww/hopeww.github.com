@@ -7,7 +7,7 @@ title: "Newsletter"
 <h2 class="icon-heart">&#160; Love <b>HOPE</b> <i>worldwide</i>?  </h2>
 
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="280" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
 
 
