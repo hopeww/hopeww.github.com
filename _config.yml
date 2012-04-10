@@ -47,8 +47,8 @@ departments :
   montreal :
     director :
       title :
-        en : director of the Quebec chapter
-        fr : directrice du chapitre du Québec
+        en : Director of the HOPE worldwide of Quebec chapter
+        fr : Directrice du chapitre du Québec
       name : Anne Du Sault
       email : anne.dusault@hopewwcanada.org
     programs :
@@ -76,7 +76,6 @@ departments :
         en : Logistics management 
         fr : La logistique
       name : Zee Zdravka
-
   winnipeg : 
     director :
       name : Kimberlee Potter
