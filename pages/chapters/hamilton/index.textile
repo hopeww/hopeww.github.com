@@ -3,7 +3,8 @@ layout: page_282
 title: "Hamilton"
 ---
 {% include JB/setup %}
-{% assign city="Hamilton" }
+{% assign city="Hamilton" %}
+
 !(img-right)/assets/themes/twitter/images/chapters/hamilton/hamilton_banner.jpg!
 
 
@@ -16,3 +17,8 @@ h2. Past Activities in {{ city }}
 	  </ul>
 	{% endif %}
 {% endfor %}
+
+
+h2. Chapter Information
+
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.edmonton.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.edmonton.director.email }}
