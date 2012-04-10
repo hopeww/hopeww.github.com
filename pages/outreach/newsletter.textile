@@ -4,7 +4,11 @@ title: "Newsletter"
 ---
 {% include JB/setup %}
 
-<h2 class="icon-heart">&#160; Love <b>HOPE</b> <i>worldwide</i>?  Sign up for a Newsletter.</h2>
+<h2 class="icon-heart">&#160; Love <b>HOPE</b> <i>worldwide</i>?  </h2>
+
+
+<iframe   src="https://docs.google.com/a/hopewwcanada.org/spreadsheet/viewform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ#gid=0" width="607" height="570" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+
 
 
 h2. Archived Newsletters
