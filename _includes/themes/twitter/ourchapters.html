@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
   {% include head.html %}
-
   <body>
-
    {% include navbar.html %}
-
     <div class="container">
       <p><br /><p>
       <p><br /><p>
@@ -18,7 +16,6 @@
             <li><a href="#history">History</a></li>
             <li><a href="#partners">Partners</a></li>
             <li><a href="#govern">Local Chapters Governance</a></li>
-            <!--<li><a href="#mgmt">Management</a></li>-->
             <li><a href="#op">Operations</a></li>
             <li><a href="#programs">Programs</a></li>
             <li><a href="#benefits">Benefits</a></li>
@@ -28,9 +25,9 @@
       </header>
       
       <div class="content">
+         <div id="results" class="modal hide fade in" style="display: none; "></div>
         {{ content }}
       </div>
-
 
       <footer>
         <hr />
