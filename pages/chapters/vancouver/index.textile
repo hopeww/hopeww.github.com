@@ -20,4 +20,4 @@ h2. Past Activities in {{ city }}
 
 h2. Chapter Information
 
-For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.vancouver.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.vancouver.director.email }}
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.vancouver.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.vancouver.director.email }}

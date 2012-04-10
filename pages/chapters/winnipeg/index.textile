@@ -13,7 +13,7 @@ h2. What HOPE worldwide of Canada means to me?
 
 Whether involved in a large community project, making a donation for disaster relief or a few hours pitching in at a local shelter, HOPE worldwide of Canada provides me with the opportunity to be a champion for the needy, and to make a difference once small act of service at a time. HOPE unites me with other volunteers so that as a collective we can make a contribution to the eradication of poverty and injustice in our world.
 
-<icon class="icon-leaf" /> __&#160;{{ site.departments.cities.winnipeg-director.name }}, Chapter Director__
+<icon class="icon-leaf" /> __&#160;{{ site.departments.winnipeg.director.name }}, Chapter Director__
 
 h2. Upcoming Chapter Activities
 
@@ -36,4 +36,4 @@ h2. Past Activities in {{ city }}
 
 h2. Chapter Information
 
-For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.winnipeg.director.name }}( {{ city }} Chapter Director)":mailto:{{ site.departments.cities.winnipeg.director.email }}
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.winnipeg.director.name }}( {{ city }} Chapter Director)":mailto:{{ site.departments.winnipeg.director.email }}

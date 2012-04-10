@@ -25,4 +25,4 @@ One Wednesday in Dec distributing hats, mitts and other clothing items and provi
 
 h2. Chapter Information
 
-For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.cities.edmonton.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.cities.edmonton.director.email }}
+For more information on the {{ city }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.edmonton.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.edmonton.director.email }}
