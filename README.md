@@ -11,6 +11,7 @@
 - [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
 - [Bootswatch](http://bootswatch.com/)
 - [Bootstrap Modals Tutorial](http://www.w3resource.com/twitter-bootstrap/modals-tutorial.php)
+- [Lavish - bootstrap color changer](http://www.lavishbootstrap.com)
 
 ## Unused Pages 
 - pages.html
