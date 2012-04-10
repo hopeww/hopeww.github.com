@@ -2,7 +2,7 @@
 layout: post
 title: "Improv is Fun! YWCA Workshop"
 category: Toronto
-tags: [YWCA,singles]
+tags: [Toronto]
 ---
 {% include JB/setup %}
 !(img-right)/assets/themes/twitter/images/posts/2012-04-07-improv-is-fun-ywca-workshop/2.jpg!

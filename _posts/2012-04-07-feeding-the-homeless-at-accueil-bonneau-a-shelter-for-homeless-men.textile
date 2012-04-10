@@ -2,7 +2,7 @@
 layout: post
 title: "Feeding the homeless at Accueil Bonneau, a shelter for homeless men"
 category: Montreal
-tags: [homeless]
+tags: [Montreal]
 ---
 {% include JB/setup %}
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Activités de HOPE worldwide à Montréal en 2011"
 category: Montreal_French 
-tags: [activités]
+tags: [Montreal_French]
 ---
 {% include JB/setup %}
 

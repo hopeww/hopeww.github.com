@@ -2,7 +2,7 @@
 layout: post
 title: "All winter activities in Edmonton 2011"
 category: Edmonton
-tags: [activities]
+tags: [Edmonton]
 ---
 {% include JB/setup %}
 

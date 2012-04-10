@@ -2,7 +2,7 @@
 layout: post
 title: "Village of HOPE in Haiti"
 category: International
-tags: [Haiti, rebuilding]
+tags: [International]
 ---
 {% include JB/setup %}
 

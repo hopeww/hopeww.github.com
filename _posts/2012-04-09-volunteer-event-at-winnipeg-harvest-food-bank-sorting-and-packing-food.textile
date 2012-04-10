@@ -2,7 +2,7 @@
 layout: post
 title: "Volunteer event at Winnipeg Harvest Food Bank sorting and packing food"
 category: Winnipeg
-tags: [food]
+tags: [Winnipeg]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->

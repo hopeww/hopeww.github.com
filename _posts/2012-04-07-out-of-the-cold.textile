@@ -2,7 +2,7 @@
 layout: post
 title: "Out of the Cold Winter 2012"
 category: Toronto
-tags: [homeless, east region]
+tags: [Toronto]
 ---
 {% include JB/setup %}
 

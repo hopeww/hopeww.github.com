@@ -2,7 +2,7 @@
 layout: post
 title: "All winter activities in Halifax 2011"
 category: Halifax
-tags: [activities]
+tags: [Halifax]
 ---
 {% include JB/setup %}
 

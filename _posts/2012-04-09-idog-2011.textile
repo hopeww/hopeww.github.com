@@ -2,7 +2,7 @@
 layout: post
 title: "International Day of Giving 2011"
 category: Winnipeg
-tags: [giving]
+tags: [Winnipeg]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
