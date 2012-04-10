@@ -16,6 +16,14 @@ To me HOPE worldwide is a hand filled with hope and love for all the needy of ou
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.montreal.director.name }}, Chapter Director__
 
+h2. Planned Upcoming activities
+
+1. Clean up day (May)
+2. Mini HOPE retreat (July)
+3. Fund raising activity for a new project for kids in Abijan, Africa (Aug-Sept)
+4. School bags (Aug)
+5. Christmas for kids (Dec.) 
+
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
 	{% if category[0] == city %}
