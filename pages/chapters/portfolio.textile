@@ -1,5 +1,4 @@
 ---
 layout: portfolio
-title: "test"
-category: portfolio
+title: "test portfolio"
 ---
