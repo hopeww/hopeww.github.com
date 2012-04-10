@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_282
 title: "Terms Of Use"
 ---
 {% include JB/setup %}
