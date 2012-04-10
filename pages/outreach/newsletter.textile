@@ -10,7 +10,7 @@ title: "Newsletter"
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="285" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
 
+<h2 class="icon-book">Archived Newsletters</h2>
 
-h2. Archived Newsletters
 
 "(btn icon-external-link btn-primary)&nbsp;Read our latest newsletter (Feb 27, 2012) (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk
