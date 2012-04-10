@@ -4,7 +4,7 @@ title: "Newsletter"
 ---
 {% include JB/setup %}
 
-<h2 class="icon-heart">&#160; Us?  Sign up for a Newsletter.</h2>
+<h2 class="icon-heart">&#160; Love <b>HOPE</b> <i>worldwide</i>?  Sign up for a Newsletter.</h2>
 
 
 h2. Archived Newsletters
