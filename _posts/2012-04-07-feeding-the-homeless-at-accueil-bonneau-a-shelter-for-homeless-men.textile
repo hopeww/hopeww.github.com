@@ -6,6 +6,9 @@ tags: [Montreal]
 ---
 {% include JB/setup %}
 
+
+!(img-right)/assets/themes/twitter/images/posts/2012-04-07-feeding-the-homeless-at-accueil-bonneau-a-shelter-for-homeless-men/1.jpg! 
+
 The Accueil Bonneau is a well known shelter in Montreal where homeless men can go and eat two meals every day as well as find a bed to sleep.
 
 The Quebec chapter of HOPE is helping by sending one volunteer every Wednesday and about 5 volunteers every last Saturday of each month. They help to set up tables, serving the food and cleaning up after each

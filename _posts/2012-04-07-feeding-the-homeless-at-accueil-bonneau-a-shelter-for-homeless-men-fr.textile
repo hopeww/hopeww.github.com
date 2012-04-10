@@ -6,6 +6,10 @@ tags: [Montreal_French]
 ---
 {% include JB/setup %}
 
+
+
+!(img-right)/assets/themes/twitter/images/posts/2012-04-07-feeding-the-homeless-at-accueil-bonneau-a-shelter-for-homeless-men/1.jpg! 
+
 L'Accueil Bonneau est un refuge bien connu de Montréal. Les hommes en situation d’itinérance peuvent y recevoir deux repas chaque jour et y trouver un lit pour la nuit.
 
 La division du Québec de HOPE Worldwide Canada apporte son aide à l’Accueil Bonneau en y envoyant un bénévole chaque mercredi et environ cinq bénévoles le dernier samedi de chaque mois. Ils aident à mettre en place les tables, à servir les repas et à nettoyer les lieux après chaque repas.
