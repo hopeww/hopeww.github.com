@@ -40,11 +40,11 @@
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
   {% unless page.tags == empty %}
-    <br />
+    <p><br /><p>
     <h4>City</h4>
     <ul class="tag_box">
-    {% assign categories_list = site.categories %}
-  {% include JB/categories_list %}
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
     </ul>
   {% endunless %}  
   </div>
