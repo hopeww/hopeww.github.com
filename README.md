@@ -9,7 +9,6 @@
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [Glossy.js](http://www.netzgesta.de/glossy/)
 - [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
-- [Fontawesom](http://fortawesome.github.com/Font-Awesome/)
 - [Bootswatch](http://bootswatch.com/)
 - [Bootstrap Modals Tutorial](http://www.w3resource.com/twitter-bootstrap/modals-tutorial.php)
 
