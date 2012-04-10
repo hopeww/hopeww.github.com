@@ -9,8 +9,8 @@ title: "Newsletter"
 <br />
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="285" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
-<p><br /><p>
-	<hr />
+
+<br /><hr />
 
 <h2 class="icon-book">&#160;Archived Newsletters</h2>
 <br />
