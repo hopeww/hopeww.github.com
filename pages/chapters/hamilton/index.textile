@@ -3,4 +3,16 @@ layout: page_282
 title: "Hamilton"
 ---
 {% include JB/setup %}
+{% assign city="Hamilton" }
 !(img-right)/assets/themes/twitter/images/chapters/hamilton/hamilton_banner.jpg!
+
+
+h2. Past Activities in {{ city }}
+{% for category in site.categories %} 
+	{% if category[0] == city %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include JB/pages_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
