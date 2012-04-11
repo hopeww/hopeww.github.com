@@ -1,10 +1,10 @@
 ---
-layout: page_282
+layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
-category: Latest_Newsletter
-tags: [Latest_Newsletter]
-published_date : "Feb 27, 2012"
-date_string : "2012/02/27"
+category: Newsletter
+tags: [Newsletter]
+published_date : "Dec 31, 2011"
+date_string : "2011/12/31"
 img_caption : "Right-click here to download pictures. To help protect your privacy, Outlook prevented automatic download  of this picture from the Internet."
 large_story_1_heading : "Ut wisi enim ad minim veniam"
 large_story_2_heading : "Nam liber tempor"
