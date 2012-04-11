@@ -1,12 +1,5 @@
-{% if tags_list.first[0] == null %}
-  {% for tag in tags_list %} 
-  	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }} 
-    <span>{{ site.tags[tag].size }}</span></a></li>
-  {% endfor %}
-{% else %}
-  {% for tag in tags_list %} 
-  	<li><a href="{{ BASE_PATH }}/chapters/city/{{city}}">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
-  {% endfor %}
-{% endif %}
+{% for tag in tags_list %} 
+	<li><a href="{{ BASE_PATH }}/chapters/{{tag[0]}}">{{ tag[0] }}</a></li>
+{% endfor %}
 
 {% assign tags_list = nil %}
