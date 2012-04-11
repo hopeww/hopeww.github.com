@@ -1,18 +1,20 @@
 
 {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
-    	{% if tag == "International" %}
-    		<li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase}}">{{ tag }}</a></li>
-    	{% else %}
-    		<li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag | downcase}}">{{ tag }}</a></li>
-    	{% endif %}
+        {% case tag %}
+        {% when "International" %}
+            <li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase}}">{{ tag }}</a></li>
+        {% else %}
+            <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag | downcase}}">{{ tag }}</a></li>
+        {% endcase %}
     {% endfor %}
 {% else %}
     {% for tag in tags_list %}
-    	{% if tag == "International" %}
+        {% case tag %}
+    	{% when "International" %}
     		<li><a href="{{ BASE_PATH }}/pages/work/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% else %} 
     		<li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
-    	{% endif %}
+    	{% endcase %}
     {% endfor %}
 {% endif %}
