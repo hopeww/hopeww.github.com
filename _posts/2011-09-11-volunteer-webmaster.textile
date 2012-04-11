@@ -3,6 +3,7 @@ layout: post
 title: "Volunteer: Webmaster / Graphic Designer"
 category: Volunteer_Toronto_Active
 tags: [Volunteer_Toronto_Active]
+published_date : "Sep 11, 2011"
 ---
 
 {% include JB/setup %}

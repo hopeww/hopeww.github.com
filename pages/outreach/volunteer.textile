@@ -33,5 +33,19 @@ h2. Opportunities in {{city}}
 <hr />
 {% endfor %}
 
+{% assign city="Toronto" %}
+
+h2. Opportunities in {{city}}
+
+	{% for category in site.categories %} 
+		{% if category[0] == "Volunteer_Toronto_Active" %}
+		  <ul>
+		    {% assign pages_list = category[1] %}  
+		    {% include custom/volunteer_list %}
+		  </ul>
+		{% endif %}
+	{% endfor %}
+<hr />
+
 
 

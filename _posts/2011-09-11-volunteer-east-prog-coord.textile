@@ -2,6 +2,7 @@
 layout: post
 title: "Volunteer: Program Coordinator for Toronto East"
 category: Volunteer_Toronto_Active
+published_date : "Sep 11, 2011"
 tags: [Volunteer_Toronto_Active]
 ---
 
