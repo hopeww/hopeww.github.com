@@ -102,8 +102,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
   <li class="project span3">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg"  />
-    <p>Chapters may develop fundraising goals and hold fundraisers such as:
-        <ul>
+    <p>Chapters may develop fundraising goals and hold fundraisers such as:  <ul>
           <li>5k walk/run for HOPE worldwide</li>
           <li>direct solitations from donors</li>
           <li>in kind gifts</li>
