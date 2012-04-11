@@ -7,10 +7,9 @@ title: "Fundraise or Donate"
 
 <iframe class="img-right" src="https://docs.google.com/a/hopewwcanada.org/spreadsheet/embeddedform?formkey=dDMyUHdCS21UX1dnM1NrcUdVX0JvX3c6MQ" width="607" height="525" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<h2 class="icon-gift">&#160;&#160;Why Fundraise</h2>
+<h2 class="icon-gift">&#160;&#160;Why Fundraise and Donate</h2>
 
 
 <h2>Fundraise Ideas</h2>
 
 
-<h2>Help us Fundraise</h2>

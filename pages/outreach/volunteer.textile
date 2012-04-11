@@ -8,7 +8,7 @@ title: "Volunteer"
 
 Thank you for your interest in serving in __HOPE__ *worldwide* of Canada.  Please kindly review our various volunteer openings & fill in the volunteer registration form to the right.
 
-h2. Articles
+<h2 class="icon-fire">&#160;&#160;Why Volunteer</h2><br />
 
 "Grow, Give back, Hope! Benefits of Volunteering":/pages/articles/benefits_volunteering.html
 
