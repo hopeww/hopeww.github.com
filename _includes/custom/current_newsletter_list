@@ -1,21 +1,15 @@
 {% for node in pages_list %}
     {% if group == null or group == node.group %}
-    	{% if page.url == node.url %}
-    		<li class="project {{span}}">
-    			<a href="{{ BASE_PATH }}{{node.url}}" class="active">
-    				<img src="{{node.image}}" />
-    				<h5>{{node.title}}</h5>
-    				{{node.blurb}}
-    			</a>
-    		</li>
+   		<li >
+        {% if page.url == node.url %}
+			<a href="{{ BASE_PATH }}{{node.url}}" class="active btn btn-primary icon-bookmark" class="active">
+				{{node.title}} - {{node.date_string}}
+			</a>
     	{% else %}
-    		<li class="project {{span}}">
-    			<a href="{{ BASE_PATH }}{{node.url}}">
-    				<img src="{{node.image}}" />
-    				<h5>{{node.title}}</h5>
-    				{{node.blurb}}
-    			</a>
-    		</li>
-    	{% endif %}
+			<a href="{{ BASE_PATH }}{{node.url}}" class="active btn btn-primary icon-bookmark">
+				{{node.title}} - {{node.date_string}}
+			</a>
+        {% endif %}
+   		</li>
     {% endif %}
 {% endfor %}
