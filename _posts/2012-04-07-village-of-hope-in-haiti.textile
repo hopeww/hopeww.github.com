@@ -3,6 +3,8 @@ layout: post
 title: "Village of HOPE in Haiti"
 category: International
 tags: [International]
+blurb : "Helping rebuild Port of Prince after the earthquake"
+heading : "Haiti"
 ---
 {% include JB/setup %}
 
