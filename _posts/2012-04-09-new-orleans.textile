@@ -4,7 +4,6 @@ title: "Helping Rebuilding in New Orleans"
 category: International
 tags: [International]
 blurb : "This is an interview with a volunteer who had visited the New Orleans site."
-heading : "New Orleans"
 image : /assets/themes/twitter/images/work/international/main_neworleans.png
 ---
 {% include JB/setup %}

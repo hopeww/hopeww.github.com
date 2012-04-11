@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Ophthalmic donated"
+title: "St. Lucia"
 category: International
 tags: [International]
 blurb : "An ophthalmic camera was donated that will... "
-heading : "St. Lucia"
 image : /assets/themes/twitter/images/work/international/main_st_lucia.png
 ---
 {% include JB/setup %}
