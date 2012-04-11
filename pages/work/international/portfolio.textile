@@ -5,7 +5,7 @@ title: "International Relief Assistance"
 {% include JB/setup %}
 <ul id="projects">
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/aricosa">
           
             <img src="/images/aricosa.jpg" title="Aricosa" alt="Aricosa" />
@@ -15,7 +15,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/auctions-a-la-carte">
           
             <img src="/images/auctionsalacarte.jpg" title="Auctions à la Carte" alt="Auctions à la Carte" />
@@ -25,7 +25,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/b12">
           
             <img src="/images/b12.jpg" title="B12" alt="B12" />
@@ -35,7 +35,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/corpedia">
           
             <img src="/images/corpedia.jpg" title="Corpedia" alt="Corpedia" />
@@ -45,7 +45,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/data-realization">
           
             <img src="/images/data-realization.jpg" title="Data Realization" alt="Data Realization" />
@@ -55,7 +55,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/dev-fu">
           
             <img src="/images/dev-fu.jpg" title="Dev Fu" alt="Dev Fu" />
@@ -65,7 +65,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/give-the-ok">
           
             <img src="/images/givetheok.jpg" title="Give the OK!" alt="Give the OK!" />
@@ -75,7 +75,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/groupon">
           
             <img src="/images/groupon.jpg" title="Groupon" alt="Groupon" />
@@ -85,7 +85,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/hylo">
           
             <img src="/images/hylo.jpg" title="HyLo" alt="HyLo" />
@@ -95,7 +95,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/kyros">
           
             <img src="/images/kyros.jpg" title="Kyros" alt="Kyros" />
@@ -105,7 +105,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/mad-mimi">
           
             <img src="/images/mad-mimi.jpg" title="Mad Mimi" alt="Mad Mimi" />
@@ -115,7 +115,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/minuteglass">
           
             <img src="/images/minuteglass.jpg" title="Minuteglass" alt="Minuteglass" />
@@ -125,7 +125,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/pick-im">
           
             <img src="/images/pick-im.jpg" title="Pick.im" alt="Pick.im" />
@@ -135,7 +135,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/snapped4u">
           
             <img src="/images/snapped4u.jpg" title="Snapped4u" alt="Snapped4u" />
@@ -145,7 +145,7 @@ title: "International Relief Assistance"
         </a>
       </li>
     
-      <li class="project span5">
+      <li class="project span2">
         <a href="/portfolio/yoogot">
           
             <img src="/images/yoogot.jpg" title="Yoogot" alt="Yoogot" />
