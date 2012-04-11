@@ -27,7 +27,6 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
     </p>
   </li>
 
-  <!-- new row -->
   <li class="project span3">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" title="Local" />
     <p><h5>Local Chapters Governance</h5>
@@ -36,6 +35,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
         <p> Each chapter will be governed by our Canadian Board of Directors and supported by a Local Board of Advisors.</p>
     </p>
   </li>
+
   <li class="project span3">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg"  />
     <p><h5>Centrally Managed</h5>
