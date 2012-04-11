@@ -8,8 +8,16 @@ title: "Fundraising and Donation"
 <iframe class="img-right" src="https://docs.google.com/a/hopewwcanada.org/spreadsheet/embeddedform?formkey=dDMyUHdCS21UX1dnM1NrcUdVX0JvX3c6MQ" width="607" height="525" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <h2 class="icon-gift">&#160;&#160;Why Fundraise and Donate</h2>
+<p>
+coming soon
 
-
+</p>
+<hr />
 <h2>Fundraising Ideas</h2>
+<p>
+coming soon
+
+</p>	
+<hr />
 
 
