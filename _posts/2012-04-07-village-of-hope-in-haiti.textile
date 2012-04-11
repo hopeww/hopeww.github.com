@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Village of HOPE in Haiti"
+title: "Report: Village of HOPE in Haiti"
 category: International
 tags: [International]
-blurb : "Helping rebuild Port of Prince after the earthquake"
+blurb : "HOPE worldwide of Canada sent $30,000 to Haiti"
 image : ""
 ---
 {% include JB/setup %}
