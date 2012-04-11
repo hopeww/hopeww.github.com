@@ -1,6 +1,6 @@
 ---
 layout: page_narrower_main
-title: "Testamonials"
+title: "Testimonials"
 ---
 {% include JB/setup %}
 
