@@ -1,0 +1,7 @@
+---
+layout: page_narrower_main
+title: "Testamonials"
+---
+{% include JB/setup %}
+
+coming soon
