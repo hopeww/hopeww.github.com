@@ -1,6 +1,8 @@
 ---
 layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
+category: Montreal
+tags: [Montreal]
 date : "April 12, 2012"
 large_story_1_heading : ""
 large_story_2_heading : ""
@@ -27,5 +29,6 @@ small_story_2_lnk : ""
 small_story_3_lnk : ""
 small_story_4_lnk : ""
 ---
+
 {% include JB/setup %}
 
