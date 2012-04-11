@@ -27,6 +27,8 @@ headquarters-info :
   phone : 1 416 278 7607
   contacts-page : /pages/aboutus/contact_us.html
 
+cities : [Toronto, Montreal, Winnipeg, Vancouver, Edmonton, Halifax, Hamilton]
+
 departments : 
   volunteer-management : 
     name : Racine Mandrage
