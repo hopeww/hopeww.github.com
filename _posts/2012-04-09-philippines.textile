@@ -5,6 +5,7 @@ category: International
 tags: [International]
 blurb : "Since 2010, HOPE worldwide of Canada has contributed funds to restore and improve the Laguna Centre of HOPE in the Philippines. Read about their progress in this feature report"
 heading : "Philippines"
+image : /assets/themes/twitter/images/work/international/main_1_phillipns.jpg
 ---
 {% include JB/setup %}
 

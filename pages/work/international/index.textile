@@ -1,9 +1,19 @@
 ---
 layout: page_wider_main
 title: "International Relief Assistance"
+
 ---
 {% include JB/setup %}
 
+{% for category in site.categories %} 
+  {% if category[0] == "International" %}
+    <ul id="projects">
+      {% assign pages_list = category[1] %}  
+      {% include custom/pages_list %}
+    </ul>
+  {% endif %}
+{% endfor %}
+<!--
 <ul id="projects">
   <li class="project span3">
     <a title="(Philippines) This is an external pdf" link="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U" >
@@ -26,3 +36,4 @@ title: "International Relief Assistance"
     </a>
   </li>
 </ul>
+-->

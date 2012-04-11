@@ -5,6 +5,7 @@ category: International
 tags: [International]
 blurb : "Helping rebuild Port of Prince after the earthquake"
 heading : "Haiti"
+image : ""
 ---
 {% include JB/setup %}
 

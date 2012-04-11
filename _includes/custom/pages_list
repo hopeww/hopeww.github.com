@@ -1,0 +1,9 @@
+{% for node in pages_list %}
+    {% if group == null or group == node.group %}
+    	{% if page.url == node.url %}
+    		<li class="project span3"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+    	{% else %}
+    		<li class="project span3"><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+    	{% endif %}
+    {% endif %}
+{% endfor %}
