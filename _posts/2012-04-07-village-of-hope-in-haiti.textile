@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Report: Village of HOPE in Haiti"
+title: "Village of HOPE in Haiti, a report"
 category: International
 tags: [International]
 blurb : "HOPE worldwide of Canada sent $30,000 to Haiti"
-image : image : /assets/themes/twitter/images/work/international/main_village.jpg
+image : /assets/themes/twitter/images/work/international/main_village.jpg
 ---
 {% include JB/setup %}
 
