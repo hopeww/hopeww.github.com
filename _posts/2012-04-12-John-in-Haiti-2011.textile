@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transforming Haiti 2011"
+title: "Transforming Haiti, a volunteer's story"
 category: International
 tags: [International]
 blurb : "I wanted to go to a place where the needs were obvious"
