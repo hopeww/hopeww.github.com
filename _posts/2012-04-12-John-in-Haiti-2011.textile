@@ -4,7 +4,7 @@ title: "Transforming Haiti 2011"
 category: International
 tags: [International]
 blurb : "I wanted to go to a place where the needs were obvious"
-image : /assets/themes/twitter/images/work/international/main_neworleans.png
+image : /assets/themes/twitter/images/work/international/main_haiti.jpg
 ---
 {% include JB/setup %}
 
