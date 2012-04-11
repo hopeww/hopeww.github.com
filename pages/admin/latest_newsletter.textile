@@ -1,6 +1,22 @@
 ---
 layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
+large_story_1_txt : ""
+large_story_2_txt : ""
+large_story_3_txt : ""
+large_story_4_txt : ""
+large_story_1_lnk : ""
+large_story_2_lnk : ""
+large_story_3_lnk : ""
+large_story_4_lnk : ""
+small_story_1_txt : ""
+small_story_2_txt : ""
+small_story_3_txt : ""
+small_story_4_txt : ""
+small_story_1_lnk : ""
+small_story_2_lnk : ""
+small_story_3_lnk : ""
+small_story_4_lnk : ""
 ---
 {% include JB/setup %}
 
