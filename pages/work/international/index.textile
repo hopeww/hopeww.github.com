@@ -13,31 +13,3 @@ title: "International Relief Assistance"
     </ul>
   {% endif %}
 {% endfor %}
-
-
-<!--
-
-<ul id="projects">
-  <li class="project span3">
-    <a title="(Philippines) This is an external pdf" link="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U" >
-        <img src="/assets/themes/twitter/images/work/international/main_1_phillipns.jpg"  />
-      <p><h5>Philippines</h5>Since 2010, HOPE worldwide of Canada has contributed funds to restore and improve the Laguna Centre of HOPE in the Philippines. Much has been accomplished since 2010. Read about their progress in this feature report</p>
-    </a>
-  </li>
-
-  <li class="project span3">
-    <a href="">
-        <img src="/assets/themes/twitter/images/work/international/main_st_lucia.png" title="St. Lucia"/>
-      <p><h5>St. Lucia Update</h5>An ophthalmic camera was donated that will serve as a further tool by which public health practitioners in Saint Lucia will diagnose and treat eye ailments in particular those associated with diabetes.</p>
-    </a>
-  </li>
-
-  <li class="project span3">
-    <a href="new_orleans.html">
-        <img src="/assets/themes/twitter/images/work/international/main_neworleans.png" title="New Orleans" />
-      <p><h5>New Orleans</h5>In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina. </p>
-    </a>
-  </li>
-</ul>
-
--->
