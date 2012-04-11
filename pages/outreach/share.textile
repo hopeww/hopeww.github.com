@@ -5,9 +5,11 @@ title: "Sharing"
 {% include JB/setup %}
 
 
-<h4 class="icon-thumbs-up">&#160;Encourage Everyone by Sharing About What Your Chapter is Doing</h4>
+<h3 class="icon-thumbs-up">&#160;Encourage Everyone by Sharing About What Your Chapter is Doing</h3>
 
 Please fill in this form to let us know the great things you're doing in your chapter, or share a testamonial if your life has been touched by the work of *HOPE* __worldwide__ of Canada.
+
+<br />
 
 <iframe  src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEZhVmtaVWs3bFdZajdrYjVJOUlVcGc6MQ" width="607" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
