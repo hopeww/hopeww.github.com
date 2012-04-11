@@ -10,6 +10,6 @@ title: "Fundraise or Donate"
 <h2 class="icon-gift">&#160;&#160;Why Fundraise and Donate</h2>
 
 
-<h2>Fundraise Ideas</h2>
+<h2>Fundraising Ideas</h2>
 
 
