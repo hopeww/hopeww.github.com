@@ -45,7 +45,7 @@
     ); //end var result
   */
 
-    var url = 'http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c?query=' + encodeURIComponent(query) + '&callback=?';
+    var url = 'http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c&query=' + encodeURIComponent(query) + '&callback=?';
     var result =  $.getJSON(url, function(data){
       create_heading();
       var results_str = "";
