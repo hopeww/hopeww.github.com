@@ -4,4 +4,11 @@ title: "Fundraising Opportunities"
 ---
 {% include JB/setup %}
 
-h5. coming soon
+
+<h2 class="icon-gift">Why Fundraise</h2>
+
+
+<h2>Fundraise Ideas</h2>
+
+
+<h2>Help us Fundraise</h2>
