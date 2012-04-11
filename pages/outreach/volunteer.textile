@@ -1,13 +1,13 @@
 ---
 layout: page_wider_main
-title: "Volunteer"
+title: "Volunteer - Fuel Your Fire"
 ---
 {% include JB/setup %}
 
 <iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="535" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
 
-<h2 class="icon-fire">&#160;&#160;Why Volunteer</h2><br />
+<h2 class="icon-fire">&#160;&#160;Why I should consider it?</h2><br />
 
 "Grow, Give back, Hope! Benefits of Volunteering":/pages/articles/benefits_volunteering.html
 
