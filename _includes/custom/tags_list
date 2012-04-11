@@ -4,6 +4,8 @@
         {% case tag %}
         {% when "International" %}
             <li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase}}">{{ tag }}</a></li>
+        {% when "Youth_Corp" %}
+            <li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag }}</a></li>
         {% else %}
             <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag | downcase}}">{{ tag }}</a></li>
         {% endcase %}
@@ -11,8 +13,10 @@
 {% else %}
     {% for tag in tags_list %}
         {% case tag %}
-    	{% when "International" %}
-    		<li><a href="{{ BASE_PATH }}/pages/work/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
+        {% when "International" %}
+            <li><a href="{{ BASE_PATH }}/pages/work/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
+    	{% when "Youth_Corp" %}
+    		<li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag[0] }}</a></li>
     	{% else %} 
     		<li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% endcase %}
