@@ -18,15 +18,19 @@ Subscribe to our newsletter to stay abreast of what HOPE worldwide of Canada is 
 <br />
 
 "(btn icon-external-link btn-bookmark)&nbsp;Read our latest newsletter (Feb 27, 2012) (This is an external pdf)":https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk
+
+
 {% for category in site.categories %} 
 	{% if category[0] == "Latest_Newsletter" %}
 	  <ul>
 	    {% assign pages_list = category[1] %}  
-	    {% include custom/current_newsletters_list %}
+	    {% include custom/current_newsletter_list %}
 	  </ul>
 	{% endif %}
 {% endfor %}
 
+<br />
+<hr />
 
 <h2 class="icon-book">&#160;Archived Newsletters</h2>
 <br />
@@ -34,7 +38,7 @@ Subscribe to our newsletter to stay abreast of what HOPE worldwide of Canada is 
 	{% if category[0] == "Newsletter" %}
 	  <ul>
 	    {% assign pages_list = category[1] %}  
-	    {% include custom/old_newsletters_list %}
+	    {% include custom/old_newsletter_list %}
 	  </ul>
 	{% endif %}
 {% endfor %}
