@@ -6,6 +6,8 @@ title: "Newsletter"
 
 <h2 class="icon-heart">&#160; Love <b>HOPE</b> <i>worldwide</i>?  </h2>
 
+!(img-right)/assets/themes/twitter/images/icons/hopewwc_logo.png! 
+
 <br />
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="360" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
