@@ -23,7 +23,7 @@ coming soon
 <h2>Donate</h2>
 <p>
 <a href="{{ site.social-media-presence.canadahelps }}">
-	<img  src="{{ ASSET_PATH }}/images/icons/highvalue0.jpg" alt=""  onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});" >
+	<img  src="/assets/themes/twitter/images/icons/highvalue0.jpg" alt=""  onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});" >
 </a>
 </p>	
 
