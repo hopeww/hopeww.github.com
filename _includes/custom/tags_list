@@ -3,7 +3,7 @@
     {% for tag in tags_list %} 
         {% case tag %}
         {% when "International" %}
-            <li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase}}">{{ tag }}</a></li>
+            <li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase }}">{{ tag }}</a></li>
         {% when "Youth_Corp" %}
             <li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag }}</a></li>
         {% else %}
