@@ -17,35 +17,112 @@ Thank you for your interest in serving in __HOPE__ *worldwide* of Canada.  Pleas
 
 
 
-{% for thecity in site.cities %} 
-{% assign city=thecity %}
-
-h2. Opportunities in {{city}}
-
-	{% for category in site.categories %} 
-		{% if category[0] == "Volunteer_{{city}}_Active" %}
-		  <ul>
-		    {% assign pages_list = category[1] %}  
-		    {% include custom/volunteer_list %}
-		  </ul>
-		{% endif %}
-	{% endfor %}
-<hr />
-{% endfor %}
 
 {% assign city="Toronto" %}
 
 h2. Opportunities in {{city}}
 
-	{% for category in site.categories %} 
-		{% if category[0] == "Volunteer_Toronto_Active" %}
-		  <ul>
-		    {% assign pages_list = category[1] %}  
-		    {% include custom/volunteer_list %}
-		  </ul>
-		{% endif %}
-	{% endfor %}
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_Toronto_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+<hr />
+
+{% assign city="Montreal" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
+<hr />
+
+{% assign city="Winnipeg" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
 <hr />
 
 
+{% assign city="Vancouver" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
+<hr />
+
+
+{% assign city="Edmonton" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
+<hr />
+
+
+{% assign city="Halifax" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
+<hr />
+
+
+{% assign city="Hamilton" %}
+
+h2. Opportunities in {{city}}
+
+{% for category in site.categories %} 
+	{% if category[0] == "Volunteer_{{city}}_Active" %}
+	  <ul>
+	    {% assign pages_list = category[1] %}  
+	    {% include custom/volunteer_list %}
+	  </ul>
+	{% endif %}
+{% endfor %}
+
+<hr />
 
