@@ -1,12 +1,9 @@
 ---
 layout: page_282
-title: "Sharing"
+title: "Encourage Everyone by Sharing About What Your Chapter is Doing"
 ---
 {% include JB/setup %}
 
-
-<h2 class="icon-comment">&#160;Encourage Everyone by Sharing About What Your Chapter is Doing</h2>
-<br />
 
 
 <iframe  src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEZhVmtaVWs3bFdZajdrYjVJOUlVcGc6MQ" width="607" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
