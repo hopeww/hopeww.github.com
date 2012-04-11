@@ -5,7 +5,7 @@ title: "Sharing"
 {% include JB/setup %}
 
 
-<h2 class="icons-thumbs-up">Encourage Everyone by Sharing About What Your Chapter is Doing</h2>
+<h4 class="icon-thumbs-up">&#160;Encourage Everyone by Sharing About What Your Chapter is Doing</h4>
 
 Please fill in this form to let us know the great things you're doing in your chapter, or share a testamonial if your life has been touched by the work of *HOPE* __worldwide__ of Canada.
 
