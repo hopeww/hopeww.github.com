@@ -3,7 +3,7 @@ layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
 category: Latest_Newsletter
 tags: [Latest_Newsletter]
-date : "April 12, 2012"
+published_date : "April 12, 2012"
 large_story_1_heading : ""
 large_story_2_heading : ""
 large_story_3_heading : ""
