@@ -7,27 +7,27 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
 
 <ul id="projects">
 
-  <li class="project span3">
+  <li class="project span5">
         <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/vision.jpg"  />
         <p><b>Vision:</b> <b>HOPE</b> <i>worldwide</i>'s vision is to bring hope and change to the world's neediest people.</p>
         <p><b>Mission:</b> <b>HOPE</b> <i>worldwide</i> is an international charity that changes lives by harnessing the compassion and commitment of dedicated staff and volunteers to deliver sustainable, high-impact, community-based services to the poor and needy.</p></p>
   </li>
 
-  <li class="project span3">
+  <li class="project span5">
       <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/history.jpg" />
       <p><h5>History</h5>
         HOPE <i>worldwide</i> was founded in response to the Scriptures, which call us to have the heart of Jesus by serving the poor and needy around the world.
       <p>We began in 1991 with three small local programs. Today, HOPE <i>worldwide</i> operates on every inhabited continent, serving more than one million people annually.</p>
   </li>
 
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/partners.jpg" title="partners" />
     <p><h5>Partners</h5>
     We are proud of our history of collaboration.  Our valued relationship with the International Churches of Christ dates from our founding. Our global network has grown to include countless individuals and organizations who are valued partners in the fight against poverty.
     </p>
   </li>
 
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" title="Local" />
     <p><h5>Local Chapters Governance</h5>
     Stated in the U.S., there are currently 110 Chapters.  Formerly chapters were named 'branches' or 'subsidiaries'.  Our goal is to have 141 U.S. chapters by the end of 2012.
@@ -36,13 +36,13 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
     </p>
   </li>
 
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/mgmt.jpg"  />
     <p><h5>Centrally Managed</h5>
     The <b>HOPE</b> <i>worldwide</i> of Canada Board will manage local chapters and coordinate days of service, national partnerships, nationwide fundraising directives, and grants management.
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/board.jpg"  />
     <p><h5>Locally Operated</h5>
     Each chapter is operated by a locally appointed leader and a board of advisors.
@@ -53,7 +53,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
 
   <!-- new row -->
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg"  />
     <p><h5>Programs</h5>
         <p>Programs are designed with the goal in mind to also inspire the faith of the volunteers.</p>
@@ -62,13 +62,13 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
           Service, Fundraising, Inspiring
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="/assets/themes/twitter/images/work/international/main_neworleans.png"  />
     <p><h5>Partners</h5>
     We are proud of our history of collaboration.  Our valued relationship with the International Churches of Christ dates from our founding. Our global network has grown to include countless individuals and organizations who are valued partners in the fight against poverty.
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/serve.jpg"  />
     <p><h5>Service</h5>
     Ways to serve and care for the poor locally and in partnership with HOPE <i>worldwide</i> global affiliates.
@@ -83,19 +83,19 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
 
   <!-- new row -->
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/community.jpg"  />
     <p><h5>Serving in the Local Community</h5>
         <b>HOPE</b> <i>worldwide</i> volunteers provide thousands of hours serving their local communities.
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/around_the_world.jpg"  />
     <p><h5>Serving in the Around the World</h5>
     Members of any chapter can also serve abroad in programs such as HOPE Youth Corp and HOPE Volunteer Corp.
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg"  />
     <p><h5>Partners</h5>
     We are proud of our history of collaboration.  Our valued relationship with the International Churches of Christ dates from our founding. Our global network has grown to include countless individuals and organizations who are valued partners in the fight against poverty.
@@ -103,7 +103,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
 
   <!-- new row -->
-  <li class="project span3">
+  <li class="project span5">
     <img src="/assets/themes/twitter/images/work/international/main_neworleans.png"  />
     <p><h5>Fundraise</h5>
         Aside from donations to the poor, resources may go towards
@@ -116,13 +116,13 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
         </ul>
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="/assets/themes/twitter/images/work/international/main_neworleans.png"  />
     <p><h5>Partners</h5>
     We are proud of our history of collaboration.  Our valued relationship with the International Churches of Christ dates from our founding. Our global network has grown to include countless individuals and organizations who are valued partners in the fight against poverty.
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/global.jpg"  />
     <p>Chapters may develop fundraising goals and hold fundraisers such as:
         <ul>
@@ -137,7 +137,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
 
   <!-- new row -->
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits.jpg"  />
     <p><h5>Inspire</h5>
         To inspire chapter's volunteers, friends, and local community, we can 
@@ -151,7 +151,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
         </ul>
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits2.jpg"  />
     <p><h5>Benefits to your church</h5>
         Service is an integral part of a follower of Christ.  It builds strong faith, increases gratefulness and obedience to the Word of God.
@@ -160,7 +160,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
         <p>The bottom line is that we get a more giving, grateful, and God glorifying church.</p>
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/benefits3.jpg"  />
     <p><h5>Benefits to members and youths</h5>
         A opportunity for members to discover and utilize certain gifts and talents that would otherwise not be used
@@ -172,7 +172,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   </li>
 
   <!-- new row -->
-  <li class="project span3">
+  <li class="project span5">
     <p><h5>Chapters are official parters of <b>HOPE</b> <i>worldwide</i> and receive special benefits</h5>
         The permission to use <b>HOPE</b> <i>worldwide</i> name and logo
         <p>Receive one-on-one support from Canada/US Team programs and other <b>HOPE</b> <i>worldwide</i> staff</p>
@@ -184,7 +184,7 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
         <p>Invited to <b>HOPE</b> <i>worldwide</i> conferences and trainings</p>
     </p>
   </li>
-  <li class="project span3">
+  <li class="project span5">
     <p><h5>Contact Us</h5>
     For more information on starting a HOPE _worldwide_ of Canada Chapter, please contact our country director Chris Jung.  <a href="chris.jung@hopewwcanada.org"><i class="icon-envelope" ></i> &#160;chris.jung@hopewwcanada.org</a>, or call +1 647 802 6884.</p>
   </li>
