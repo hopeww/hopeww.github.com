@@ -28,7 +28,6 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
     </p>
   </li>
 
-  <!-- new row -->
   <li class="project span4">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/local.jpg" title="Local" />
     <p><h5>Local Chapters Governance</h5>
