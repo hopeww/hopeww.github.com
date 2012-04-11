@@ -2,9 +2,9 @@
     {% if group == null or group == node.group %}
    		<li >
         {% if page.url == node.url %}
-			     <a href="{{ BASE_PATH }}{{node.url}}" class="active btn btn-primary icon-bookmark" class="active">{{node.date_string}}</a>
+			     <a href="{{ BASE_PATH }}{{node.url}}" class="active  icon-bookmark" class="active">{{node.published_date}}</a>
     	  {% else %}
-			     <a href="{{ BASE_PATH }}{{node.url}}" class="active btn btn-primary icon-bookmark"> {{node.date_string}} </a>
+			     <a href="{{ BASE_PATH }}{{node.url}}" class="active   icon-bookmark"> {{node.published_date}} </a>
         {% endif %}
    		</li>
     {% endif %}
