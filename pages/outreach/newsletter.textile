@@ -9,7 +9,7 @@ title: "Newsletter"
 !(img-right)/assets/themes/twitter/images/icons/hopewwc_logo.png! 
 
 <br />
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="360" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDJGRlRFZFZoQ3hlOXFSZ2xhMWtjUlE6MQ" width="607" height="380" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
 
 
 <br /><hr />
