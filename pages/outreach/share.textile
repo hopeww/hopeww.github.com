@@ -7,7 +7,7 @@ title: "Share About What Your Chapter is Doing"
 
 <iframe align="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEZhVmtaVWs3bFdZajdrYjVJOUlVcGc6MQ" width="760" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-h2. Encourage Everyone by Sharing About What Your Chapter is Doing
+<h2 class="icons-thumbs-up">Encourage Everyone by Sharing About What Your Chapter is Doing</h2>
 
 Please fill in this form to let us know the great things you're doing in your chapter, or share a testamonial if your life has been touched by the work of *HOPE* __worldwide__ of Canada.
 
