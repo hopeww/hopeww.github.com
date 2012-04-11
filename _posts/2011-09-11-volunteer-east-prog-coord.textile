@@ -1,8 +1,8 @@
 ---
-layout: page_282
+layout: post
 title: "Volunteer: Program Coordinator for Toronto East"
 category: Volunteer_Toronto_Active
-tags: [Volunteer]
+tags: [Volunteer_Toronto_Active]
 ---
 
 {% include JB/setup %}
