@@ -11,14 +11,14 @@ pygments: true
 #
 title : HOPE WorldWide of Canada
 tagline: Site Tagline
-author :
+author : 
   name : HOPE WorldWide of Canada
   email : joyce.chan@hopewwcanada.org
   github : hopeww
   twitter : HOPEwwofCanada
   feedburner : feedname
 
-headquarters-info:
+headquarters-info : 
   address : "11 Parkside Drive"
   city : Toronto
   province : Ontario
@@ -27,77 +27,77 @@ headquarters-info:
   phone : 1 416 278 7607
   contacts-page : /pages/aboutus/contact_us.html
 
-departments :
-  volunteer-management :
+departments : 
+  volunteer-management : 
     name : Racine Mandrage
     email : volunteer@hopewwcanada.org
-  marcom :
+  marcom : 
     name : Vuso Moyana
     email : communications@hopewwcanada.org
-  webmastering :
+  webmastering : 
     name : Joyce chan
     email : joyce.chan@hopewwcanada.org
-  country-director :
+  country-director : 
     name : Chris Jung
     email : chris.jung@hopewwcanada.org
   toronto : 
-    director :
+    director : 
       name : Golden Iriah
       email : golden.iriah@hopewwcanada.org
-  montreal :
-    director :
-      title :
+  montreal : 
+    director : 
+      title : 
         en : Director of the HOPE worldwide of Quebec chapter
         fr : Directrice du chapitre du Québec
       name : Anne Du Sault
       email : anne.dusault@hopewwcanada.org
-    programs :
-      title :
+    programs : 
+      title : 
         en : Program coordinator
         fr : Coordonnateur des programmes
       name : Paul-André Vénor
-    treasurer :
-      title :
+    treasurer : 
+      title : 
         en : Treasurer
         fr : Trésorier
       name: Ralph Albert
-    secretary :
-      title :
+    secretary : 
+      title : 
         en : Secretary
         fr : Secrétariat
       name : Patrick Kelly
-    hr :
-      title :
+    hr : 
+      title : 
         en : Volunteer coordinator
         fr : Coordonnateur des bénévoles
       name : Inès Yankoty and Anne-Marie Racine
-    logistics :
-      title :
+    logistics : 
+      title :  
         en : Logistics management 
         fr : La logistique
       name : Zee Zdravka
-  winnipeg : 
-    director :
+  winnipeg :  
+    director : 
       name : Kimberlee Potter
       email : kimberlee.potter@hopewwcanada.org
-  vancouver : 
-    director :
+  vancouver :  
+    director : 
       name : Chris Jung
       email : chris.jung@hopewwcanada.org
-  edmonton :
-    director :
+  edmonton : 
+    director : 
       name : Chris Jung
       email : chris.jung@hopewwcanada.org
-  halifax :
-    director :
+  halifax : 
+    director : 
       name : Chris Jung
       email : chris.jung@hopewwcanada.org
-  hamilton :
-    director :
+  hamilton : 
+    director : 
       name : Chris Jung
       email : chris.jung@hopewwcanada.org
 
-social-media-presence :
+social-media-presence : 
   facebook : https://www.facebook.com/pages/HOPE-worldwide-of-Canada/268997349780449
   twitter : "https://twitter.com/#!/HOPEwwofCanada"
   canadahelps : http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456
