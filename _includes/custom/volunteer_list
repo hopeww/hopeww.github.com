@@ -2,7 +2,7 @@
     {% if group == null or group == node.group %}
         <li >
         {% if page.url == node.url %}
-                 <a href="{{ BASE_PATH }}{{node.url}}" class="active  " class="active">{{node.published_date}} - {{node.title}}</a>
+                 <a href="{{ BASE_PATH }}{{node.url}}" class="active  " class="active">{{node.published_date}}&#160;&#160;{{node.title}}</a>
           {% else %}
                  <a href="{{ BASE_PATH }}{{node.url}}" > {{node.published_date}} </a>
         {% endif %}
