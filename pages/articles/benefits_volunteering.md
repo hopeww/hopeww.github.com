@@ -7,7 +7,7 @@ title: "Grow, Give back, Hope!"
 
 ## Benefits of Volunteering:
 
-<img class="img-right" src="/assets/themes/twitter/images/outreach/article_grow.jpg" />
+<img class="img-right" src="/assets/themes/twitter/images/outreach/article_grow.jpg" onload="cvi_glossy.add(this,{radius:33,nogradient:true,noshadow:true,angle:50});" />
 
 Through my volunteer activities on Committees and Not-for-Profit Organizations ranging from Fine & Gross Motor Facilitator, Toronto Association for Community Living, Canvasser, United Way to Treasurer, Education at Work Ontario, there is an intrinsic sense of completion and fulfillment.  I have had the chance to develop my creativity and to tap into the talents of my colleagues.  I have learned dedication, commitment and to advocate for others who are vulnerable in our society.  I addition, I have seen the importance of contributing to our society, and applying our abilities to helping others. I gained invaluable skills such as problems solving, leadership, time management, communication which are utilized in all aspect of our lives. Volunteering has been an excellent medium to spiritual growth and intellectual stimulation. As a Career Educator, previously at the University of Toronto and currently in the co-op program at the University of Waterloo, I have been blessed with the opportunity to inspire students and provide them with the tools and building blocks to determine their career path.
 
