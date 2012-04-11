@@ -1,5 +1,5 @@
 ---
-layout: page_wider_main
+layout: page_282
 title: "Share About What Your Chapter is Doing"
 ---
 {% include JB/setup %}
