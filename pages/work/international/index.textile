@@ -13,7 +13,10 @@ title: "International Relief Assistance"
     </ul>
   {% endif %}
 {% endfor %}
+
+
 <!--
+
 <ul id="projects">
   <li class="project span3">
     <a title="(Philippines) This is an external pdf" link="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U" >
@@ -36,4 +39,5 @@ title: "International Relief Assistance"
     </a>
   </li>
 </ul>
+
 -->
