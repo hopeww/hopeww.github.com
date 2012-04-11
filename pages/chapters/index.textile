@@ -56,9 +56,8 @@ title: "Introduction to HOPE WorldWide of Canada Chapters"
   <li class="project span3">
     <img src="{{ ASSET_PATH }}/twitter/images/chapters/about/faith.jpg"  />
     <p><h5>Programs</h5>
-        <p>Programs are designed with the goal in mind to also inspire the faith of the volunteers.</p>
         <p>Currently we are operating in 110 cities, including Canada and the Caribbeans, impacting over 110,000 people annually. More than 800 volunteers serve each year in Canada.</p>
-        All HOPE programs strives to fulfill three main functions:
+        Programs are designed with the goal in mind to also inspire the faith of the volunteers. We strive to fulfill three main goals:
           Service, Fundraising, Inspiring
     </p>
   </li>
