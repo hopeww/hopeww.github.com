@@ -22,7 +22,7 @@ title: "International Relief Assistance"
       <li class="project span3">
         <a href="/portfolio/b12">
             <img src="/assets/themes/twitter/images/work/international/main_neworleans.png" title="New Orleans" />
-          <p><h5>In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina. </p>
+          <p><h5>New Orleans</h5>In the fall of 2010 Ian was told of the efforts via HOPE worldwide of Canada of the plans to once again to head south to New Orleans to assist in their rebuilding effort after severe flood damage in the city after the devastation caused by hurricane Katrina. </p>
         </a>
       </li>
     
