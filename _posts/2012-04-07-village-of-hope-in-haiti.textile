@@ -4,7 +4,7 @@ title: "Report: Village of HOPE in Haiti"
 category: International
 tags: [International]
 blurb : "HOPE worldwide of Canada sent $30,000 to Haiti"
-image : ""
+image : image : /assets/themes/twitter/images/work/international/main_village.jpg
 ---
 {% include JB/setup %}
 

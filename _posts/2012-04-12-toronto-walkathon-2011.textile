@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Toronto Walkathon 2011"
+category: Toronto
+tags: [Toronto]
+blurb : "In fall 2011, Toronto had a walkathon"
+image : /assets/themes/twitter/images/chapters/toronto/main_walkathon.jpg
+---
+{% include JB/setup %}
+
+
+!/assets/themes/twitter/images/chapters/toronto/walkathon_1.jpg!
+!/assets/themes/twitter/images/chapters/toronto/walkathon_2.jpg!
+!/assets/themes/twitter/images/chapters/toronto/walkathon_3.jpg!
+
