@@ -37,8 +37,8 @@
         // });
 
         // tapir
-        $.each(data.results, function(index, result) {
-          results_str += '<div id="result"><br /><p><a href="' + result.link + '">' + result.link + '</a><br/>' + result.content + '</p></div>';
+        $.each(data, function(index, data) {
+          results_str += '<div id="result"><br /><p><a href="' + data.link + '">' + data.link + '</a><br/>' + data.content + '</p></div>';
           cnt +=1;
         });
 
