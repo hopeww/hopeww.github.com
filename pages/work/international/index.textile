@@ -4,6 +4,7 @@ title: "International Relief Assistance"
 
 ---
 {% include JB/setup %}
+{% assign span = "span3" %}  
 
 {% for category in site.categories %} 
   {% if category[0] == "International" %}

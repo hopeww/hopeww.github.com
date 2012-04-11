@@ -5,6 +5,7 @@ blurb: "Every year, young people can sign up to serve in HOPE Youth Corp either 
 ---
 
 {% include JB/setup %}
+{% assign span = "span5" %}  
 
 {% for category in site.categories %} 
   {% if category[0] == "Youth_Corp" %}
@@ -14,16 +15,3 @@ blurb: "Every year, young people can sign up to serve in HOPE Youth Corp either 
     </ul>
   {% endif %}
 {% endfor %}
-
-<!--
-<div class="hero-unit">
-<table align=center>
-	<tr>
-		<td><a class="icon-user" href="philidelphia/gillian">Gillian in Philidelpia</a></td>
-		<td><a class="icon-user" href="dallas/kate">Kate in Dallas</a></td>
-	</tr><tr>
-		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner1.png" /></td>
-		<td><img src="/assets/themes/twitter/images/work/youthcorp/youthcorp_banner2.png" /></td>
-	</tr>
-</table></div>
--->
