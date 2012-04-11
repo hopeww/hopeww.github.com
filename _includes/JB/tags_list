@@ -30,4 +30,5 @@ Usage:
     {% endfor %}
   {% endif %}
 {% endif %}
+
 {% assign tags_list = nil %}
