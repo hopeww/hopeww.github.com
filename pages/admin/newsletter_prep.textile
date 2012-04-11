@@ -1,6 +1,0 @@
----
-layout: newsletter
-title: "HOPE worldwide of Canada Newsletter"
----
-{% include JB/setup %}
-
