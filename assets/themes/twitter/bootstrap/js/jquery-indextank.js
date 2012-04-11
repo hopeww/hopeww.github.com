@@ -25,23 +25,16 @@
       //Try searching for 'Python', 'Hyde', 'Linux'.
       //var result = $.getJSON('http://hopewwc.api.houndsleuth.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
       //var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
+      /*  
       var result = $.getJSON('http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c?query=' + encodeURIComponent(query) + '&callback=?', function(data) {
         create_heading();
         var cnt = 0;
         var results_str = "";
-
-        // index tank
-        // $.each(data.results, function(index, result) {
-        //   results_str += '<div id="result"><br /><p><a href="' + result.docid + '">' + result.docid + '</a><br/>' + result.snippet_text + '</p></div>';
-        //   cnt +=1;
-        // });
-
-        // tapir
-        $.each(data, function(index, data) {
-          results_str += '<div id="result"><br /><p><a href="' + data.link + '">' + data.link + '</a><br/>' + data.content + '</p></div>';
+        index tank
+        $.each(data.results, function(index, result) {
+          results_str += '<div id="result"><br /><p><a href="' + result.docid + '">' + result.docid + '</a><br/>' + result.snippet_text + '</p></div>';
           cnt +=1;
         });
-
         if(cnt==0){
           $('#results_body').append(" Found 0 results.");
         }else{
@@ -50,5 +43,23 @@
         create_footer();
         $("#results").modal({show:true});
       } //end call back function 
-    );
+    ); //end var result
+  */
+
+    var result =  $.getJSON('http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c?query=' + encodeURIComponent(query) + '&callback=?', function(data){
+      create_heading();
+      var results_str = "";
+      var cnt = 0;
+      $.each(data, function(key, val) {
+        results_str = '<div id="result"><h3><a href="' + val.link + '">' + val.title + '</a></h3><p>' + val.content + '</p></div>'
+        cnt +=1;
+      });
+       if(cnt==0){
+          $('#results_body').append(" Found 0 results.");
+        }else{
+          $('#results_body').append(results_str);
+        }
+      create_footer();
+      $("#results").modal({show:true});
+    }); //end call back & end var result
   }
