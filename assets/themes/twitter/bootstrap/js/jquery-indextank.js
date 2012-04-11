@@ -62,7 +62,7 @@
           $('#results_body').append(results_str);
         }
       create_footer();
-      // $("#results").modal({show:true});
-      alert (url);
+       $("#results").modal({show:true});
+      //alert (url);
     }); //end call back & end var result
   }
