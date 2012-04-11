@@ -22,7 +22,6 @@
       $('div#results').append("<br /></div><div class='modal-footer'><a href='' class='btn' data-dismiss='modal' >Close</a></div>");
     }
     function search(query) {
-      //Try searching for 'Python', 'Hyde', 'Linux'.
       //var result = $.getJSON('http://hopewwc.api.houndsleuth.com/v1/indexes/HOPEWW/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
       //var result = $.getJSON('http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=' + encodeURIComponent(query) + '&fetch=title&snippet=text&callback=?', function(data) {
       /*  
@@ -46,7 +45,8 @@
     ); //end var result
   */
 
-    var result =  $.getJSON('http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c?query=' + encodeURIComponent(query) + '&callback=?', function(data){
+    var url = 'http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c?query=' + encodeURIComponent(query) + '&callback=?';
+    var result =  $.getJSON(url, function(data){
       create_heading();
       var results_str = "";
       var cnt = 0;
@@ -62,6 +62,7 @@
           $('#results_body').append(results_str);
         }
       create_footer();
-      $("#results").modal({show:true});
+      // $("#results").modal({show:true});
+      alert (url);
     }); //end call back & end var result
   }
