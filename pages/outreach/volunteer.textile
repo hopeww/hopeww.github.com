@@ -1,6 +1,6 @@
 ---
 layout: page_wider_main
-title: "Volunteer with HOPE worldwide of Canada"
+title: "Volunteer"
 ---
 {% include JB/setup %}
 
