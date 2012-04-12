@@ -1,6 +1,6 @@
 ---
-layout: page_handwritten
-title: "HOW TOs"
+layout: page_282
+title: "HOWTOs"
 category : manual
 ---
 {% include JB/setup %}
