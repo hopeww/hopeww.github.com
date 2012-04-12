@@ -8,7 +8,7 @@ Welcome to HOPE worldwide Website Maintenance documentation!
 
 `Go back to HOPE worldwide of Canada admin`_.
 
-.. _Go back to HOPE worldwide of Canada admin: http://hopeww.github.org/admin/
+.. _Go back to HOPE worldwide of Canada admin: http://hopeww.github.com/admin/
 
 
 Documentation for Web Maintainer
