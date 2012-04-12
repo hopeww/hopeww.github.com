@@ -12,6 +12,9 @@
 .handwritten { font-family: 'Tangerine', serif;
         font-size: 48px; text-shadow: 4px 4px 4px #aaa; }
 
+.handwritten-sm { font-family: 'Tangerine', serif;
+         }        
+
 .span8 h2, .span12 h2, .span6 h2{
   padding-top:30px;
 }

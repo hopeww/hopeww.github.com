@@ -1,7 +1,14 @@
 ---
 layout: page_handwritten
-title: "Dear web maintainer volunteer, thank you so much for volunteering your time in making this website useful, up to date & fun to use."
+title: "HOW TOs"
 category : manual
 ---
 {% include JB/setup %}
+
+<div class="hero-unit">
+	<h2 class="handwritten">Dear volunteer web maintainer, thank you so much for volunteering your time in making this website useful, up to date & fun to use.</h2>
+	<p class="handwritten-sm">
+		Here's a little help for you to help you get started.  This is a manual on how to update this site
+	</p>
+</div>
 
