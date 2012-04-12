@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'hopewwweb'
+project = u'HOPE worldwide of Canada web maintenance'
 copyright = u'2012, HOPE worldwide of Canada'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'hopewwweb', u'hopewwweb Documentation',
+    ('index', 'hopewwweb', u'HOPE worldwide of Canada web maintenance Documentation',
      [u'HOPE worldwide of Canada'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'hopewwweb', u'hopewwweb Documentation',
+  ('index', 'hopewwweb', u'HOPE worldwide of Canada web maintenance Documentation',
    u'HOPE worldwide of Canada', 'hopewwweb', 'One line description of project.',
    'Miscellaneous'),
 ]
