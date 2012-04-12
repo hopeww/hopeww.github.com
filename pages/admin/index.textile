@@ -1,0 +1,13 @@
+---
+layout: page_282
+title: "HOWTOs"
+category : manual
+---
+{% include JB/setup %}
+
+<div class="hero-unit">
+	<h2 class="handwritten">Thank you for serving as web maintainer. </h2>
+	<p class="handwritten " align="right"><br /> ~ J</p>
+	<h3><a href="http://readthedocs.org/docs/hopeww-web-maintenance/en/latest/">Read documentations</a></h3>
+</div>
+
