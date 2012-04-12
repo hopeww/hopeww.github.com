@@ -6,6 +6,8 @@
             <li><a href="{{ BASE_PATH }}/pages/work/{{ tag | downcase }}">{{ tag }}</a></li>
         {% when "Youth_Corp" %}
             <li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag }}</a></li>
+        {% when "Volunteer" %}
+            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer">{{ tag }}</a></li>
         {% else %}
             <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag | downcase}}">{{ tag }}</a></li>
         {% endcase %}
@@ -17,7 +19,9 @@
             <li><a href="{{ BASE_PATH }}/pages/work/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% when "Youth_Corp" %}
     		<li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag[0] }}</a></li>
-    	{% else %} 
+    	{% when "Volunteer" %}
+            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer">{{ tag }}</a></li>
+        {% else %} 
     		<li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% endcase %}
     {% endfor %}
