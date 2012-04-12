@@ -2,7 +2,7 @@
 layout: post
 title: Webmaster, Graphic Designer
 category: Volunteer_Toronto_Active
-tags: [Volunteer_Toronto_Active]
+tags: [Volunteer]
 published_date : "Sep 11, 2011"
 ---
 
