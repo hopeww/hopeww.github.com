@@ -1,8 +1,8 @@
 ---
-layout: page_282
+layout: post
 title: "HOPE worldwide of Canada Newsletter"
 category: Latest_Newsletter
-tags: [Latest_Newsletter]
+tags: [Newsletter]
 published_date : "Feb 27, 2012"
 date_string : "2012/02/27"
 img_caption : "Right-click here to download pictures. To help protect your privacy, Outlook prevented automatic download  of this picture from the Internet."

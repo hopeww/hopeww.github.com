@@ -7,9 +7,11 @@
         {% when "Youth_Corp" %}
             <li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag }}</a></li>
         {% when "Volunteer" %}
-            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer">{{ tag }}</a></li>
+            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer.html">{{ tag }}</a></li>
+        {% when "Newsletter" %}
+            <li><a href="{{ BASE_PATH }}/pages/outreach/newsletter.html">{{ tag }}</a></li>
         {% else %}
-            <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag | downcase}}">{{ tag }}</a></li>
+            <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag }}">{{ tag }}</a></li>
         {% endcase %}
     {% endfor %}
 {% else %}
@@ -19,8 +21,10 @@
             <li><a href="{{ BASE_PATH }}/pages/work/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% when "Youth_Corp" %}
     		<li><a href="{{ BASE_PATH }}/pages/work/youthcorp">{{ tag[0] }}</a></li>
-    	{% when "Volunteer" %}
-            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer">{{ tag }}</a></li>
+        {% when "Volunteer" %}
+            <li><a href="{{ BASE_PATH }}/pages/outreach/volunteer.html">{{ tag }}</a></li>
+    	{% when "Newsletter" %}
+            <li><a href="{{ BASE_PATH }}/pages/outreach/newsletter.html">{{ tag }}</a></li>
         {% else %} 
     		<li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag[0] | downcase}}">{{ tag[0] }}</a></li>
     	{% endcase %}
