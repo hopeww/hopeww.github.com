@@ -1,5 +1,5 @@
 ---
-layout: page_handwritten
+layout: page
 title: "Dear web maintainer, this is a manual on how to update this site"
 category : manual
 ---
