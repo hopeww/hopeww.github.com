@@ -51,7 +51,7 @@
       var results_str = "";
       var cnt = 0;
       $.each(data, function(key, val) {
-        results_str += '<div id="result"><p><a href="' + val.link + '">' + val.summary + '</a><br />' + val.content + '</p></div>'
+        results_str += '<div id="result"><p><a href="' + val.link + '">' + val.title + '</a><br />' + val.summary + '</p></div>'
         cnt +=1;
       });
        if(cnt==0){
