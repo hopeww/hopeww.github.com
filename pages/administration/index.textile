@@ -7,7 +7,7 @@ category : manual
 
 <div class="hero-unit">
 	<h2 class="handwritten">Dear voluntary HOPEww web maintainer, thank you so much for the time you put in to in make this website informative for our clients, up to date & fun to use. This manual will help you get started with the various tasks, such as posting newsletter, volunteer positions, articles, etc.  </h2>
-	<p class="handwritten " align="right"><br /><icon class="icon-heart"></icon>J</p>
+	<p class="handwritten " align="right"><br /> ~ J</p>
 	<h3><a href="http://readthedocs.org/docs/hopeww-web-maintenance/en/latest/">Read documentations</a></h3>
 </div>
 
