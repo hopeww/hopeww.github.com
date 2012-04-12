@@ -6,9 +6,8 @@ category : manual
 {% include JB/setup %}
 
 <div class="hero-unit">
-	<h2 class="handwritten">Dear volunteer web maintainer, thank you so much for volunteering your time in making this website useful, up to date & fun to use.</h2>
-	<p class="handwritten-sm">
-		Here's a little help for you to help you get started.  This is a manual on how to update this site
-	</p>
+	<h2 class="handwritten">Dear voluntary HOPEww web maintainer, thank you so much for the time in making this website informative for our clients, up to date & fun to use. This manual will help you get started with the various tasks, such as posting newsletter, volunteer positions, articles, etc.  </h2>
+	<p class="handwritten" align="right"><br />Joyce</p>
+	
 </div>
 
