@@ -166,6 +166,7 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'hopewwwebdoc'
 
+html_style = 'nature'
 
 # -- Options for LaTeX output --------------------------------------------------
 
