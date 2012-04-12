@@ -6,7 +6,8 @@ category : manual
 {% include JB/setup %}
 
 <div class="hero-unit">
-	<h2 class="handwritten">Thank you for serving as web maintainer. </h2>
+	<h1 class="handwritten" align="center">Thank you</h1>
+	<h2 class="handwritten"> for serving as HOPE worldwide of Canada web maintainer. </h2>
 	<p class="handwritten " align="right"><br /> ~ J</p>
 	<h3><a href="http://readthedocs.org/docs/hopeww-web-maintenance/en/latest/">Read documentations</a></h3>
 </div>
