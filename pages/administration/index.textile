@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Dear web maintainer, this is a manual on how to update this site"
+layout: page_handwritten
+title: "Dear web maintainer volunteer, thank you so much for volunteering your time in making this website useful, up to date & fun to use."
 category : manual
 ---
 {% include JB/setup %}
