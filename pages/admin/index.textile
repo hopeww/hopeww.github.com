@@ -1,0 +1,6 @@
+---
+layout: page_handwritten
+title: "How to edit this site"
+---
+{% include JB/setup %}
+
