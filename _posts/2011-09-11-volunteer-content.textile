@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Volunteer: Content Developer"
+title: Content Developer
 published_date : "Sep 11, 2011"
 category: Volunteer_Toronto_Active
 tags: [Volunteer_Toronto_Active]
