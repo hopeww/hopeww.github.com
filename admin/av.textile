@@ -28,7 +28,7 @@ This is how to add images
 @!/path/to/my/image.jpg(my cool image description)!@
 
 This is how to add an image that floats to the right hand side
-@(img-right)!/path/to/my/image.jpg(my cool image description)!@
+@!(img-right)/path/to/my/image.jpg(my cool image description)!@
 
 <hr />
 
