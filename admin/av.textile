@@ -7,11 +7,18 @@ tags: [HowTos]
 
 {% include JB/setup %}
 
-h2. Uploading Images
+Usually a post is created
 
-This had been covered in "setting up your environment":set_up_environment.html
 
 h2. Intro to Textile
 
-Posts uses the Textile markup language.  "You can play around with it here":http://www.textism.com/tools/textile/
+Posts uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language.  Textile "sandbox.":http://www.textism.com/tools/textile/
 
+<hr />
+
+h2. Images
+
+This had been covered in "setting up your environment":set_up_environment.html
+
+
+{% include admin_toc.textile %}

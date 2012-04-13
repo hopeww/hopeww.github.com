@@ -79,6 +79,6 @@ They are stored under the */_post* directory
 
 h2. Next
 
-Markup for a post
+The basics of creating a post on the website.
 
 {% include admin_toc.textile %}
