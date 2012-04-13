@@ -82,7 +82,7 @@ Once the document is uploaded, we need to link the document the the post that yo
 h2(icon-edit). &#160;Adding an Form
 
 
-Sometimes, you like to collect information from the users.  For example, take a look at our __volunteer registration form__.  Here are the steps that need to happen.
+Sometimes, you like to collect information from the users.  For example, take a look at our "volunteer registration form":/pages/outreach/volunteer.html.  Here are the steps that need to happen.
 
 # create the form on Google Docs
 # link the new form to your article 
