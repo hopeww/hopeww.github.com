@@ -31,7 +31,7 @@ The web based newsletter can be copied by MarCom team and sent to everyone via C
 
 h2. Creating a new the Web based newsletter
 
-h4. Steps:
+h3. Steps:
 
 # make copy of the last latest newsletter to use as template for the current one
 # change the last latest newsletter to no longer be the latest newsletter, and make the one you copied the latest
