@@ -7,17 +7,25 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
-
 <img src="/assets/themes/twitter/images/admin/thanks.jpg" align="center" />
 
 <hr />
 
 The purpose of this website is to disseminate information to the public about the wonderful work that we're doing, and as we are a young'ish organization, we have much work to do.
 
-Here's a great article that emphasizes the importance of great content.
+The goal is that by the grace of God, by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
+
+<hr />
+
+h2. Content is important!
+
+Here's a great article that emphasizes the importance of great content on a functional & user friendly website.
 
 "Why Great Content will Increase e-Commerce Sales":http://www.shopify.com/blog/5930917-why-great-content-will-increase-ecommerce-sales
 
+<div class="hero-unit">
+	"Therefore encourage one another and build each other up, just as in fact you are doing.":http://niv.scripturetext.com/1_thessalonians/5.htm
+</div>
 
 
 h6. These pages will guide you in how to maintain this site
