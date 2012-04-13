@@ -14,11 +14,4 @@ tags: [HowTos]
 
 These pages will guide you in how to maintain this site
 
-h2. Table of Contents
-
-# "Setting up your environment":set_up_environment.html
-# "Inserting Images and or Videos in a Posting":av.html
-# "How to Manage International Relief Postings":crud_ir.html
-# "How to Manage Youth Corp Postings":crud_youth_corp.html
-# "How to Manage Volunteers Postings":crud_volunteer.html
-
+{% include admin_toc.textile %}
