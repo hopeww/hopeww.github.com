@@ -10,7 +10,7 @@ tags: [HowTos]
 
 h2. Intro to Textile
 
-All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.
+All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  This is also typically how people edit things like Wikipedia.
 
 On our website, we only have the images hosted locally.  PDFs, Word docs, and forms (such as questionaires) are hosted on "Google Docs":http://docs.google.com.  Videos hosted on "Vimeo":http://vimeo.com/
 
@@ -110,6 +110,7 @@ Once the form is comopleted, we need to link the document the the post that you'
 @<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="535" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>@
 
 <hr />
+
 
 h2. Next
 
