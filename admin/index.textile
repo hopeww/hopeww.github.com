@@ -17,12 +17,13 @@ Here are some tangible goals of what we should see in our website:
 
 - work on mobile devices and large screens
 - be clean and easy to navigate
+- have meaningful and thought provoking images & content
 - focus on connecting people to serve, and secondly to know God for those who doesn't know God
 - allow people to watch videos created by volunteers easily
 - allow people to volunteer easily
 - give people an easy way to donate
 - provide an easy way for users to see what's new
-- allow the volunteers in support/operations team to triage different requests easily
+- allow the volunteers in support/operations team to go through different requests easily
 
 <hr />
 
