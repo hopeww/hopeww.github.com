@@ -16,7 +16,6 @@ As an example, this is also typically how people edit sites like "Wikipedia":htt
 
 After a textile file is created, and we have the file uploaded to the server.  The server has some scripts that converts this Textile file into html which is what our audience sees in their web browser.
 
-On our website, we only have the images hosted locally.  PDFs, Word docs, and forms (such as questionaires) are hosted on "Google Docs":http://docs.google.com.  Videos hosted on "Vimeo":http://vimeo.com/
 
 <hr />
 
@@ -26,18 +25,24 @@ The
 
 <hr />
 
-h2(icon-camera-retro). &#160;Adding images
+h2. Hosting of External Files
+
+On our website, we only have the images hosted locally.  PDFs, Word docs, and forms (such as questionaires) are hosted on "Google Docs":http://docs.google.com.  Videos hosted on "Vimeo":http://vimeo.com/
+
+<h4 />
+
+h3(icon-camera-retro). &#160;Adding images
 
 In order for a image to show up in your posting, you need to 
 
 # upload it
 # link the uploaded file to your article (which is being written) 
 
-h3. Uploading the Image Files 
+h4. Uploading the Image Files 
 
 This had been covered in "setting up your environment":set_up_environment.html
 
-h3. Linking Image Files to Post
+h4. Linking Image Files to Post
 
 This is how to add images
 
@@ -50,20 +55,20 @@ This is how to add an image that floats to the right hand side.  You'll see that
 
 <hr />
 
-h2(icon-film). &#160;Adding a video
+h3(icon-film). &#160;Adding a video
 
 In order for a video to show up in your posting, you need to 
 
 # upload it to Vimeo (we use Vimeo to host the videos)
 # link the uploaded file to your article (which is being written) 
 
-h3. Uploading the Video Files 
+h4. Uploading the Video Files 
 
 # upload the video file to vimeo
 # set the sharing setting, so that everyone on the internet can view the video
 # copy the video number for the video so that you can link it
 
-h3. Linking Video Files to Post
+h4. Linking Video Files to Post
 
 Once the video is uploaded, we need to link the video the the post that you're writing.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is @39943514@.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
 
@@ -71,20 +76,20 @@ Once the video is uploaded, we need to link the video the the post that you're w
 
 <hr />
 
-h2(icon-file). &#160;Adding a Document
+h3(icon-file). &#160;Adding a Document
 
 In order for an external document such as a pdf or a word file to show up in your posting, you need to 
 
 # upload it to Google Docs (we use Google Docs to host the pdfs)
 # link the uploaded file to your article 
 
-h3. Uploading the Document Files 
+h4. Uploading the Document Files 
 
 # upload the video file to google
 # set the sharing setting, so that everyone on the internet can view the file
 # copy the file's id 
 
-h3. Linking Document Files to Post
+h4. Linking Document Files to Post
 
 Once the document is uploaded, we need to link the document the the post that you're writing.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is @0B5-xkEf58AbIUGVVanhnd3E4M1U@.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
 
@@ -92,7 +97,7 @@ Once the document is uploaded, we need to link the document the the post that yo
 
 <hr />
 
-h2(icon-edit). &#160;Adding a Form
+h3(icon-edit). &#160;Adding a Form
 
 
 Sometimes, you like to collect information from the users.  For example, take a look at our "volunteer registration form":/pages/outreach/volunteer.html.  Here are the steps that need to happen.
@@ -100,7 +105,7 @@ Sometimes, you like to collect information from the users.  For example, take a 
 # create the form on Google Docs
 # link the new form to your article 
 
-h3. Creating a Form
+h4. Creating a Form
 
 
 Currently, we use Google Docs, maybe down the road, we'll use something more suitable and robust for handling data collection from users.
@@ -112,7 +117,7 @@ Currently, we use Google Docs, maybe down the road, we'll use something more sui
 # share the form on the internet
 # link the form to your posting
 
-h3. Linking Form to Posting
+h4. Linking Form to Posting
 
 
 Once the form is comopleted, we need to link the document the the post that you're writing.  Please be sure to change the formkey to the one that you've just created. In the example below, the formkey is @dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ@.  Change the width & height attributes as desired.
