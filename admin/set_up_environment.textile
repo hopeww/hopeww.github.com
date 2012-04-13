@@ -44,7 +44,7 @@ h2. Open Up Text Editor for Editing Site
 
 h2. Sign into the Text Editor Through GitHub
 
-Click on the tiny green Kitty-Octopus icon.
+Click on the tiny green *Octocat* icon.
 !/assets/themes/twitter/images/admin/start/6.jpg!
 <hr />
 
