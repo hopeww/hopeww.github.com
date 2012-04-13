@@ -7,8 +7,6 @@ tags: [HowTos]
 
 {% include JB/setup %}
 
-Usually a post is created
-
 
 h2. Intro to Textile
 
