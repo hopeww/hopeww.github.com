@@ -14,12 +14,12 @@ All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textil
 
 <hr />
 
-h2(icon-camera-retro). &#160;Adding images in textile
+h2(icon-camera-retro). &#160;Adding images
 
 In order for a image to show up in your posting, you need to 
 
 # upload it
-# link the uploaded file to your article (which is being written in Textile) 
+# link the uploaded file to your article (which is being written) 
 
 h3. Uploading the Image Files 
 
@@ -37,12 +37,12 @@ This is how to add an image that floats to the right hand side
 
 <hr />
 
-h2(icon-film). &#160;Adding video in textile
+h2(icon-film). &#160;Adding video
 
 In order for a video to show up in your posting, you need to 
 
 # upload it to Vimeo (we use Vimeo to host the videos)
-# link the uploaded file to your article (which is being written in Textile) 
+# link the uploaded file to your article (which is being written) 
 
 h3. Uploading the Video Files 
 
@@ -52,13 +52,13 @@ h3. Uploading the Video Files
 
 h3. Linking Video Files to Post
 
-Once the video is uploaded, we need to link the video the the post that you're writing in Textile.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is __39943514__.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
+Once the video is uploaded, we need to link the video the the post that you're writing.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is __39943514__.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
 
 @<iframe src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" ></iframe>@
 
 <hr />
 
-h2(icon-file). &#160;Adding an Documents in textile
+h2(icon-file). &#160;Adding an Documents
 
 In order for an external document such as a pdf or a word file to show up in your posting, you need to 
 
@@ -73,9 +73,35 @@ h3. Uploading the Document Files
 
 h3. Linking Document Files to Post
 
-Once the document is uploaded, we need to link the document the the post that you're writing in Textile.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is __0B5-xkEf58AbIUGVVanhnd3E4M1U__.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
+Once the document is uploaded, we need to link the document the the post that you're writing.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is __0B5-xkEf58AbIUGVVanhnd3E4M1U__.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
 
 @<iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>@
+
+<hr />
+
+h2(icon-edit). &#160;Adding an Form
+
+Sometimes, you like to collect information from the users.  For example, take a look at our __volunteer registration form__.  Here are the steps that need to happen.
+
+# create the form on Google Docs
+# link the new form to your article 
+
+h3. Creating a Form
+
+Currently, we use Google Docs, maybe down the road, we'll use something more suitable and robust for handling data collection from users.
+
+# create a new form in Google Docs, via your hopewwcanada.org login
+# change the theme to plain grey
+# create all the questions you need
+# make sure the form is not too long (about 4 questions each); add a page break
+# share the form on the internet
+# link the form to your posting
+
+h3. Linking Form to Posting
+
+Once the form is comopleted, we need to link the document the the post that you're writing.  Please be sure to change the formkey to the one that you've just created. In the example below, the formkey is __dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ__.  Change the width & height attributes as desired.
+
+@<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="535" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>@
 
 <hr />
 
