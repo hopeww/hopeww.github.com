@@ -81,12 +81,14 @@ Once the document is uploaded, we need to link the document the the post that yo
 
 h2(icon-edit). &#160;Adding an Form
 
+
 Sometimes, you like to collect information from the users.  For example, take a look at our __volunteer registration form__.  Here are the steps that need to happen.
 
 # create the form on Google Docs
 # link the new form to your article 
 
 h3. Creating a Form
+
 
 Currently, we use Google Docs, maybe down the road, we'll use something more suitable and robust for handling data collection from users.
 
@@ -98,6 +100,7 @@ Currently, we use Google Docs, maybe down the road, we'll use something more sui
 # link the form to your posting
 
 h3. Linking Form to Posting
+
 
 Once the form is comopleted, we need to link the document the the post that you're writing.  Please be sure to change the formkey to the one that you've just created. In the example below, the formkey is __dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ__.  Change the width & height attributes as desired.
 
