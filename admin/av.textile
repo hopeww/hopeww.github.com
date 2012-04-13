@@ -110,5 +110,8 @@ Once the form is comopleted, we need to link the document the the post that you'
 
 <hr />
 
+h2. Next
+
+"How to manage newsletters on the website":crud_newsletter.html.
 
 {% include admin_toc.textile %}

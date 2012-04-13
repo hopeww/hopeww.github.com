@@ -79,6 +79,6 @@ They are stored under the */_post* directory
 
 h2. Next
 
-The basics of creating a post on the website.
+"Learn the basics of creating a post on the website":av.html.
 
 {% include admin_toc.textile %}
