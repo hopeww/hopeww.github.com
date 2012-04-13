@@ -45,7 +45,7 @@ Here's a great article that emphasizes the importance of great content.
 
 h2(icon-road). &#160; Background info
 
-This is just an FYI, you don't need in depth knowledge of this.
+This is just an FYI, you don't need in depth knowledge of any of these technologies.
 
 h4. Intro to Textile
 
