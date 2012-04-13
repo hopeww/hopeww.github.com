@@ -80,3 +80,5 @@ They are stored under the */_post* directory
 h2. Next
 
 We'll talk about how to include images and videos in a posting
+
+{% include admin_toc.textile %}
