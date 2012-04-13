@@ -35,7 +35,7 @@ Once you logged in, you'll see the files in our repository
 !/assets/themes/twitter/images/admin/start/4.jpg!
 <hr />
 
-h2. Opening Up Text Editor for Editing Site
+h2. Open Up Text Editor for Editing Site
 
 *Create a new tab* on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
