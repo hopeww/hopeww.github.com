@@ -19,7 +19,14 @@ h2 {
   padding-top:30px;
   padding-bottom: 10px;
 }
+
+h4 {
+  padding-top:10px;
+  padding-bottom: 5px;
+}
+
 .span8 h6, .span12 h6, .span6 h2{
+
   padding-top:20px;
   padding-bottom:5px;
 }
