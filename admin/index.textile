@@ -26,7 +26,7 @@ Here's a great article that emphasizes the importance of great content.
 "Why Great Content will Increase e-Commerce Sales":http://www.shopify.com/blog/5930917-why-great-content-will-increase-ecommerce-sales
 
 <div class="hero-unit">
-	"Therefore encourage one another and build each other up, just as in fact you are doing.":http://niv.scripturetext.com/1_thessalonians/5.htm
+	Therefore encourage one another and build each other up, just as in fact you are doing. "1 Thes 5:11":http://niv.scripturetext.com/1_thessalonians/5.htm
 </div>
 
 
