@@ -1,4 +1,4 @@
-h2. Table of Contents
+h5. Table of Contents
 
 # "Setting up your environment":set_up_environment.html
 # "Basics of creating a post":av.html

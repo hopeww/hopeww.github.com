@@ -30,6 +30,6 @@ Here's a great article that emphasizes the importance of great content.
 </div>
 
 
-h6. These pages will guide you in how to maintain this site
+h2. The following pages will guide you in how to maintain this site
 
 {% include admin_toc.textile %}
