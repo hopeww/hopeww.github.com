@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page_282
 title: How To Set Up Your Environment
 category: HowTos
 tags: [HowTos]
