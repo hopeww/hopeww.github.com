@@ -8,7 +8,7 @@ tags: [HowTos]
 
 
 
-<img src="/assets/themes/twitter/images/admin/start.jpg" align="center" />
+<img src="/assets/themes/twitter/images/admin/thanks.jpg" align="center" />
 
 <hr />
 
