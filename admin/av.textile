@@ -133,7 +133,7 @@ Once the form is comopleted, we need to link the document the the post that you'
 
 <hr />
 
-h2. Uploading After Updating a Textile posting
+h2. Uploading After You had Finished Updating Your Textile Posting
 
 Assume we had finished our updating of the Textile file.  Then we need to go to the console section of our Cloud9 Editor page, and type
 
