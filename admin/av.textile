@@ -10,7 +10,9 @@ tags: [HowTos]
 
 h2. Intro to Textile
 
-All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  This is also typically how people edit things like Wikipedia.
+All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  
+
+As an example, this is also typically how people edit sites like "Wikipedia":http://en.wikipedia.org/wiki/Help:Wiki_markup.  However, don't bother to study the "WikiMarkup language":http://en.wikipedia.org/wiki/Wiki_markup, it is *not* the same thing as "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) which is what we use here.
 
 After a textile file is created, and we have the file uploaded to the server.  The server has some scripts that converts this Textile file into html which is what our audience sees in their web browser.
 
