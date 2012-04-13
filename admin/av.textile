@@ -14,6 +14,8 @@ All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textil
 
 As an example, this is also typically how people edit sites like "Wikipedia":http://en.wikipedia.org/wiki/Help:Wiki_markup.  However, don't bother to study the "WikiMarkup language":http://en.wikipedia.org/wiki/Wiki_markup, it is *not* the same thing as "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) which is what we use here.
 
+<hr />
+
 h2. Where our Website is Hosted
 
 Our website will be hosted by "GitHub":http://github.com  server.  Github is a open source code collaboration site & company.  It hosts the data like our Textile files, images, and the code for the site.  It is free for public code repositories.  I
