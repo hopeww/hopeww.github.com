@@ -36,15 +36,14 @@ Once you logged in, you'll see the files in our repository
 
 h2. Opening Up Text Editor for Editing Site
 
-Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
+*Create a new tab* on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
 !/assets/themes/twitter/images/admin/start/5.jpg!
 <hr />
 
 h2. Sign into the Text Editor Through GitHub
 
-*Create a new tab* on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
-
+Click on the tiny green Kitty-Octopus icon.
 !/assets/themes/twitter/images/admin/start/6.jpg!
 <hr />
 
