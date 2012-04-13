@@ -11,6 +11,8 @@ tags: [HowTos]
 
 <hr />
 
+h2(icon-trophy). &#160; purpose & goals
+
 The purpose of our website is to disseminate information to the public about the wonderful work that we're doing. Some potential constraints that we have is that we are a relatively young and perhaps lesser-known organization, also, that everything is ran by the effor of volunteers.  But we hope that by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
 
 Here are some tangible goals of what we should see in our website:
