@@ -10,6 +10,8 @@ tags: [HowTos]
 
 h2. Here are the steps to get you started on editing the site
 
+<hr />
+
 
 h4. Go to Github
 
@@ -17,11 +19,14 @@ h4. Go to Github
 
 !/assets/themes/twitter/images/admin/start/1.jpg!
 
+<hr />
 
 h4. Login to Github
 
 With the password that you have
 !/assets/themes/twitter/images/admin/start/2.jpg!
+
+<hr />
 
 h4. Choose the repository for our website
 
@@ -33,13 +38,19 @@ Once you logged in, you'll see the files in our repository
 
 !/assets/themes/twitter/images/admin/start/3.jpg!
 
+<hr />
+
 h4. Now open the text editor so we can edit our site
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
+<hr />
+
 h4. Sign into the Text Editor Through
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
+
+<hr />
 
 
 
