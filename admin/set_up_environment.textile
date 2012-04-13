@@ -8,12 +8,9 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
-h2. Here are the steps to get you started on editing the site
-
-<hr />
 
 
-h4. Go to Github
+h2. Go to Github
 
 "http://github.com(github.com)":http://github.com
 
@@ -21,32 +18,34 @@ h4. Go to Github
 
 <hr />
 
-h4. Login to Github
+h2. Login to Github
 
 With the password that you have
 !/assets/themes/twitter/images/admin/start/2.jpg!
 
 <hr />
 
-h4. Choose the repository for our website
+h2. Choose the repository for our website
 
-That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link
+That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link.  In the image, it's on the bottom right corner.
 
 !/assets/themes/twitter/images/admin/start/3.jpg!
-
+<hr />
 Once you logged in, you'll see the files in our repository
 
-!/assets/themes/twitter/images/admin/start/3.jpg!
+!/assets/themes/twitter/images/admin/start/4.jpg!
 
 <hr />
 
-h4. Now open the text editor so we can edit our site
+h2. Now open the text editor so we can edit our site
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
+!/assets/themes/twitter/images/admin/start/5.jpg!
+
 <hr />
 
-h4. Sign into the Text Editor Through
+h2. Sign into the Text Editor Through
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
