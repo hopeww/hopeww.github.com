@@ -121,7 +121,7 @@ Assume we had finished our updating of the Textile file.  Then we need to go to 
 
 @git commit -am "I've updated volunteer_now.textile by adding a new volunteer position"@
 
-@git push origin master@
+@git push origin @
 
 <hr />
 
