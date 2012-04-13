@@ -10,7 +10,6 @@ tags: [HowTos]
 Here are the steps outlined that will get you up & running & start posting to the website.  Sorry for the low resolution images, it's because I wanted this page to load as quickly as possible.
 <hr />
 
-
 h2. Go to Github
 
 "http://github.com(github.com)":http://github.com
@@ -44,10 +43,36 @@ h2. Open Up Text Editor for Editing Site
 
 h2. Sign into the Text Editor Through GitHub
 
-Click on the tiny green *Octocat* icon.  I've zoomed in here, to draw your attention to it.
+Click on the tiny green *Octocat* icon.  I've zoomed in here, to draw your attention to it.  Once you clicked on that, it'll start logging you in.  You'll then see a popup that ask you to purchase the premium membership, which you can ignore by closing the window for now.
 
 !/assets/themes/twitter/images/admin/start/6.jpg!
+
+Click on our project, and click the __green__ start editing button.
+
+!/assets/themes/twitter/images/admin/start/7.jpg!
 <hr />
 
+h2. Start Editing Files
 
+Now we can see our files and begin editing
 
+!/assets/themes/twitter/images/admin/start/8.jpg!
+<hr />
+
+h2. Where Images are Stored
+
+You must store images in this file path /assets/themes/twitter/images/ and so forth, I've given you an example here.  Under this directory, you can store your images anywhere you like, but try to keep this directory organized.
+
+!/assets/themes/twitter/images/admin/start/9.jpg!
+
+If you want to add a new image, just drag it from your computer onto the *images* directory, like so:
+
+!/assets/themes/twitter/images/admin/start/10.jpg!
+<hr />
+
+h2. Where Articles Postings are Stored
+
+They are stored under the */_post* directory
+
+!/assets/themes/twitter/images/admin/start/11.jpg!
+<hr />
