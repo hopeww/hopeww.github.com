@@ -9,7 +9,6 @@ tags: [HowTos]
 
 
 
-
 h3(icon-camera-retro). &#160;Adding images
 
 In order for a image to show up in your posting, you need to 

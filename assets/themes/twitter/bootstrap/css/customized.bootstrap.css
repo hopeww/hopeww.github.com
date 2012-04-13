@@ -15,12 +15,12 @@
 .handwritten-sm { font-family: 'Tangerine', serif;
          }        
 
-.page_container p {
-  padding-top:10px;
+.page_container h2 {
+  padding-top:30px;
   padding-bottom: 10px;
 }
 
-h4 {
+.page_containe h4 {
   padding-top:10px;
   padding-bottom: 5px;
 }

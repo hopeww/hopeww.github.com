@@ -27,9 +27,14 @@ The digitial newsletter is also a Textile posting file.  Here's an example of wh
 
 The web based newsletter can be copied by MarCom team and sent to everyone via ConstantContact, after the posting had been created on Textile & changes pushed on git.
 
+<hr />
 
-h2. Creating thew Digita
+h2. Creating a new the Web based newsletter
 
-"How to manage newsletters on the website":crud_newsletter.html.
+h4. Steps:
+
+# change the last latest newsletter to just newsletter
+# fill in a form
+
 
 {% include admin_toc.textile %}
