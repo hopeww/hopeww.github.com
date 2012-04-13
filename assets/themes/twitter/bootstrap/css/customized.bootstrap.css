@@ -15,8 +15,9 @@
 .handwritten-sm { font-family: 'Tangerine', serif;
          }        
 
-.span8 h2, .span12 h2, .span6 h2{
+h2 {
   padding-top:30px;
+  padding-bottom: 10px;
 }
 .span8 h6, .span12 h6, .span6 h2{
   padding-top:20px;
