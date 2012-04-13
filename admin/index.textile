@@ -45,8 +45,8 @@ Here's a great article that emphasizes the importance of great content.
 
 h2(icon-road). &#160; Background info
 
-This is just an FYI, you don't need in depth knowledge of any of these technologies.
-
+This is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
+  
 h4. Intro to Textile
 
 All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  
