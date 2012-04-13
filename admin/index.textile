@@ -11,9 +11,16 @@ tags: [HowTos]
 
 <hr />
 
-The purpose of our website is to disseminate information to the public about the wonderful work that we're doing, and as we are a relatively young organization, we have much work to do, which can only be done through his grace.
+The purpose of our website is to disseminate information to the public about the wonderful work that we're doing, and as we are a relatively young organization, we have much work to do, which can only be done through his grace. That by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
 
-The goal is that by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
+Here are some tangible goals of what we should see in our website:
+
+- work on mobile devices and large screens
+- be clean and easy to navigate
+- focus on connecting people to serve, and secondly to know God for those who doesn't know God
+- allow people to watch videos created by volunteers easily
+- give people an easy way to donate
+- provide an easy way for users to see what's new
 
 <hr />
 
@@ -30,6 +37,7 @@ Here's a great article that emphasizes the importance of great content.
 </div>
 
 <hr />
+
 
 h2(icon-cog). &#160;The following pages will guide you in how to maintain this site
 
