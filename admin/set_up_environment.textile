@@ -1,0 +1,45 @@
+---
+layout: post
+title: How To Set Up Your Environment
+category: HowTos
+tags: [HowTos]
+---
+
+{% include JB/setup %}
+
+
+h2. Here are the steps to get you started on editing the site
+
+
+h4. Go to Github
+
+"http://github.com(github.com)":http://github.com
+
+!/assets/themes/twitter/images/admin/start/1.jpg!
+
+
+h4. Login to Github
+
+With the password that you have
+!/assets/themes/twitter/images/admin/start/2.jpg!
+
+h4. Choose the repository for our website
+
+That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link
+
+!/assets/themes/twitter/images/admin/start/3.jpg!
+
+Once you logged in, you'll see the files in our repository
+
+!/assets/themes/twitter/images/admin/start/3.jpg!
+
+h4. Now open the text editor so we can edit our site
+
+Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
+
+h4. Sign into the Text Editor Through
+
+Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
+
+
+
