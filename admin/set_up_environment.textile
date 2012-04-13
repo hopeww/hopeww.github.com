@@ -25,7 +25,7 @@ With the password that you have
 
 h2. Choose the repository for our website
 
-That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link.  In the following screenshot, the repository link is on the bottom right corner.
+That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link.  
 
 !/assets/themes/twitter/images/admin/start/3.jpg!
 <hr />
