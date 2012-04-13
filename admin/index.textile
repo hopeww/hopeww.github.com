@@ -8,7 +8,7 @@ tags: [HowTos]
 
 <div class="hero-unit">
 	<h1 class="handwritten" align="center">Thank you</h1>
-	<h2 class="handwritten"> for serving as HOPE worldwide of Canada web maintainer. </h2>
+	<h2 class="handwritten" style="margin: 20px;"> for serving as HOPE worldwide of Canada web maintainer. </h2>
 	<p class="handwritten " align="right"><br /> ~ J</p>
 </div>
 
