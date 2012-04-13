@@ -52,7 +52,7 @@ h3. Uploading the Video Files
 
 h3. Linking Video Files to Post
 
-Once the video is uploaded, we need to link the video the the post that you're writing.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is __39943514__.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
+Once the video is uploaded, we need to link the video the the post that you're writing.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is @39943514@.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
 
 @<iframe src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" ></iframe>@
 
@@ -73,7 +73,7 @@ h3. Uploading the Document Files
 
 h3. Linking Document Files to Post
 
-Once the document is uploaded, we need to link the document the the post that you're writing.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is __0B5-xkEf58AbIUGVVanhnd3E4M1U__.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
+Once the document is uploaded, we need to link the document the the post that you're writing.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is @0B5-xkEf58AbIUGVVanhnd3E4M1U@.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
 
 @<iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>@
 
@@ -102,7 +102,7 @@ Currently, we use Google Docs, maybe down the road, we'll use something more sui
 h3. Linking Form to Posting
 
 
-Once the form is comopleted, we need to link the document the the post that you're writing.  Please be sure to change the formkey to the one that you've just created. In the example below, the formkey is __dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ__.  Change the width & height attributes as desired.
+Once the form is comopleted, we need to link the document the the post that you're writing.  Please be sure to change the formkey to the one that you've just created. In the example below, the formkey is @dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ@.  Change the width & height attributes as desired.
 
 @<iframe  class="img-right" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEl4aG1zZzhNaGR6dEhRS0hCN1ZsM3c6MQ" width="607" height="535" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>@
 
