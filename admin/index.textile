@@ -1,7 +1,8 @@
 ---
 layout: page_282
-title: "HOWTOs"
-category : manual
+title: Web Maintenance HOW TOs
+category: HowTos
+tags: [HowTos]
 ---
 {% include JB/setup %}
 
@@ -9,6 +10,5 @@ category : manual
 	<h1 class="handwritten" align="center">Thank you</h1>
 	<h2 class="handwritten"> for serving as HOPE worldwide of Canada web maintainer. </h2>
 	<p class="handwritten " align="right"><br /> ~ J</p>
-	<h3><a href="http://readthedocs.org/docs/hopeww-web-maintenance/en/latest/">Read documentations</a></h3>
 </div>
 

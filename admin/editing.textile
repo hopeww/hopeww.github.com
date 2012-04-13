@@ -1,7 +1,0 @@
----
-layout: page_282
-title: "Editing"
-category : manual
----
-
-http://c9.io/hopeww/hopeww_github_com
