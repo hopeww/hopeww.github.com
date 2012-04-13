@@ -15,14 +15,12 @@ h2. Go to Github
 "http://github.com(github.com)":http://github.com
 
 !/assets/themes/twitter/images/admin/start/1.jpg!
-
 <hr />
 
 h2. Login to Github
 
 With the password that you have
 !/assets/themes/twitter/images/admin/start/2.jpg!
-
 <hr />
 
 h2. Choose the repository for our website
@@ -34,21 +32,20 @@ That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopew
 Once you logged in, you'll see the files in our repository
 
 !/assets/themes/twitter/images/admin/start/4.jpg!
-
 <hr />
 
-h2. Now open the text editor so we can edit our site
+h2. Opening Up Text Editor for Editing Site
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
 !/assets/themes/twitter/images/admin/start/5.jpg!
-
 <hr />
 
-h2. Sign into the Text Editor Through
+h2. Sign into the Text Editor Through GitHub
 
 Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
+!/assets/themes/twitter/images/admin/start/6.jpg!
 <hr />
 
 
