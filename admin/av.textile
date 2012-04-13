@@ -20,19 +20,21 @@ Our website will be hosted by "GitHub":http://github.com  server.  Github is a o
 
 After a textile file is created, and we have the file uploaded to the server.  The server applies some scripts that converts this Textile file into html which is what our audience sees in their web browser.
 
-"GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Don't worry, you don't have to know much about git for your tasks here.
-
 <hr />
 
 h2. Intro to Git
 
-The 
+"GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Don't worry, you don't have to know much about git for your tasks here.
+
+Git is a software that allows teams of people to work on projects at the same time.  It tracks different people's changes to files over time.
+
+We'll revisit how to use git in a little bit.
 
 <hr />
 
 h2. Hosting of External Files
 
-On our website, we only have the images hosted locally.  PDFs, Word docs, and forms (such as questionaires) are hosted on "Google Docs":http://docs.google.com.  Videos hosted on "Vimeo":http://vimeo.com/
+On our website, we only have the images hosted locally by "GitHub":http://github.com.  PDFs, Word docs, and forms (such as questionaires) are more appropriately hosted on "Google Docs":http://docs.google.com.  And videos hosted on "Vimeo":http://vimeo.com/
 
 <h4 />
 
