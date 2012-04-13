@@ -29,6 +29,7 @@ Here's a great article that emphasizes the importance of great content.
 	Therefore encourage one another and build each other up, just as in fact you are doing. "1 Thes 5:11":http://niv.scripturetext.com/1_thessalonians/5.htm
 </div>
 
+<hr />
 
 h2. The following pages will guide you in how to maintain this site
 
