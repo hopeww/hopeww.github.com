@@ -12,7 +12,7 @@ Usually a post is created
 
 h2. Intro to Textile
 
-Posts uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language.  Textile "sandbox.":http://www.textism.com/tools/textile/
+All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.
 
 <hr />
 
