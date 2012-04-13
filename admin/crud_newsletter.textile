@@ -33,8 +33,9 @@ h2. Creating a new the Web based newsletter
 
 h4. Steps:
 
-# change the last latest newsletter to just newsletter
-# fill in a form
+# make copy of the last latest newsletter to use as template
+# change the last latest newsletter to no longer be the latest newsletter
+# fill in a 
 
 
 {% include admin_toc.textile %}
