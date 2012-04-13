@@ -6,4 +6,6 @@ h2. Table of Contents
 # "How to Manage Youth Corp Postings":crud_youth_corp.html
 # "How to Manage Volunteers Postings":crud_volunteer.html
 
+<hr />
+
 "Back to Admin page":/admin/index.html
