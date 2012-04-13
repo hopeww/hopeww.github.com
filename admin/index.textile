@@ -12,6 +12,8 @@ tags: [HowTos]
 
 <hr />
 
+The purpose of this website is to disseminate information to the public about the wonderful work that we're doing.
+
 These pages will guide you in how to maintain this site
 
 {% include admin_toc.textile %}

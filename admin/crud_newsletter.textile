@@ -1,10 +1,21 @@
 ---
-layout: post
-title: Managing Youth Corp Articles
+layout: page_282
+title: Creating a web based newsletter
 category: HowTos
 tags: [HowTos]
 ---
 
 {% include JB/setup %}
 
+h2. Introduction to Newsletter
 
+The purpose of the newsletter is to help the audience of of site stay in touch and plugged into what our organization is doing.  We plan to have two methods of distributing newsletter, that is print and digital.  
+
+<hr  />
+
+
+h2. Next
+
+"How to manage newsletters on the website":crud_newsletter.html.
+
+{% include admin_toc.textile %}

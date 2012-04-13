@@ -2884,7 +2884,7 @@ input[type="submit"].btn.btn-mini {
 .btn-navbar.active,
 .btn-navbar.disabled,
 .btn-navbar[disabled] {
-  background-color: #dd4814;
+  background-color: white;
 }
 .btn-navbar:active,
 .btn-navbar.active {
