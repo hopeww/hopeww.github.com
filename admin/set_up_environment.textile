@@ -43,7 +43,7 @@ Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9
 
 h2. Sign into the Text Editor Through GitHub
 
-Create a new tab on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
+*Create a new tab* on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
 
 !/assets/themes/twitter/images/admin/start/6.jpg!
 <hr />
