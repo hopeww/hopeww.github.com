@@ -41,25 +41,43 @@ h2(icon-film). &#160;Adding video in textile
 
 In order for a video to show up in your posting, you need to 
 
-# upload it
+# upload it to Vimeo (we use Vimeo to host the videos)
 # link the uploaded file to your article (which is being written in Textile) 
 
 h3. Uploading the Video Files 
 
 # upload the video file to vimeo
-# set the sharing setting
+# set the sharing setting, so that everyone on the internet can view the video
 # copy the video number for the video so that you can link it
 
 h3. Linking Video Files to Post
 
-This is how to add images
+Once the video is uploaded, we need to link the video the the post that you're writing in Textile.  This is how you'd do it.  Please be sure to change the video number to the one that you've just uploaded. In the example below, the video number is __39943514__.  If you prefer the video to show up bigger on your posting, just change the width & height attributes below.
 
-@!/path/to/my/image.jpg(my cool image description)!@
-
-This is how to add an image that floats to the right hand side
-
-@!(img-right)/path/to/my/image.jpg(my cool image description)!@
+@<iframe src="http://player.vimeo.com/video/39943514?portrait=0" width="400" height="300" frameborder="0" ></iframe>@
 
 <hr />
+
+h2(icon-file). &#160;Adding an Documents in textile
+
+In order for an external document such as a pdf or a word file to show up in your posting, you need to 
+
+# upload it to Google Docs (we use Google Docs to host the pdfs)
+# link the uploaded file to your article 
+
+h3. Uploading the Document Files 
+
+# upload the video file to google
+# set the sharing setting, so that everyone on the internet can view the file
+# copy the file's id 
+
+h3. Linking Document Files to Post
+
+Once the document is uploaded, we need to link the document the the post that you're writing in Textile.  This is how you'd do it.  Please be sure to change the document id to the one that you've just uploaded. In the example below, the doc's id is __0B5-xkEf58AbIUGVVanhnd3E4M1U__.  If you prefer the file reading to appear bigger on your posting, just change the width & height attributes below.
+
+@<iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>@
+
+<hr />
+
 
 {% include admin_toc.textile %}
