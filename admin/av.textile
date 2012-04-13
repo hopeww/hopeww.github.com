@@ -1,82 +1,17 @@
 ---
 layout: page_282
-title: How To Set Up Your Environment
+title: Basics of Creating a Post
 category: HowTos
 tags: [HowTos]
 ---
 
 {% include JB/setup %}
 
-Here are the steps outlined that will get you up & running & start posting to the website.  Appologies for low resolution images, it helps this page to load as quickly as possible.
-<hr />
+h2. Uploading Images
 
-h2. Go to Github
+This had been covered in "setting up your environment":set_up_environment.html
 
-"http://github.com(github.com)":http://github.com
+h2. Intro to Textile
 
-!/assets/themes/twitter/images/admin/start/1.jpg!
-<hr />
+Posts uses the Textile markup language.  "You can play around with it here":http://www.textism.com/tools/textile/
 
-h2. Login to Github
-
-With the password that you have
-!/assets/themes/twitter/images/admin/start/2.jpg!
-<hr />
-
-h2. Choose the repository for our website
-
-That is, click on the "hopeww/hopeww.github.com":https://github.com/hopeww/hopeww.github.com link.  
-
-!/assets/themes/twitter/images/admin/start/3.jpg!
-<hr />
-Once you logged in, you'll see the files in our repository
-
-!/assets/themes/twitter/images/admin/start/4.jpg!
-<hr />
-
-h2. Open Up Text Editor for Editing Site
-
-*Create a new tab* on your browser & go to "http://c9.io(Cloud9 Editor)":http://c9.io
-
-!/assets/themes/twitter/images/admin/start/5.jpg!
-<hr />
-
-h2. Sign into the Text Editor Through GitHub
-
-Click on the tiny green *Octocat* icon.  I've zoomed in here, to draw your attention to it.  Once you clicked on that, it'll start logging you in.  You'll then see a popup that ask you to purchase the premium membership, which you can ignore by closing the window for now.
-
-!/assets/themes/twitter/images/admin/start/6.jpg!
-
-Click on our project, and click the __green__ start editing button.
-
-!/assets/themes/twitter/images/admin/start/7.jpg!
-<hr />
-
-h2. Start Editing Files
-
-Now we can see our files and begin editing
-
-!/assets/themes/twitter/images/admin/start/8.jpg!
-<hr />
-
-h2. Where Images are Stored
-
-Please store images in this file path /assets/themes/twitter/images/ and so forth, I've given you an example here.  Under this directory, you can store your images anywhere you like, but try to keep this directory organized.
-
-!/assets/themes/twitter/images/admin/start/9.jpg!
-
-If you want to add a new image, just drag it from your computer onto the *images* directory, like so:
-
-!/assets/themes/twitter/images/admin/start/10.jpg!
-<hr />
-
-h2. Where Articles Postings are Stored
-
-They are stored under the */_post* directory
-
-!/assets/themes/twitter/images/admin/start/11.jpg!
-<hr />
-
-h2. Next
-
-We'll talk about how to include images and videos in a posting
