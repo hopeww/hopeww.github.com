@@ -15,7 +15,7 @@
 .handwritten-sm { font-family: 'Tangerine', serif;
          }        
 
-.page_container h2 {
+h2.icon-star, h2.icon-road, h2.icon-cog, h2.icon-trophy  {
   padding-top:30px;
   padding-bottom: 10px;
 }

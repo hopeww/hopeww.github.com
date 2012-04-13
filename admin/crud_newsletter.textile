@@ -33,9 +33,12 @@ h2. Creating a new the Web based newsletter
 
 h4. Steps:
 
-# make copy of the last latest newsletter to use as template
-# change the last latest newsletter to no longer be the latest newsletter
-# fill in a 
+# make copy of the last latest newsletter to use as template for the current one
+# change the last latest newsletter to no longer be the latest newsletter, and make the one you copied the latest
+# fill out your latest newsletter
+
+h4. Make a copy of the last newsletter
+
 
 
 {% include admin_toc.textile %}
