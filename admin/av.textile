@@ -12,6 +12,8 @@ h2. Intro to Textile
 
 All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  This is also typically how people edit things like Wikipedia.
 
+After a textile file is created, and we have the file uploaded to the server.  The server has some scripts that converts this Textile file into html which is what our audience sees in their web browser.
+
 On our website, we only have the images hosted locally.  PDFs, Word docs, and forms (such as questionaires) are hosted on "Google Docs":http://docs.google.com.  Videos hosted on "Vimeo":http://vimeo.com/
 
 <hr />
@@ -111,6 +113,17 @@ Once the form is comopleted, we need to link the document the the post that you'
 
 <hr />
 
+h2. Uploading After Updating a Textile posting
+
+Assume we had finished our updating of the Textile file.  Then we need to go to the console section of our Cloud9 Editor page, and type
+
+@git pull@
+
+@git commit -am "I've updated volunteer_now.textile by adding a new volunteer position"@
+
+@git push origin master@
+
+<hr />
 
 h2. Next
 

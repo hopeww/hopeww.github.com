@@ -9,12 +9,20 @@ tags: [HowTos]
 
 h2. Introduction to Newsletter
 
-The purpose of the newsletter is to help the audience of of site stay in touch and plugged into what our organization is doing.  We plan to have two methods of distributing newsletter, that is print and digital.  
+The purpose of the newsletter is to help the audience of of site stay in touch and plugged into what our organization is doing.  We plan to have two methods of distributing newsletter, that is print and digital / web based.  
 
 <hr  />
 
+h2. Digital Web based Newsletters
 
-h2. Next
+The digitial newsletter is also a Textile posting file.  Here's an example of what it looks like.
+
+<img src="/assets/themes/twitter/images/admin/newsletter/1.jpg" align="center" />
+
+The web based newsletter can be copied by MarCom team and sent to everyone via ConstantContact, after the posting had been 
+
+
+h2. Creating thew Digita
 
 "How to manage newsletters on the website":crud_newsletter.html.
 
