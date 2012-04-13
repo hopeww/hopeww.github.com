@@ -63,11 +63,9 @@ After a textile file is created, and we have the file uploaded to the server.  T
 
 h4. Intro to Git
 
-"GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Don't worry, you don't have to know much about git for your tasks here.
+"GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Git is a software that allows teams of people to work on projects at the same time.  It tracks different people's changes to files over time.  
 
-Git is a software that allows teams of people to work on projects at the same time.  It tracks different people's changes to files over time.
-
-We'll revisit how to use git in a little bit.
+Don't worry, you don't have to know much about git. We'll revisit how to use git in a little bit.
 
 
 h4. Hosting of External Files
