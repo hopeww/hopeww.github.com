@@ -10,7 +10,7 @@ tags: [HowTos]
 Usually a post is created
 
 
-h2. Intro to Textile
+h1. Intro to Textile
 
 Posts uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language.  Textile "sandbox.":http://www.textism.com/tools/textile/
 
@@ -18,17 +18,17 @@ Posts uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) 
 
 h2. Images
 
-h4. Uploading the Image Files 
+h3. Uploading the Image Files 
 
 This had been covered in "setting up your environment":set_up_environment.html
 
-h4. Linking Image Files to Post
+h3. Linking Image Files to Post
 
 This is how to add images
 @!/path/to/my/image.jpg(my cool image description)!@
 
 This is how to add an image that floats to the right hand side
-puts"(img-right)!/path/to/my/image.jpg(my cool image description)!"
+@(img-right)!/path/to/my/image.jpg(my cool image description)!@
 
 <hr />
 
