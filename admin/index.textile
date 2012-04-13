@@ -17,7 +17,7 @@ The goal is that by our communication of what God has achieved through us, we in
 
 <hr />
 
-h2. Content is important!
+h2(icon-star). &#160;Content is important!
 
 The world is literally in information overload, and we're also trying to compete for a sliver of everyone's attention span, and so, we need to have great content. 
 
@@ -31,6 +31,6 @@ Here's a great article that emphasizes the importance of great content.
 
 <hr />
 
-h2. The following pages will guide you in how to maintain this site
+h2(icon-cog). &#160;The following pages will guide you in how to maintain this site
 
 {% include admin_toc.textile %}
