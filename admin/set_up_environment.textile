@@ -7,7 +7,7 @@ tags: [HowTos]
 
 {% include JB/setup %}
 
-Here are the steps outlined that will get you up & running & start posting to the website.  Sorry for the low resolution images, it's because I wanted this page to load as quickly as possible.
+Here are the steps outlined that will get you up & running & start posting to the website.  Appologies for low resolution images, it helps this page to load as quickly as possible.
 <hr />
 
 h2. Go to Github
