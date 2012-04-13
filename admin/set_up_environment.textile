@@ -61,7 +61,7 @@ Now we can see our files and begin editing
 
 h2. Where Images are Stored
 
-You must store images in this file path /assets/themes/twitter/images/ and so forth, I've given you an example here.  Under this directory, you can store your images anywhere you like, but try to keep this directory organized.
+Please store images in this file path /assets/themes/twitter/images/ and so forth, I've given you an example here.  Under this directory, you can store your images anywhere you like, but try to keep this directory organized.
 
 !/assets/themes/twitter/images/admin/start/9.jpg!
 
