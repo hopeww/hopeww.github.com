@@ -6,11 +6,17 @@ tags: [HowTos]
 ---
 {% include JB/setup %}
 
+<!--
 <div class="hero-unit">
 	<h1 class="handwritten" align="center">Thank you</h1>
 	<h2 class="handwritten" style="margin: 20px;"> for serving as HOPE worldwide of Canada web maintainer. </h2>
 	<p class="handwritten " align="right"><br /> ~ J</p>
 </div>
+-->
+
+<img src="/assets/themes/twitter/images/admin/start.jpg" align="center" />
+
+<hr />
 
 These pages will guide you in how to maintain this site
 
