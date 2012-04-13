@@ -18,6 +18,12 @@ On our website, we only have the images hosted locally.  PDFs, Word docs, and fo
 
 <hr />
 
+h2. Intro to Git
+
+The 
+
+<hr />
+
 h2(icon-camera-retro). &#160;Adding images
 
 In order for a image to show up in your posting, you need to 
@@ -123,8 +129,8 @@ Assume we had finished our updating of the Textile file.  Then we need to go to 
 
 @git push origin@
 
+<img src="/assets/themes/twitter/images/admin/textile/1.jpg" align="center" />
 
-<img src="/assets/themes/twitter/images/admin/newsletter/1.jpg" align="center" />
 
 <hr />
 

@@ -15,11 +15,11 @@ The purpose of the newsletter is to help the audience of of site stay in touch a
 
 h2. Digital Web based Newsletters
 
-The digitial newsletter is also a Textile posting file.  Here's an example of what it looks like.
+The digitial newsletter is also a Textile posting file.  Here's an example of what it looks like once it's published.
 
 <img src="/assets/themes/twitter/images/admin/newsletter/1.jpg" align="center" />
 
-The web based newsletter can be copied by MarCom team and sent to everyone via ConstantContact, after the posting had been 
+The web based newsletter can be copied by MarCom team and sent to everyone via ConstantContact, after the posting had been created on Textile & changes pushed on git.
 
 
 h2. Creating thew Digita
