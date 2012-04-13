@@ -45,7 +45,7 @@ Here's a great article that emphasizes the importance of great content.
 
 h2(icon-road). &#160; Background info
 
-This is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
+This section is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
   
 h4. Intro to Textile
 
