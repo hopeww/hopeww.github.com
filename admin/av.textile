@@ -16,6 +16,11 @@ All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textil
 
 h2. Adding images in textile
 
+In order for a image to show up in your posting, you need to 
+
+# upload it
+# link the uploaded file to your article (which is being written in Textile) 
+
 h3. Uploading the Image Files 
 
 This had been covered in "setting up your environment":set_up_environment.html
