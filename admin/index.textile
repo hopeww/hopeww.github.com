@@ -12,5 +12,9 @@ tags: [HowTos]
 	<p class="handwritten " align="right"><br /> ~ J</p>
 </div>
 
+These pages will guide you in how to maintain this site
+
+h2. Table of Contents
+
 # "Setting up your environment":set_up_environment.html
 
