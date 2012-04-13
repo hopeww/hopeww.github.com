@@ -12,3 +12,5 @@ tags: [HowTos]
 	<p class="handwritten " align="right"><br /> ~ J</p>
 </div>
 
+# "Setting up your environment":set_up_environment.html
+
