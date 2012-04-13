@@ -11,7 +11,7 @@ tags: [HowTos]
 
 <hr />
 
-The purpose of our website is to disseminate information to the public about the wonderful work that we're doing, and as we are a relatively young organization, we have much work to do, which can only be done through his grace. That by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
+The purpose of our website is to disseminate information to the public about the wonderful work that we're doing. Some potential constraints that we have is that we are a relatively young and perhaps lesser-known organization, also, that everything is ran by the effor of volunteers.  But we hope that by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
 
 Here are some tangible goals of what we should see in our website:
 
@@ -19,8 +19,10 @@ Here are some tangible goals of what we should see in our website:
 - be clean and easy to navigate
 - focus on connecting people to serve, and secondly to know God for those who doesn't know God
 - allow people to watch videos created by volunteers easily
+- allow people to volunteer easily
 - give people an easy way to donate
 - provide an easy way for users to see what's new
+- allow the volunteers in support/operations team to triage different requests easily
 
 <hr />
 
