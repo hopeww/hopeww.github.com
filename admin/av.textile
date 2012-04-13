@@ -123,6 +123,9 @@ Assume we had finished our updating of the Textile file.  Then we need to go to 
 
 @git push origin@
 
+
+<img src="/assets/themes/twitter/images/admin/newsletter/1.jpg" align="center" />
+
 <hr />
 
 h2. Next
