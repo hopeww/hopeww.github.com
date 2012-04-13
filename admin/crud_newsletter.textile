@@ -9,9 +9,15 @@ tags: [HowTos]
 
 h2. Introduction to Newsletter
 
-The purpose of the newsletter is to help the audience of of site stay in touch and plugged into what our organization is doing.  We plan to have two methods of distributing newsletter, that is print and digital / web based.  
+The purpose of the newsletter is to help the audience of our site stay in touch of what our organization is doing and to continue building momentum in their lives.  We have two methods of distributing newsletters: *print* and   *digital / web based*.    The typical strategy so far had been to publish a newsletter every quarter.
 
 <hr  />
+
+h2. Print Newsletter
+
+These are created by a member in MarCom as a PDF file & gets printed and distributed in the congregation
+
+<hr />
 
 h2. Digital Web based Newsletters
 
