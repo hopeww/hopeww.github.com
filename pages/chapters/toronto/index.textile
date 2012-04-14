@@ -10,11 +10,17 @@ title: "Toronto"
 </div>
 
 
+<hr />
+
+
 h2. What HOPE worldwide of Canada means to me?
 
 HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE is an avenue to provide light and hope to the downtrodden and those who feel that they have no hope in the rough and tough world in which we live.
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.toronto.director.name }}, Chapter Director__
+
+<hr />
+
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
@@ -25,6 +31,9 @@ h2. Past Activities in {{ city }}
 	  </ul>
 	{% endif %}
 {% endfor %}
+
+<hr />
+
 
 h2. Chapter Information
 

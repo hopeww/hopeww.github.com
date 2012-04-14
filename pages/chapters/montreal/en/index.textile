@@ -9,12 +9,18 @@ title: "HOPE worldwide of Quebec - Montreal"
 !/assets/themes/twitter/images/chapters/montreal/montreal_banner.jpg!
 </div>
 
+<hr />
+
+
 
 h2. What HOPE worldwide of Canada means to me?
 
 To me HOPE worldwide is a hand filled with hope and love for all the needy of our hurting world. HOPE worldwide is thousands of volunteers with a huge caring heart ready to do anything and go anywhere to offer those facing challenges the right to live healthy and in decent conditions. Finally, to me HOPE worldwide gives me a great opportunity to use my talent and expertise to change lives.
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.montreal.director.name }}, Chapter Director__
+
+<hr />
+
 
 h2. Planned Upcoming activities
 
@@ -23,6 +29,9 @@ h2. Planned Upcoming activities
 3. Fund raising activity for a new project for kids in Abijan, Africa (Aug-Sept)
 4. School bags (Aug)
 5. Christmas for kids (Dec.) 
+
+<hr />
+
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
@@ -33,6 +42,9 @@ h2. Past Activities in {{ city }}
 	  </ul>
 	{% endif %}
 {% endfor %}
+
+<hr />
+
 
 h2. Organizational Structure
 
