@@ -19,10 +19,6 @@ tags: [International]
 blurb : "HOPE worldwide of Canada sent $30,000 to Haiti to be used to train 30 members of the Port of Prince Church of Christ (PPCC) in trades, such as construction, cleaning and alternative energy"
 image : /assets/themes/twitter/images/work/international/main_village.jpg
 ---
-{&permil; include JB/setup &permil;}
-
-In November 2010, after the earthquake that shook and destroyed major parts of Haiti and the capital city.
-
-The Vilage de HOPE was blessed by Wilner Cornelly, Evangelist of PPCC. The 30 individuals that HwwC helped to train participated in the construction of the Village de HOPE. 
 "
 
+Pretty straig forward, just copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the file
