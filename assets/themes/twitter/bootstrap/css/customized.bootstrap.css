@@ -22,6 +22,16 @@
   padding-bottom:5px;
 }
 
+.span1 h4, .span2 h4,
+,.span3 h4, .span4 h4,
+,.span5 h4, .span6 h4,
+,.span7  h4, .span8 h4,
+,.span9 h4, .span10 h4,
+,.span11 h4, .span12 h4{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
 
  .img-right{
   float: right;
