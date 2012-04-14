@@ -21,4 +21,4 @@ image : /assets/themes/twitter/images/work/international/main_village.jpg
 ---
 "
 
-Pretty straig forward, just copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the Textile file, which is @it's story@
+Pretty straig forward, just copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the Textile file, which is @the story that the posting describes@
