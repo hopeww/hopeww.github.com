@@ -8,7 +8,6 @@ tags: [HowTos]
 
 
 <img src="/assets/themes/twitter/images/admin/thanks.jpg" align="center" />
-
 <hr />
 
 h2(icon-trophy). &#160; Purpose & goals
