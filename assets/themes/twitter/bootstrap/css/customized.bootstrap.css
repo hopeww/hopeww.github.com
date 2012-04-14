@@ -32,10 +32,10 @@
 }
 
 */
-h2{
+h2, h2.icon-cog, h2.icon-book, h2.icon-star, h2.icon-road{
   padding: 15px;
 }
-h4{
+h4, {
   padding: 10px;
 }
  .img-right{
