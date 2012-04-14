@@ -19,7 +19,7 @@ tags: [International]
 blurb : "HOPE worldwide of Canada sent $30,000 to Haiti to be used to train 30 members of the Port of Prince Church of Christ (PPCC) in trades, such as construction, cleaning and alternative energy"
 image : /assets/themes/twitter/images/work/international/main_village.jpg
 ---
-{% include JB/setup %}
+{&permil; include JB/setup &permil;}
 
 In November 2010, after the earthquake that shook and destroyed major parts of Haiti and the capital city.
 
