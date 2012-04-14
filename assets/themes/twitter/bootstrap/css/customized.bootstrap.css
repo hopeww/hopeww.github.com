@@ -15,15 +15,6 @@
 .handwritten-sm { font-family: 'Tangerine', serif;
          }        
 
-h2.icon-star, h2.icon-road, h2.icon-cog, h2.icon-trophy  {
-  padding-top:30px;
-  padding-bottom: 10px;
-}
-
-.page_containe h4 {
-  padding-top:10px;
-  padding-bottom: 5px;
-}
 
 .span8 h6, .span12 h6, .span6 h2{
 
@@ -31,10 +22,6 @@ h2.icon-star, h2.icon-road, h2.icon-cog, h2.icon-trophy  {
   padding-bottom:5px;
 }
 
-.post_container p, .post_container img{
-  padding-top:10px;
-  padding-bottom:10px;
-}
 
  .img-right{
   float: right;
