@@ -16,6 +16,8 @@ The purpose of our website is to disseminate information to the public about the
 
 Here are some tangible goals of what we should see in our website:
 
+<div class="hero-unit">
+
 * work on mobile devices and large screens
 * be clean and easy to navigate
 * have meaningful and thought provoking images & content
@@ -25,6 +27,8 @@ Here are some tangible goals of what we should see in our website:
 * give people an easy way to donate
 * provide an easy way for users to see what's new
 * allow the volunteers in support/operations team to go through different requests easily
+
+</div>
 
 <hr />
 
@@ -46,6 +50,7 @@ h2(icon-road). &#160; Background info
 
 This section is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
   
+
 h4. Intro to Textile
 
 All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  
