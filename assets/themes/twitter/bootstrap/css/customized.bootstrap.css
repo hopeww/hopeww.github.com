@@ -11,7 +11,7 @@
  #projects .project{background-color:#EEE;margin-bottom:20px;min-height:305px;text-align:center;-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.2);box-shadow:1px 1px 1px rgba(0,0,0,0.2)}
  #projects .project > a{color:inherit;display:block;padding:20px 20px 10px;text-decoration:none}
  #projects .project:hover{background-color:#E5E5E5}#projects .project img{display:block;margin:0 auto;max-width:240px}#projects .project p{font:0.9em/1.5em Verdana,sans-serif;margin-top:10px;text-align:left}
-
+/*
 .span1 h2, .span2 h2,
 ,.span3 h2, .span4 h2,
 ,.span5 h2, .span6 h2,
@@ -31,7 +31,13 @@
   margin-bottom: 5px;
 }
 
-
+*/
+h2{
+  padding: 15px;
+}
+h4{
+  padding: 10px;
+}
  .img-right{
   float: right;
   padding: 5px;
