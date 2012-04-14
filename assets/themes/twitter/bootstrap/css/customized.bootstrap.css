@@ -66,6 +66,11 @@ nav,
 section {
   display: block;
 }
+footer{
+  color:#3B3B3B;
+  padding:3px;
+  background-color: silver;
+}
 audio, canvas, video {
   display: inline-block;
   *display: inline;
