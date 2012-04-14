@@ -12,6 +12,8 @@ tags: [HowTos]
 
 h2(icon-trophy). &#160; Purpose & goals
 
+<br />
+
 The purpose of our website is to disseminate information to the public about the wonderful work that we're doing. Some potential constraints that we have is that we are a relatively young and perhaps lesser-known organization, also, that everything is ran by the effor of volunteers.  But we hope that by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
 
 Here are some tangible goals of what we should see in our website:
@@ -34,6 +36,8 @@ Here are some tangible goals of what we should see in our website:
 
 h2(icon-star). &#160;Content is important!
 
+<br />
+
 The world is literally in information overload, and we're also trying to compete for a sliver of everyone's attention span, and so, we need to have great content. 
 
 Here's a great article that emphasizes the importance of great content.
@@ -47,6 +51,8 @@ Here's a great article that emphasizes the importance of great content.
 <hr />
 
 h2(icon-road). &#160; Background info
+
+<br />
 
 This section is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
   
@@ -83,6 +89,7 @@ Don't worry, you don't have to know much about git. We'll revisit how to use git
 
 h4. Hosting of External Files
 
+
 On our website, we only have the images hosted locally by "GitHub":http://github.com.  PDFs, Word docs, and forms (such as questionaires) are more appropriately hosted on "Google Docs":http://docs.google.com.  And videos hosted on "Vimeo":http://vimeo.com/
 
 
@@ -99,5 +106,7 @@ See "Jekyll-bootstrap":http://jekyllbootstrap.com/ for more info.
 <hr />
 
 h2(icon-cog). &#160;The following pages will guide you in how to maintain this site
+
+<br />
 
 {% include admin_toc.textile %}
