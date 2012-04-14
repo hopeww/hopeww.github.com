@@ -50,12 +50,15 @@ h2(icon-road). &#160; Background info
 
 This section is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
   
+<hr />
 
 h4. Intro to Textile
 
 All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  
 
 As an example, this is also typically how people edit sites like "Wikipedia":http://en.wikipedia.org/wiki/Help:Wiki_markup.  However, don't bother to study the "WikiMarkup language":http://en.wikipedia.org/wiki/Wiki_markup, it is *not* the same thing as "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) which is what we use here.
+
+<hr />
 
 
 h4. Where our Website is Hosted
@@ -67,6 +70,8 @@ After a textile file is created, and we have the file uploaded to the server.  T
 For us, the more dyamic elements are handled by javascript, which is client side, that is lives on users' browser.
 
 
+<hr />
+
 h4. Intro to Git
 
 "GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Git is a software that allows teams of people to work on projects at the same time.  It tracks different people's changes to files over time.  
@@ -74,10 +79,14 @@ h4. Intro to Git
 Don't worry, you don't have to know much about git. We'll revisit how to use git in a little bit.
 
 
+<hr />
+
 h4. Hosting of External Files
 
 On our website, we only have the images hosted locally by "GitHub":http://github.com.  PDFs, Word docs, and forms (such as questionaires) are more appropriately hosted on "Google Docs":http://docs.google.com.  And videos hosted on "Vimeo":http://vimeo.com/
 
+
+<hr />
 
 h4. Web & Framework
 
