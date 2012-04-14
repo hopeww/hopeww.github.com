@@ -7,20 +7,10 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
- #projects{list-style-type:none;margin:30px 0 0;overflow:hidden;padding:0}#projects .project{background-color:#EEE;margin-bottom:20px;min-height:305px;text-align:center;-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.2);box-shadow:1px 1px 1px rgba(0,0,0,0.2)}#projects .project > a{color:inherit;display:block;padding:20px 20px 10px;text-decoration:none}#projects .project:hover{background-color:#E5E5E5}#projects .project img{display:block;margin:0 auto;max-width:240px}#projects .project p{font:0.9em/1.5em Verdana,sans-serif;margin-top:10px;text-align:left}
-
-.handwritten { font-family: 'Tangerine', serif;
-        font-size: 48px; text-shadow: 4px 4px 4px #aaa; }
-
-.handwritten-sm { font-family: 'Tangerine', serif;
-         }        
-
-
-.span8 h6, .span12 h6, .span6 h2{
-
-  padding-top:20px;
-  padding-bottom:5px;
-}
+ #projects{list-style-type:none;margin:30px 0 0;overflow:hidden;padding:0}
+ #projects .project{background-color:#EEE;margin-bottom:20px;min-height:305px;text-align:center;-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.2);box-shadow:1px 1px 1px rgba(0,0,0,0.2)}
+ #projects .project > a{color:inherit;display:block;padding:20px 20px 10px;text-decoration:none}
+ #projects .project:hover{background-color:#E5E5E5}#projects .project img{display:block;margin:0 auto;max-width:240px}#projects .project p{font:0.9em/1.5em Verdana,sans-serif;margin-top:10px;text-align:left}
 
 .span1 h2, .span2 h2,
 ,.span3 h2, .span4 h2,
@@ -28,8 +18,8 @@
 ,.span7  h2, .span8 h2,
 ,.span9 h2, .span10 h2,
 ,.span11 h2, .span12 h2{
-  padding-top: 60px;
-  padding-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
 .span1 h4, .span2 h4,
 ,.span3 h4, .span4 h4,
@@ -37,8 +27,8 @@
 ,.span7  h4, .span8 h4,
 ,.span9 h4, .span10 h4,
 ,.span11 h4, .span12 h4{
-  padding-top: 10px;
-  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 
