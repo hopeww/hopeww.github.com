@@ -55,6 +55,8 @@ h2. Organizational Structure
 |{{ site.departments.montreal.hr.name }}|&#160;&#160;&#160;{{ site.departments.montreal.hr.title.en }}|
 |{{ site.departments.montreal.logistics.name }}|&#160;&#160;&#160;{{ site.departments.montreal.logistics.title.en }}|
 
+<hr />
+
 h2. Chapter Information
 
 For more information on the {{ city  }} Chapter, please contact "(icon-envelope) &nbsp;{{ site.departments.montreal.director.name }}( {{ city  }} Chapter Director)":mailto:{{ site.departments.montreal.director.email }}
