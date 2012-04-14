@@ -33,12 +33,12 @@
 
 */
 h2, h2.icon-cog, h2.icon-book, h2.icon-star, h2.icon-road{
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 h4, {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
  .img-right{
   float: right;
