@@ -21,7 +21,6 @@
   margin-top: 30px;
   margin-bottom: 10px;
 }
-
 .span1 h4, .span2 h4,
 ,.span3 h4, .span4 h4,
 ,.span5 h4, .span6 h4,
@@ -30,6 +29,11 @@
 ,.span11 h4, .span12 h4, .page_container h4{
   margin-top: 10px;
   margin-bottom: 5px;
+}
+
+.page_container p{
+  padding-top:3px;
+  padding-bottom:3px;
 }
 
 
