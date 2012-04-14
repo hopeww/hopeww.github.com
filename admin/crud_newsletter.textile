@@ -38,6 +38,8 @@ h3. Steps:
 # fill out your latest newsletter
 # send it via constant contact
 
+<hr />
+
 h4. Make a copy of the last newsletter
 
 In the _post directory, look for the newsletter that is the latest. Be careful of the date.
@@ -46,6 +48,8 @@ Create a copy, rename it to the date that it's meant to be published, but do not
 
 So the format remains @2011-12-31-latest_newsletter.textile@
 
+<hr />
+
 h4. Change the last latest newsletter to no longer be the latest one
 
 When you open up the last latest n.l, you'll see 
@@ -53,6 +57,8 @@ When you open up the last latest n.l, you'll see
 
 Now, open up the current latest newsletter change the fields to reflect the correct date.
 @published_date : "Feb 01, 2012"@ and @date_string : "2012/02/01"@  please keep the format the same.
+
+<hr />
 
 h4. Fill out the Latest newsletter
 
@@ -73,9 +79,11 @@ Now that the copied newsletter had became the latest newsletter, we need to fill
 
 Fill out action the section regarding the links (lnk) and images (img).  Make sure that the link is a fully qualified path, ie.  paste it from http://something.something.com and that the image is of small size, because as you can see the size of the newsletter is not that big.
 
+<hr />
+
 h4. Send it
 
-I won't cover how to do that here.  MarCom will do this.
+I won't cover how to do that here.  MarCom Team will do this, just notify them when newsletter is published on the web.
 
 <hr />
 {% include admin_toc.textile %}
