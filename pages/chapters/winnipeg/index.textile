@@ -15,6 +15,8 @@ Whether involved in a large community project, making a donation for disaster re
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.winnipeg.director.name }}, Chapter Director__
 
+<hr />
+
 h2. Upcoming Chapter Activities
 
 Here are some upcoming events for the {{ city }} Chapter:
@@ -22,6 +24,7 @@ Here are some upcoming events for the {{ city }} Chapter:
 |April, 2012 | Sandwich Sunday|
 |May, 2012 |Volunteer event at Winnipeg Harvest, a local food shelter|
 
+<hr />
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
@@ -33,6 +36,7 @@ h2. Past Activities in {{ city }}
 	{% endif %}
 {% endfor %}
 
+<hr />
 
 h2. Chapter Information
 
