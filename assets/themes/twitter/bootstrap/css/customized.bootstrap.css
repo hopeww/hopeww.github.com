@@ -22,14 +22,23 @@
   padding-bottom:5px;
 }
 
+.span1 h2, .span2 h2,
+,.span3 h2, .span4 h2,
+,.span5 h2, .span6 h2,
+,.span7  h2, .span8 h2,
+,.span9 h2, .span10 h2,
+,.span11 h2, .span12 h2{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
 .span1 h4, .span2 h4,
 ,.span3 h4, .span4 h4,
 ,.span5 h4, .span6 h4,
 ,.span7  h4, .span8 h4,
 ,.span9 h4, .span10 h4,
 ,.span11 h4, .span12 h4{
-  padding-top: 30px;
-  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 
