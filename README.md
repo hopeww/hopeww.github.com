@@ -10,6 +10,10 @@
 
 ## *HOPE* __worldwide__ of Canada Website License
 
-(c) 2012 *HOPE* __worldwide__ of Canada
 
---------------
+
+
+(c) 2012 *HOPE __worldwide__ of Canada
+
+## The manual for maintaining this site
+https://github.com/hopeww/hopeww.github.com/wiki
