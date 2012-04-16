@@ -7,7 +7,9 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
+<div align=center>
 <img src="/assets/themes/twitter/images/admin/thanks4.jpg" align="center" />
+</div>
 <hr />
 
 h2(icon-trophy). &#160; Purpose & goals
