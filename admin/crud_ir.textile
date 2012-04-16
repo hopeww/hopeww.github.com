@@ -24,7 +24,7 @@ image : /assets/themes/twitter/images/work/international/main_village.jpg
 Copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the Textile file, which is @the story that the posting describes@
 
 <div class="hero-unit">
-	<a href="2012-04-09-ir-sample.txt" class="icon-file" >&#160;Here's a sample, please rename the extension to .textile</a>
+	<a href="2012-04-09-ir-sample.txt" class="icon-file" >&#160;Here's a sample</a>
 </div>
 
 
