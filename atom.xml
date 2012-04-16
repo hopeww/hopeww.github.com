@@ -18,7 +18,7 @@ title : Atom Feed
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <summary>{{ post.content |xml_escape| strip_html |handleize|  truncatewords: 20 }}</summary>
+   <summary>{{ post.content |strip_html|xml_escape|  handleize|  truncatewords: 20 }}</summary>
    <link href="{{ site.production_url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>h{{ site.production_url }}{{ post.id }}</id>
