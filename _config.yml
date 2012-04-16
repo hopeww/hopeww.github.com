@@ -104,14 +104,6 @@ social-media-presence :
   twitter : "https://twitter.com/#!/HOPEwwofCanada"
   canadahelps : http://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d60456
 
-#indextank_index: HOPEWW 
-#indextank_api_url: http://:M0txCJ4ihODDjZS@hopewwc.api.houndsleuth.com
-
-indextank_index: HOPE_WorldWide_of_Canada  
-indextank_api_url: http://:Pk4kJPFRIhptDd@txje.api.indextank.com
-
-indextank_excludes: [404.html, ^/secret/]
-
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
