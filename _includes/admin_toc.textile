@@ -1,11 +1,17 @@
 h5. Table of Contents
 
+
+
+<div class="hero-unit">
+
 # "Setting up your environment":set_up_environment.html
 # "Basics of creating a post":av.html
 # "How to Manage Newsletter on the Website":crud_newsletter.html
 # "How to Manage International Relief Postings":crud_ir.html
 # "How to Manage Youth Corp Postings":crud_youth_corp.html
 # "How to Manage Volunteers Postings":crud_volunteer.html
+
+</div>
 
 <hr />
 

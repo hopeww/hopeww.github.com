@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Managing Youth Corp Articles
+layout: page_282
+title: Managing HOPE Youth Corp Articles
 category: HowTos
 tags: [HowTos]
 ---
@@ -8,3 +8,26 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
+h2. The Format of the HOPE Youth Corp Posting
+
+bc. puts "
+---
+layout: post
+title: "Gillian's adventure in Philadelphia"
+category: Youth_Corp
+tags: [Youth_Corp]
+blurb : ""
+image : /assets/themes/twitter/images/work/youthcorp/youthcorp_banner1.png
+---
+"
+
+Pretty straig forward, just copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the Textile file, which is @the story that the posting describes@.  Currently, the @blurb@ section is not used, maybe advisable to leave it blank.
+
+
+<hr />
+
+h2. Next
+
+"How to manage newsletters on the website":crud_newsletter.html.
+
+{% include admin_toc.textile %}

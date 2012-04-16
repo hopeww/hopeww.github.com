@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Managing Youth Corp Articles
+layout: page_282
+title: Managing International Relief Articles
 category: HowTos
 tags: [HowTos]
 ---
@@ -8,3 +8,47 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
+h2. The Format of the International Relief Posting
+
+bc. puts "
+---
+layout: post
+title: "Village of HOPE in Haiti, a report"
+category: International
+tags: [International]
+blurb : "HOPE worldwide of Canada sent $30,000 to Haiti to be used to train 30 members of the Port of Prince Church of Christ (PPCC) in trades, such as construction, cleaning and alternative energy"
+image : /assets/themes/twitter/images/work/international/main_village.jpg
+---
+"
+
+Copy one of the other postings and change the @title@, the @blurb@, the @image@, and of course the content of the Textile file, which is @the story that the posting describes@
+
+
+<div id="myModal" class="modal hide fade">
+	<div class="modal-header">
+	  <a class="close" data-dismiss="modal" >&times;</a>
+	  <h3>Modal Heading</h3>
+	</div>
+	<div class="modal-body">
+	  <h4>Overflowing text to show optional scrollbar</h4>
+	  <p>We set a fixed <code>max-height</code> on the <code>.modal-body</code>. Watch it overflow with all this extra lorem ipsum text we've included.</p>
+	  <p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+	</div>
+	<div class="modal-footer">
+	  <a href="#" class="btn" data-dismiss="modal" >Close</a>
+	  <a href="#" class="btn btn-primary">Save changes</a>
+	</div>
+</div>
+
+<div class="hero-unit">
+	<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-large">Launch demo modal</a>
+</div>          
+
+
+<hr />
+
+h2. Next
+
+"How to manage newsletters on the website":crud_newsletter.html.
+
+{% include admin_toc.textile %}

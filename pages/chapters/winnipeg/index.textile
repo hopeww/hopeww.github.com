@@ -9,11 +9,15 @@ title: "Winnipeg"
 !/assets/themes/twitter/images/chapters/winnipeg/winnipeg_banner.jpg!
 </div>
 
+<hr />
+
 h2. What HOPE worldwide of Canada means to me?
 
 Whether involved in a large community project, making a donation for disaster relief or a few hours pitching in at a local shelter, HOPE worldwide of Canada provides me with the opportunity to be a champion for the needy, and to make a difference once small act of service at a time. HOPE unites me with other volunteers so that as a collective we can make a contribution to the eradication of poverty and injustice in our world.
 
 <icon class="icon-leaf" /> __&#160;{{ site.departments.winnipeg.director.name }}, Chapter Director__
+
+<hr />
 
 h2. Upcoming Chapter Activities
 
@@ -22,6 +26,7 @@ Here are some upcoming events for the {{ city }} Chapter:
 |April, 2012 | Sandwich Sunday|
 |May, 2012 |Volunteer event at Winnipeg Harvest, a local food shelter|
 
+<hr />
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
@@ -33,6 +38,7 @@ h2. Past Activities in {{ city }}
 	{% endif %}
 {% endfor %}
 
+<hr />
 
 h2. Chapter Information
 

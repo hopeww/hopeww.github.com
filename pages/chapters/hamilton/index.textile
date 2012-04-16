@@ -7,6 +7,9 @@ title: "Hamilton"
 
 !(img-right)/assets/themes/twitter/images/chapters/hamilton/hamilton_banner.jpg!
 
+<hr />
+
+
 
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
@@ -17,6 +20,9 @@ h2. Past Activities in {{ city }}
 	  </ul>
 	{% endif %}
 {% endfor %}
+
+
+<hr />
 
 
 h2. Chapter Information

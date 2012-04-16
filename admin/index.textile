@@ -7,15 +7,20 @@ tags: [HowTos]
 {% include JB/setup %}
 
 
-<img src="/assets/themes/twitter/images/admin/thanks.jpg" align="center" />
-
+<div align=center>
+<img src="/assets/themes/twitter/images/admin/thanks4.jpg" align="center" />
+</div>
 <hr />
 
 h2(icon-trophy). &#160; Purpose & goals
 
+<br />
+
 The purpose of our website is to disseminate information to the public about the wonderful work that we're doing. Some potential constraints that we have is that we are a relatively young and perhaps lesser-known organization, also, that everything is ran by the effor of volunteers.  But we hope that by our communication of what God has achieved through us, we invite more & more people to join in knowing & serving God.  
 
 Here are some tangible goals of what we should see in our website:
+
+<div class="hero-unit">
 
 * work on mobile devices and large screens
 * be clean and easy to navigate
@@ -27,9 +32,13 @@ Here are some tangible goals of what we should see in our website:
 * provide an easy way for users to see what's new
 * allow the volunteers in support/operations team to go through different requests easily
 
+</div>
+
 <hr />
 
 h2(icon-star). &#160;Content is important!
+
+<br />
 
 The world is literally in information overload, and we're also trying to compete for a sliver of everyone's attention span, and so, we need to have great content. 
 
@@ -45,13 +54,19 @@ Here's a great article that emphasizes the importance of great content.
 
 h2(icon-road). &#160; Background info
 
+<br />
+
 This section is just an FYI, you don't need in depth knowledge of any of these technologies. The parts relevant to you as web maintainer is at the very bottom.
   
+<hr />
+
 h4. Intro to Textile
 
 All posts on this website uses the "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) markup language, it turns texts into html, so it's very easy to use.  Here is a Textile "sandbox.":http://www.textism.com/tools/textile/ for you to test the look & feel of your input.  
 
 As an example, this is also typically how people edit sites like "Wikipedia":http://en.wikipedia.org/wiki/Help:Wiki_markup.  However, don't bother to study the "WikiMarkup language":http://en.wikipedia.org/wiki/Wiki_markup, it is *not* the same thing as "Textile":http://en.wikipedia.org/wiki/Textile_(markup_language) which is what we use here.
+
+<hr />
 
 
 h4. Where our Website is Hosted
@@ -63,6 +78,8 @@ After a textile file is created, and we have the file uploaded to the server.  T
 For us, the more dyamic elements are handled by javascript, which is client side, that is lives on users' browser.
 
 
+<hr />
+
 h4. Intro to Git
 
 "GitHub":http://github.com uses a source control software called "git":http://git-scm.com/.  Git is a software that allows teams of people to work on projects at the same time.  It tracks different people's changes to files over time.  
@@ -70,10 +87,15 @@ h4. Intro to Git
 Don't worry, you don't have to know much about git. We'll revisit how to use git in a little bit.
 
 
+<hr />
+
 h4. Hosting of External Files
+
 
 On our website, we only have the images hosted locally by "GitHub":http://github.com.  PDFs, Word docs, and forms (such as questionaires) are more appropriately hosted on "Google Docs":http://docs.google.com.  And videos hosted on "Vimeo":http://vimeo.com/
 
+
+<hr />
 
 h4. Web & Framework
 
@@ -86,5 +108,7 @@ See "Jekyll-bootstrap":http://jekyllbootstrap.com/ for more info.
 <hr />
 
 h2(icon-cog). &#160;The following pages will guide you in how to maintain this site
+
+<br />
 
 {% include admin_toc.textile %}

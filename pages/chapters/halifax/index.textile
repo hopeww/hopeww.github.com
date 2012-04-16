@@ -8,6 +8,9 @@ title: "Halifax"
 !(img-right)/assets/themes/twitter/images/chapters/halifax/halifax_banner.jpg!
 
 
+<hr />
+
+
 h2. Past Activities in {{ city }}
 {% for category in site.categories %} 
 	{% if category[0] == city %}
@@ -17,6 +20,9 @@ h2. Past Activities in {{ city }}
 	  </ul>
 	{% endif %}
 {% endfor %}
+
+<hr />
+
 
 
 h2. Chapter Information

@@ -1,10 +1,40 @@
 ---
-layout: post
-title: Managing Youth Corp Articles
+layout: page_282
+title: Managing Volunteers Postings
 category: HowTos
 tags: [HowTos]
 ---
 
 {% include JB/setup %}
 
+h2. The Format of the Volunteer Posting
 
+bc. puts "
+---
+layout: post
+title: Content Developer
+published_date : "Sep 11, 2011"
+category: Volunteer_Toronto_Active
+tags: [Volunteer]
+---
+"
+
+bc. puts "
+{% include JB/setup %}
+"
+
+bc. puts "
+<iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIYWU4MjQ2MzUtNTBiYi00YmQyLWFiMmQtNjRmZmJlZDYyMjlj&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>
+"
+
+Copy one of the other postings and change the @title@, the @published_date@, the @category@, and of course the content of the Textile file, which is @the story that the posting describes@.  
+
+For the @category@ section, put down @Volunteer_Toronto_Active@ if this posting is active in Toronto, for instance.  If it is not active, just put @Volunteer_Toronto@.  You can also just delete files for postings that have expired. 
+
+<hr />
+
+h2. Next
+
+"How to manage newsletters on the website":crud_newsletter.html.
+
+{% include admin_toc.textile %}
