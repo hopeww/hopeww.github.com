@@ -1,0 +1,35 @@
+---
+layout: post
+title: "HOPE worldwide of Canada Newsletter"
+category: Latest_Newsletter
+tags: [Newsletter]
+published_date : "Feb 27, 2012"
+date_string : "2012/02/27"
+img_caption : "Right-click here to download pictures. To help protect your privacy, Outlook prevented automatic download  of this picture from the Internet."
+large_story_1_heading : "Meet Kimberlee"
+large_story_2_heading : "Soup Sundays"
+large_story_3_heading : "YWCA Improv Workshop"
+large_story_1_txt : "Kimberlee can still vividly remember the first time she volunteered with HOPE worldwide of Canada at a street clean-up in the lower East side of Vancouver."
+large_story_2_txt : "January and February are the coldest months in Winnipeg; and for Winnipeg’s homeless, these months can be extremely rough to survive."
+large_story_3_txt : "HOPE Volunteers Lara Tai and Laura Marijan both have professional comedic improv experience and were asked to conduct a comedic"
+small_story_1_heading : "Out of the Cold"
+small_story_2_heading : "Habitat for Humanity"
+small_story_3_heading : "Feeding the Homeless"
+small_story_2_txt : "Jeannette Morrice’s dream came true on Saturday, March 24, 2012. Along with 20 volunteers from HOPE worldwide of Canada"
+small_story_1_txt : "Out of the Cold is a program that meets the needs of the poor in the Toronto community. by providing meals"
+small_story_3_txt : "The Accueil Bonneau is a well-known men’s shelter in Montreal where the homeless can have two meals every day"
+small_story_1_lnk : ""
+small_story_2_lnk : "http://hopeww.github.com/Toronto/2012/04/07/out-of-the-cold/"
+small_story_3_lnk : "http://hopeww.github.com/Montreal/2012/04/07/feeding-the-homeless-at-accueil-bonneau-a-shelter-for-homeless-men/"
+large_story_1_lnk : ""
+large_story_2_lnk : ""
+large_story_3_lnk : ""
+large_story_1_img_lnk : "large_story_1.jpg"
+large_story_2_img_lnk : "large_story_2.jpg"
+large_story_3_img_lnk : "large_story_3.jpg"
+---
+
+{% include JB/setup %}
+
+<iframe src="https://docs.google.com/open?id=0B5-xkEf58AbId19EUDZDbUY3ZUk&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>
+
