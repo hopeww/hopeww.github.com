@@ -24,9 +24,9 @@ small_story_3_lnk : "http://hopeww.github.com/Montreal/2012/04/07/feeding-the-ho
 large_story_1_lnk : "http://hopeww.github.com/pages/chapters/winnipeg/"
 large_story_2_lnk : "http://hopeww.github.com/Winnipeg/2012/04/30/soup-sunday"
 large_story_3_lnk : "http://hopeww.github.com/Toronto/2012/04/07/improv-is-fun-ywca-workshop/"
-large_story_1_img_lnk : "/assets/themes/twitter/images/posts/2012-04-30-latest_newsletter/main_1.jpg"
-large_story_2_img_lnk : "/assets/themes/twitter/images/posts/2012-04-30-latest_newsletter/main_2.jpg"
-large_story_3_img_lnk : "/assets/themes/twitter/images/posts/2012-04-30-latest_newsletter/main_3.jpg"
+large_story_1_img_lnk : "2012-04-30-latest_newsletter/main_1.jpg"
+large_story_2_img_lnk : "2012-04-30-latest_newsletter/main_2.jpg"
+large_story_3_img_lnk : "2012-04-30-latest_newsletter/main_3.jpg"
 ---
 
 {% include JB/setup %}
