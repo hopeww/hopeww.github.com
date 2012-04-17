@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "International Day of Giving 2011"
+title: "Soup Sundays"
 category: Winnipeg
 tags: [Winnipeg]
 ---
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
 
-Winnipeg HOPE volunteers raised almost $4,000 for this year's International Day of Giving on November 20, 2011. The funds donated will be distributed to the Laguna Centre of HOPE in the Philippines to assist in their work with abused children.
 
 <!--  THE END (of the story) -->
