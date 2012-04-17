@@ -6,4 +6,22 @@ tags: [Toronto]
 ---
 {% include JB/setup %}
 
+!(img-right)/assets/themes/twitter/images/posts/2012-04-30-habitat-humanity/1.jpg!
 
+Jeannette Morrice’s dream came true on Saturday, March 24, 2012. Along with 20 volunteers from
+HOPE worldwide of Canada, they had a unique opportunity to partner with Habitat for Humanity
+for the Adopt a Day Build Event. The volunteers raised $1,500 for Habitat for Humanity and built
+homes at Macey Avenue and St. Dunstan Drive Build Site near Victoria Park in Toronto.
+
+The event was exciting and inspiriting. The volunteers were proud to give their time and energy to make a difference in their community.
+
+They were able to put up drywall, put in insulation, and build walls and doorframes. The Habitat for
+Humanity team leader showed Jeannette how to use an electric saw and she was able to cut a sixfoot
+piece of wood and then hammer it into the front door frame.
+
+Many volunteers worked tirelessly during the day as the home came close to completion. During the lunch break,
+the Habitat for Humanity team leaders provided pizza for the volunteers and shared personal accounts of previous
+houses that have been built for those who are less fortunate. Due to the efforts of the volunteers and those who raised and donated money, much more people now have their very own homes to live in. The volunteers wrote their names on the unpainted wooden frames to showcase their contribution.
+
+Jeannette is looking forward to the opening day celebration when the new home owners receive the keys and enter
+their new home for the first time. To God be the Glory!
