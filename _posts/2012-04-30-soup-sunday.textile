@@ -7,5 +7,14 @@ tags: [Winnipeg]
 {% include JB/setup %}
 <!--  The way to include an image is !(img-right)/path/to/the/image.jpg! -->
 
+January and February are the coldest months in Winnipeg; and for Winnipeg’s homeless, these months
+can be extremely rough to survive. In light of this fact, this past February HOPE Winnipeg volunteers brought
+out their stockpots and rolled up their sleeves to make homemade soup and stews for the needy patrons of
+Winnipeg’s Main Street Project emergency shelter.
+
+Over 20 families cooked large batches of nutritious soup at home and brought them to HOPE to collect on
+February 26th, 2012. Winnipeg volunteers excitedly gathered to donate and peruse the 80 one-litre
+containers of various soups and stews collected. Two volunteers then filled their car with the various aromas
+and delivered the containers to the happy recipients of Main Street Project.
 
 <!--  THE END (of the story) -->
