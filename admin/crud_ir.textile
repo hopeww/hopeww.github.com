@@ -44,7 +44,6 @@ Copy one of the other postings and change the @title@, the @blurb@, the @image@,
 	<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-large">Launch demo modal</a>
 </div>          
 
-
 <hr />
 
 h2. Next

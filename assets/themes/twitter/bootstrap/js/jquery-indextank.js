@@ -1,3 +1,5 @@
+ // was using IndexTank, now using Tapir
+
  // http://tapirgo.com/api/1/search.json?token=4f8586e03f61b06e0a00001c&query=toronto
  // http://txje.api.indextank.com/v1/indexes/HOPE_WorldWide_of_Canada/search?q=toronto
  $(document).ready(function() {
@@ -16,7 +18,7 @@
 
     function create_heading(){
       $('div#results').empty();
-      $('div#results').append("<div class='modal-header'><a class='close' data-dismiss='modal'>x</a><h1 id='results'>Search results</h1></div><div class='modal-body' id='results_body'>");
+      $('div#results').append("<div class='modal-header'><a class='close btn-primary' data-dismiss='modal'>x</a><h1 id='results'>Search results</h1></div><div class='modal-body' id='results_body'>");
     }
     function create_footer(){
       $('div#results').append("<br /></div><div class='modal-footer'><a href='' class='btn' data-dismiss='modal' >Close</a></div>");
