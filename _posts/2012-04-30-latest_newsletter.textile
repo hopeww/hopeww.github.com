@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
 category: Newsletter
 tags: [Newsletter]
