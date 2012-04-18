@@ -1,0 +1,92 @@
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0' name='viewport' />
+    <!-- change your meta tags for facebook -->
+    <meta property="og:site_name" content="site name" /> 
+    <meta property="og:type" content="article" /> 
+    <meta id="fb-title" property="og:title" content="site title" /> 
+    <meta id="fb-url" property="og:url" content="the absolute url of where you are hosting this page" /> 
+    <meta id="fb-image" property="og:image" content="an absolute url of image or icon that will be embedded into fb post" />
+    <meta name="description" content="your description" /> 
+    <title>Vimeo Boilerplate</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/bootstrap/css/css/bootstrap.origin.min.css" type="text/css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/bootstrap/css/main.css" type="text/css" media="screen" charset="utf-8">    
+    </head>
+    <body>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span12">
+        <div id="content">
+          <div id="header">
+            <h1>Vimeo Boilerplate</h1> 
+            
+            <form class="form-search">
+              <input id="search" type="text" class="input-medium search-query" placeholder="search">
+              <button id="search-button" type="button" class="btn">Search</button><br/>
+              <a href="#" class="btn btn-info" id="search-info">
+                Searching for &ldquo;<span id="search-string">beginner</span>&rdquo;. Show all Videos?
+              </a>
+            </form>
+          </div>
+          <div id="video-container" class="well">
+            <div id="screen" class="glyph">
+              <iframe name="screen" src="about:blank" width="100%" height="100%" 
+              frameborder="0">
+              </iframe>
+            </div>
+            <div class="vid-info">
+              <h3 id="title"></h3>
+              <p id="description"></p>    
+            </div>
+          </div>  
+          <!-- end of screen -->
+          <div id="gallery">
+            <ul id="thumbs">
+              <li style="float:none;width:30%;margin:0px auto">
+                <div class="progress progress-success
+                     progress-striped active">
+                  <div class="bar" style="width: 100%;"></div>
+                </div>
+              </li>
+            </ul>
+            <!-- end of thumbs -->
+          </div>
+
+          <!-- end of gallery -->
+          <div id="footer">
+            <p>&copy; Acme Corp., 2012. All rights reserved.</p>
+          </div>
+        </div>
+        <!-- end of content -->
+        
+        
+      
+        </div>
+      </div>
+    
+    </div>
+    
+    <!-- js micro templates -->
+    <script type="text/html"  id="thumb_tmpl">
+      <li>
+        <form id="<%=id%>" method="get" target="screen" action="http://player.vimeo.com/video/<%=id%>?title=0&amp;byline=0&amp;portrait=0">
+            <input class="vid-thumb glyph" type="submit" style="background-image:url(<%=thumbnail_medium%>)" value=""/>
+          <h5><%=title%></h5>
+        </form>
+      </li>
+    </script>
+    
+    <script type="text/html"  id="no_videos_tmpl">
+      <div class="vid-info" id="no-videos" style="text-align:center">
+        <h2>No Videos Found. Please try a different search.</h2>
+      </div>
+    </script>
+    
+    <script src="assets/themes/twitter/bootstrap/js/vimeo.js"></script>
+    <script src="assets/themes/twitter/bootstrap/js/vimeo-setup.js"></script>
+    
+    </body>
+</html>
