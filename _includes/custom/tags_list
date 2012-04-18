@@ -15,7 +15,7 @@
         {% when "HowTos" %}
             <li><a href="{{ BASE_PATH }}/pages/admin/index.html">{{ tag }}</a></li>
         {% else %}
-            <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag }}">{{ tag }}</a></li>
+            <li><a href="{{ BASE_PATH }}/pages/chapters/{{ tag |downcase}}">{{ tag }}</a></li>
         {% endcase %}
     {% endfor %}
 {% else %}
