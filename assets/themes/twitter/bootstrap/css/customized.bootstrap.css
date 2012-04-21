@@ -7,6 +7,15 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+
+
+#feedback {
+  right: 0; margin-right: -7px; height: 102px; top: 40%; width: 42px; background-color: #32312E;
+  background-image: url(/assets/themes/twitter/images/backgrounds/feedback_trans_tab.png);
+  background-repeat: no-repeat; color: white; cursor: pointer; overflow: hidden; position: fixed;
+  text-indent: -100000px; z-index: 100000;
+}
+
 body {
   /*background: url(/assets/themes/twitter/images/backgrounds/daimond_eyes.png) repeat;*/
   /* background: url(/assets/themes/twitter/images/backgrounds/gradient_squares.png) repeat;*/
