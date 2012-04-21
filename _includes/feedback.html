@@ -1,0 +1,51 @@
+
+<!-- Feedback -->
+
+<a href="#" id="feedback" data-controls-modal="feedback_modal" data-backdrop="true" data-keyboard="true">Feedback</a>
+
+<div id="feedback_modal" class="modal hide fade">
+	<div class="modal-header">
+		<a href="#" class="close">&times;</a>
+		<h3>Share a Feedback</h3>
+	</div>
+	
+	<div class="modal-body">
+		<form method="post">
+		
+			<div>
+				<select name="feedback_purpose">
+					<option>Report an Issue</option>
+					<option>Suggest Improvements</option>
+					<option>Ask a Question</option>
+					<option>Write a Praise</option>
+					<option>Share an Idea</option>
+					<option>Other...</option>
+				</select>
+			</div>
+		
+			<div>
+				<input type="text" name="title" value="Title">
+			</div>
+			
+			<div>
+				<textarea rows="5" name="description">Description</textarea>
+			</div>
+			
+			<div>
+				<input type="text" name="name" value="Name">
+			</div>
+			
+			<div>
+				<input type="text" name="email" value="Email">
+			</div>
+		
+		</form>
+	</div>
+	
+	<div class="modal-footer">
+		<a href="#" class="btn primary" id="share_feedback">Share</a>
+		<!--<a href="#" class="btn secondary">Secondary</a>-->
+	</div>
+</div>
+
+<!-- /Feedback -->
