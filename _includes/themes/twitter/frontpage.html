@@ -8,19 +8,28 @@
     <div id="results_spacing"></div>
 
     <div class="container">
+
       <div class="row-fluid">
-        <div class="hero-unit">
-          <div id="myCarousel" class="carousel slide">
-            <div class="carousel-inner">
-              {% include car_item1.html %}
-              {% include car_item2.html %}
-              {% include car_item3.html %}
-              {% include car_item4.html %}
-            </div>
-            {% include car_control.html %}
-          </div><!-- end myCarousel -->
-        </div><!-- end hero-unit -->
+
+        <div class="span1">
+          <img src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png">
+        </div>
+
+        <div class="span11">
+          <div class="hero-unit">
+            <div id="myCarousel" class="carousel slide">
+              <div class="carousel-inner">
+                {% include car_item1.html %}
+                {% include car_item2.html %}
+                {% include car_item3.html %}
+                {% include car_item4.html %}
+              </div>
+              {% include car_control.html %}
+            </div><!-- end myCarousel -->
+          </div><!-- end hero-unit -->
+        </div><!-- end span11 -->
       </div><!-- end row-fluid -->
+
       <div class="row-fluid">
             <div class="span4">
               <h2>International Relief</h2>
