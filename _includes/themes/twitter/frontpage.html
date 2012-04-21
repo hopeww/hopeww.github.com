@@ -3,13 +3,17 @@
   {% include head.html %}
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
     {% include navbar.html %}
-    <div align="center">
-    <img src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png"  /></div>
+    
     <div id="results" class="modal hide fade in" style="display: none; "></div>
     <div id="results_spacing"></div>
     <div class="container">
       <div class="row-fluid">
         <div class="container">
+          <div class="row">
+          <div class="span1">
+            <img src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png"  />
+          </div>
+          <div class="span11">
           <div class="hero-unit">
            <div id="myCarousel" class="carousel slide">
             <div class="carousel-inner">
@@ -69,6 +73,8 @@
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
             <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
             </div>
+          </div>
+          </div>
           </div>
           <div class="row-fluid">
             <div class="span4">
