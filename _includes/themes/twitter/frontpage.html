@@ -2,8 +2,20 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 {% include head.html %}
-<body>
+<body  data-spy="scroll" data-target=".subnav">
+
   {% include navbar.html %}
+  <div class="subnav">
+    <ul class="nav nav-pills">
+      <li><a href="#global">Global styles</a></li>
+      <li><a href="#gridSystem">Grid system</a></li>
+      <li><a href="#fluidGridSystem">Fluid grid system</a></li>
+      <li><a href="#gridCustomization">Customizing</a></li>
+      <li><a href="#layouts">Layouts</a></li>
+      <li><a href="#responsive">Responsive design</a></li>
+    </ul>
+  </div>
+
   <div class="container">
     <!-- Main hero unit for a primary marketing message or call to action -->
     <img  src="{{ ASSET_PATH }}/images/icons/hopewwc_logo.png" alt="" align="middle"/>
