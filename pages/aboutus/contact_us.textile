@@ -10,11 +10,15 @@ h2. By Phone
 
 {{ site.headquarters-info.phone }} ({{ site.headquarters-info.city }})
 
+<hr />
+
 h2. Mailing Address
 
 {{ site.headquarters-info.address }},
 {{ site.headquarters-info.city }}, {{ site.headquarters-info.province }},
 {{ site.headquarters-info.country }} {{ site.headquarters-info.postalcode }}
+
+<hr />
 
 h2. Email regarding
 
@@ -22,7 +26,15 @@ h2. Email regarding
 "(icon-envelope) &nbsp;Marketing and Communications( Marcom)":mailto:{{ site.departments.marcom.email }}
 "(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}
 
+<hr />
+
 h2. Social Media
 
 "(icon-facebook-sign) &nbsp;Facebook( Facebook)":{{ site.social-media-presence.facebook }}
 "(icon-twitter-sign) &nbsp;Twitter( Twitter)":{{ site.social-media-presence.twitter }}
+
+<hr />
+
+h2. Website Info
+
+Icons provided by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>. 
