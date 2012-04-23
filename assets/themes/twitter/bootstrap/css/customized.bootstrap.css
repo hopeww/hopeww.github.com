@@ -8,7 +8,6 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-
 #feedback {
   right: 0; margin-right: -7px; height: 102px; top: 40%; width: 42px; background-color: #32312E;
   background-image: url(/assets/themes/twitter/images/backgrounds/feedback_trans_tab.png);
@@ -26,12 +25,27 @@ body > .container {
   margin-top: 20px; /*padding-top: 10px;*/
 }
 
-
-
  #projects{list-style-type:none;margin:30px 0 0;overflow:hidden;padding:0}
  #projects .project{background-color:#EEE;margin-bottom:20px;min-height:305px;text-align:center;-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.2);box-shadow:1px 1px 1px rgba(0,0,0,0.2)}
  #projects .project > a{color:inherit;display:block;padding:20px 20px 10px;text-decoration:none}
  #projects .project:hover{background-color:#E5E5E5}#projects .project img{display:block;margin:0 auto;max-width:240px}#projects .project p{font:0.9em/1.5em Verdana,sans-serif;margin-top:10px;text-align:left}
+
+.container[role="main"] {
+  padding-bottom: 60px;
+}
+
+.bottombar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.post_container p{
+  text-indent: 3em;
+  padding: 3px 0px 3px 0px; 
+}
+
 /*
 .span1 h2, .span2 h2,
 ,.span3 h2, .span4 h2,
@@ -3438,7 +3452,3 @@ a.thumbnail:hover {
   visibility: hidden;
 }
 
-.post_container p{
-  text-indent: 3em;
-  padding: 3px 0px 3px 0px; 
-}
