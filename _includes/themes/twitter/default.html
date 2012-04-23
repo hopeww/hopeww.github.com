@@ -9,9 +9,7 @@
         {{ content }}
       </div>
 
-    </div> <!-- /container -->
-
-    {% if page.sticky_footer %}
+    {% if page.no_use_sticky_footer %}
     <div  align="center">
       <p><br /></p>
       <p><br /></p>
@@ -22,6 +20,11 @@
       {% include foot_text.html %}
     </div>
     {% endif %}
+
+
+    </div> <!-- /container -->
+
+
 
 
     {% include JB/analytics %}
