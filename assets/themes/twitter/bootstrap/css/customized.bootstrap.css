@@ -24,7 +24,9 @@
   background-repeat: no-repeat; color: white; cursor: pointer; overflow: hidden; position: fixed;
   text-indent: -100000px; z-index: 100000;
 }
-
+html,body {
+    height: 100%;
+}
 body {
   /*background: url(/assets/themes/twitter/images/backgrounds/daimond_eyes.png) repeat;*/
   /* background: url(/assets/themes/twitter/images/backgrounds/gradient_squares.png) repeat;*/
