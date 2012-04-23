@@ -6,24 +6,23 @@ title: "Partners and Affiliates"
 
 h2. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
 
-<div align="center">
-!/assets/themes/twitter/images/icons/hopewwc_logo2.png!:http://www.hopeww.org
-</div>
+!/assets/themes/twitter/images/icons/hopewwc_logo.png!:http://www.hopeww.org
 
 <hr />
 
 h2. Our Global Affiliates
 
 
-* Afghanistan
-* Australia
-* Brazil
-* Canada
-* China
-* Croatia
-* Ethiopia
-* Germany
-* Honduras
+* "Afghanistan":http://www.hopeww.org/Page.aspx?pid=335
+* "Australia":http://www.hopewwaustralia.org.au/
+* "Bolivia":http://hopeinbolivia.wordpress.com/
+* "Brazil":http://www.hopeww.org/Page.aspx?pid=313
+* "Canada":http://hopewwc.org
+* "China - Hong Kong":http://www.hopeww.org.hk/
+* "Croatia":http://www.hopeww.org/Page.aspx?pid=1053
+* "Ethiopia":https://www.hopeww.org/SSLPage.aspx?pid=1843
+* "Germany":http://www.hopeww.org/Page.aspx?pid=316
+* "Honduras":http://www.hopeworldwidehonduras.org/
 * India
 * Indonesia
 * Jamaica
