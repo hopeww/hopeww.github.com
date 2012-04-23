@@ -37,4 +37,4 @@ h2. Social Media
 
 h2. Website Info
 
-Icons provided by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>. 
+Icons provided by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  You can email us your feedback "(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}, and will do your best to answer your questions.
