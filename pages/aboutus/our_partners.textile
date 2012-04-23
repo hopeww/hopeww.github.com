@@ -23,22 +23,22 @@ h2. Our Global Affiliates
 * "Ethiopia":https://www.hopeww.org/SSLPage.aspx?pid=1843
 * "Germany":http://www.hopeww.org/Page.aspx?pid=316
 * "Honduras":http://www.hopeworldwidehonduras.org/
-* India
-* Indonesia
-* Jamaica
-* Kenya
-* Lithuania
-* Malaysia
-* Nigeria
-* Panama
-* Papua New Guinea
-* Philippines
-* Russia
-* Singapore
-* South Africa
-* Thailand
-* United Kingdom
-* United States
+* "India":http://www.ckahopefoundation.blogspot.ca/
+* "Indonesia":http://hopeindonesia.org/index.php?option=com_frontpage&Itemid=1
+* "Jamaica":http://www.hopeww.org/page.aspx?pid=200
+* "Kenya":http://www.hopewwkenya.org/
+* "Lithuania":http://hopewwvilnius.blogspot.ca/
+* "Malaysia":http://blog.hopeww.org.my/
+* "Nigeria":http://www.hopeww.org/Page.aspx?pid=283
+* "Panama":http://www.hopeww.org/Page.aspx?pid=1045
+* "Papua New Guinea":http://www.hopewwpng.org.pg/index.html
+* "Philippines":http://www.hopeww.org/Page.aspx?pid=323
+* "Russia":http://hopeww.ru/eng/
+* "Singapore":http://www.hopewwsea.org/index.php
+* "South Africa":https://www.hopeww.org/SSLPage.aspx?pid=1937
+* "Thailand":http://www.hopeww.org/Page.aspx?pid=1157
+* "United Kingdom":http://hopeworldwide.org.uk/
+* "United States":https://www.hopeww.org/SSLPage.aspx?pid=292
 
 <hr />
 
