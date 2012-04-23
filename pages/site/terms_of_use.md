@@ -1,6 +1,7 @@
 ---
 layout: page_282
 title: "Terms Of Use"
+sticky_footer: 1
 ---
 {% include JB/setup %}
 

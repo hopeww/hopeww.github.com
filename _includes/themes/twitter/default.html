@@ -9,9 +9,18 @@
         {{ content }}
       </div>
 
-      
     </div> <!-- /container -->
-    {% include foot_text.html %}
+
+    {% if page.sticky_footer %}
+    <div id="footer" align="center">
+      {% include foot_text.html %}
+    </div>
+    {% else %}
+    <div  align="center">
+      {% include foot_text.html %}
+    </div>
+    {% endif %}
+
 
     {% include JB/analytics %}
     <!-- Le javascript
