@@ -9,9 +9,9 @@ h2. Our Global Affiliates
 
 !(img-right)/assets/themes/twitter/images/icons/hopewwc_logo.png!:http://www.hopeww.org
 
-h4. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
+*HOPE* __worldwide__ of Canada is a proud affiliate of HOPE worldwide.
 
-<br />
+<hr />
 
 * "Afghanistan":http://www.hopeww.org/Page.aspx?pid=335
 * "Australia":http://www.hopewwaustralia.org.au/
