@@ -90,7 +90,7 @@
       })
 
     // carousel demo
-    $('#myCarousel').carousel({interval:500})
+    $('#myCarousel').carousel({interval:200})
 
     // javascript build logic
     var inputsComponent = $("#components.download input")
