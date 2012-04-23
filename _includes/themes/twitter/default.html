@@ -8,17 +8,9 @@
         
         {{ content }}
       </div>
-
-    {% if page.no_use_sticky_footer %}
-    <div  align="center">
-      <p><br /></p>
-      <p><br /></p>
-      {% include foot_text.html %}
-    </div>
-    {% else %}
-    <div id="footer" align="center">
-      {% include foot_text.html %}
-    </div>
+      <footer>
+        {% include foot_text.html %}
+      </footer>
     {% endif %}
 
 
