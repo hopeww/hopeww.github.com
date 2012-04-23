@@ -7,7 +7,17 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
-
+#footer {
+    clear: both;
+    text-align: center;
+    
+    height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    position: relative;
+    margin-top: -50px;
+}
 #feedback {
   right: 0; margin-right: -7px; height: 102px; top: 40%; width: 42px; background-color: #32312E;
   background-image: url(/assets/themes/twitter/images/backgrounds/feedback_trans_tab.png);
