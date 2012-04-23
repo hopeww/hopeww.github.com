@@ -7,7 +7,7 @@ title: "Partners and Affiliates"
 h2. HOPE worldwide of Canada is a proud affiliate of HOPE worldwide.
 
 <div align="center">
-!/assets/themes/twitter/images/about_us/our_partners_1.jpg!:http://www.hopeww.org
+!/assets/themes/twitter/images/icons/hopewwc_logo2.png!:http://www.hopeww.org
 </div>
 
 <hr />
