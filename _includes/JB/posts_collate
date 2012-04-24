@@ -41,7 +41,7 @@ Usage:
         </ul>
         <h2>{{next_year}}</h2>
         <h3>{{next_month}}</h3>
-        <ul>
+        <ul id="projects">
       {% else %}    
         {% if this_month != next_month %}
           </ul>
