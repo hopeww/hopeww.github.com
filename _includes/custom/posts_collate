@@ -29,7 +29,7 @@ Usage:
     <ul>
   {% endif %}
 
-  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  <li class="project {{span}}"><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 
   {% if forloop.last %}
     </ul>
@@ -47,7 +47,7 @@ Usage:
       {% endif %}
     {% endif %}
   {% endif %}
-  
+
 {% endfor %}
 
 {% assign posts_collate = nil %}
