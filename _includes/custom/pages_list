@@ -1,10 +1,16 @@
 {% for node in pages_list %}
     {% if group == null or group == node.group %}
+
+        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+        {% capture this_date %}{{ post.date | date: date: "%B %e, %Y" }}{% endcapture %}
+      
+
     	{% if page.url == node.url %}
     		<li class="project {{span}}">
     			<a href="{{ BASE_PATH }}{{node.url}}" class="active">
     				<img src="{{node.image}}" />
-    				<h5>{{node.title}}</h5>
+    				<h5>{{node.title}} {{this_date}}</h5>
     				{{node.blurb}}
     			</a>
     		</li>
@@ -12,7 +18,7 @@
     		<li class="project {{span}}">
     			<a href="{{ BASE_PATH }}{{node.url}}">
     				<img src="{{node.image}}" />
-    				<h5>{{node.title}}</h5>
+    				<h5>{{node.title}} {{this_date}}</h5>
     				{{node.blurb}}
     			</a>
     		</li>
