@@ -41,4 +41,4 @@ Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fort
 
 You can email us your feedback "(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}, and will do our best to answer your questions.
 
-<a href="https://github.com/hopeww/hopeww.github.com" class="btn icon-external-link">Hosted on Github, fork a copy here.</a>
+<a href="https://github.com/hopeww/hopeww.github.com" class="btn icon-external-link">&#160;Hosted on Github, fork a copy here.</a>
