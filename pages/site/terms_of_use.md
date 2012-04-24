@@ -1,5 +1,5 @@
 ---
-layout: page_narrower_main
+layout: page_282
 title: "Terms Of Use"
 no_use_sticky_footer: 1
 ---
