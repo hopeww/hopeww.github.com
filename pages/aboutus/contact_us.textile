@@ -41,7 +41,7 @@ Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fort
 
 <br />
 
- "(icon-envelope btn) &nbsp;Send feedback, we'll do our best to answer you.( feedback)":mailto:{{ site.departments.webmastering.email }}  
+ "(icon-envelope btn) &nbsp;Send feedback, we'll do our best to answer you :)":mailto:{{ site.departments.webmastering.email }}  
 
 <br />
 
