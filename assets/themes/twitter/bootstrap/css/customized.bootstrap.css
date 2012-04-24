@@ -59,7 +59,7 @@ body > .container {
 .post_container p {
   text-indent: 3em;
   padding: 3px 0px 3px 0px; 
-  font-family: 'EB Garamond','Brawler','Ovo', 'Rosarivo', Georgia, Verdana,serif ;
+  font-family: Georgia, 'EB Garamond','Brawler','Ovo', 'Rosarivo', Verdana,serif ;
 }
 .page_container ul li{
   font-family: Georgia;
