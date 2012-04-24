@@ -33,7 +33,7 @@ h2. Social Media
 "(icon-facebook-sign) &nbsp;Facebook( Facebook)":{{ site.social-media-presence.facebook }}
 "(icon-twitter-sign) &nbsp;Twitter( Twitter)":{{ site.social-media-presence.twitter }}
 
-<a href="https://github.com/hopeww/hopeww.github.com" class="button">Fork this website on Github</a>
+<a href="https://github.com/hopeww/hopeww.github.com" class="btn">Fork this website on Github</a>
 
 <hr />
 
