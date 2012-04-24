@@ -11,5 +11,6 @@ title: "International Relief Assistance"
 
       {% assign posts_collate = category[1] %}  
       {% include custom/posts_collate %}
+      
   {% endif %}
 {% endfor %}
