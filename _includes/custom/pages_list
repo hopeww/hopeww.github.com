@@ -5,9 +5,6 @@
 
     {% if group == null or group == node.group %}
 
-        
-      
-
     	{% if page.url == node.url %}
     		<li class="project {{span}}">
     			<a href="{{ BASE_PATH }}{{node.url}}" class="active">
