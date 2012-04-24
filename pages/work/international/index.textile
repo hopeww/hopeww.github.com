@@ -9,8 +9,9 @@ title: "International Relief Assistance"
 {% for category in site.categories %} 
   {% if category[0] == "International" %}
     <ul id="projects">
-      {% assign pages_list = category[1] %}  
-      {% include custom/pages_list %}
+
+      {% assign posts_collate = category[1] %}  
+      {% include custom/posts_collate %}
     </ul>
   {% endif %}
 {% endfor %}
