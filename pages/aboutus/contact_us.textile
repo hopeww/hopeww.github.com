@@ -33,10 +33,12 @@ h2. Social Media
 "(icon-facebook-sign) &nbsp;Facebook( Facebook)":{{ site.social-media-presence.facebook }}
 "(icon-twitter-sign) &nbsp;Twitter( Twitter)":{{ site.social-media-presence.twitter }}
 
-<a href="https://github.com/hopeww/hopeww.github.com" class="btn">Fork this website on Github</a>
-
 <hr />
 
 h2. Website Info
 
-Icons provided by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  You can email us your feedback "(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}, and will do your best to answer your questions.
+Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  Web framework by:  <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll Bootstrap</a> 
+
+You can email us your feedback "(icon-envelope) &nbsp;Website( Website)":mailto:{{ site.departments.webmastering.email }}, and will do our best to answer your questions.
+
+<a href="https://github.com/hopeww/hopeww.github.com" class="btn icon-external-link">Hosted on Github, fork a copy here.</a>
