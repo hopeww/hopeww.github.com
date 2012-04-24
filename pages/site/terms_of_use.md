@@ -5,7 +5,6 @@ no_use_sticky_footer: 1
 ---
 {% include JB/setup %}
 
-
 By accessing any portion of the HOPE _worldwide_ of Canada Website, the user agrees to the terms and conditions set out below.
 
 ##NOTICE OF DISCLAIMER AND TERMS OF USE##
