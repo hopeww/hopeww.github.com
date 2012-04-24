@@ -37,7 +37,7 @@ h2. Social Media
 
 h2. Website Info
 
-Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  Web framework by:  <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll Bootstrap</a> 
+Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  Web framework by  <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll Bootstrap</a> 
 
  "(icon-envelope btn) &nbsp;You can email us your feedback( feedback)":mailto:{{ site.departments.webmastering.email }}, and we'll  do our best to answer any questions you have.
 
