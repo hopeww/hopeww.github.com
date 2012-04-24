@@ -30,7 +30,7 @@ Usage:
   {% endif %}
 
     <li class="project {{span}}">
-          <a href="{{ BASE_PATH }}{{node.url}}" class="active">
+          <a href="{{ BASE_PATH }}{{post.url}}" class="active">
             <img src="{{post.image}}" />
             <h6>{{ post.date | date: "%B %e, %Y" }} - {{post.title}} </h6>
           </a>
