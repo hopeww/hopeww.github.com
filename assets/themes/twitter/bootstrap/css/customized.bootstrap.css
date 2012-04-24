@@ -33,6 +33,7 @@ body {
   /*background: url(/assets/themes/twitter/images/backgrounds/daimond_eyes.png) repeat;*/
   /* background: url(/assets/themes/twitter/images/backgrounds/gradient_squares.png) repeat;*/
   background: url(/assets/themes/twitter/images/backgrounds/tex2res5.png) repeat;
+  font-family: Verdana;
 }
 
 
@@ -58,7 +59,7 @@ body > .container {
 .post_container p{
   text-indent: 3em;
   padding: 3px 0px 3px 0px; 
-  font-family: Georgia;
+  font-family: Georgia, Verdana;
 }
 
 /*
