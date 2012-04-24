@@ -1,5 +1,5 @@
 ---
-layout: page_narrower_main
+layout: page_282
 title: "Privacy Policy"
 ---
 {% include JB/setup %}
