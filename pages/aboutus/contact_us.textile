@@ -45,5 +45,5 @@ Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fort
 
 <br />
 
-"(btn icon-external-link) &nbsp;Hosted on Github, fork a copy here( Github)":https://github.com/hopeww/hopeww.github.com
+"(btn icon-external-link) &nbsp;Hosted on Github, fork your own copy( Github)":https://github.com/hopeww/hopeww.github.com
 
