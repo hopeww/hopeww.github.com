@@ -1,9 +1,11 @@
 {% for node in pages_list %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+    {% capture this_date %}{{ post.date | date: date: "%B %e, %Y" }}{% endcapture %}
+    
     {% if group == null or group == node.group %}
 
-        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-        {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-        {% capture this_date %}{{ post.date | date: date: "%B %e, %Y" }}{% endcapture %}
+        
       
 
     	{% if page.url == node.url %}
