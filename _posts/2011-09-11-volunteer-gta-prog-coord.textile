@@ -7,7 +7,7 @@ published_date : "Sep 11, 2011"
 ---
 {% include JB/setup %}
 
-"(icon-external)Click here if you cannot view the embeded pdf on this page":https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl
+"(icon-external-link)Click here if you cannot view the embeded pdf on this page":https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl
 
 
 <iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl&embedded=true" style="width:1024px; height:900px;" frameborder="0">"Click here if you cannot view the embeded pdf on this page":https://docs.google.com/open?id=0B5-xkEf58AbIM2FlYjczZGEtOGU4ZC00MGM3LTg5MTYtZTA4MGY4NTljZjNl</iframe>
