@@ -56,10 +56,13 @@ body > .container {
   left: 0;
   right: 0;
 }
-.post_container p, .page_container ul li{
+.post_container p {
   text-indent: 3em;
   padding: 3px 0px 3px 0px; 
   font-family: 'EB Garamond','Brawler','Ovo', 'Rosarivo', Georgia, Verdana,serif ;
+}
+.page_container ul li{
+  font-family: Georgia;
 }
 
 /*
