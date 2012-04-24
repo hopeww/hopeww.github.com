@@ -56,7 +56,7 @@ body > .container {
   left: 0;
   right: 0;
 }
-.post_container p{
+.post_container p, .page_container ul li{
   text-indent: 3em;
   padding: 3px 0px 3px 0px; 
   font-family: 'EB Garamond','Brawler','Ovo', 'Rosarivo', Georgia, Verdana,serif ;

@@ -23,6 +23,7 @@ HOPE to me is walking like Jesus and seeing him at the end of the tunnel. HOPE i
 
 
 h2. Past Activities in {{ city }}
+
 {% for category in site.categories %} 
 	{% if category[0] == city %}
 	  <ul>
