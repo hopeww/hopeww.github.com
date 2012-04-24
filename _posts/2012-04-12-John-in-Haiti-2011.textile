@@ -8,7 +8,7 @@ image : /assets/themes/twitter/images/work/international/main_haiti.jpg
 ---
 {% include JB/setup %}
 
-This is an interview with a volunteer who had visited our site in Port au Prince, Haiti.
+@iew with a volunteer who had visited our site in Port au Prince, Haiti.@
 
 |By:| John Riddle|
 |Date: | October 22nd - 29th, 2011|
