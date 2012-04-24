@@ -39,6 +39,9 @@ h2. Website Info
 
 Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a>.  Web framework by  <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll Bootstrap</a> 
 
- "(icon-envelope btn) &nbsp;You can email us your feedback( feedback)":mailto:{{ site.departments.webmastering.email }}, and we'll  do our best to answer any questions you have.
+ "(icon-envelope btn) &nbsp;You can email us your feedback( feedback)":mailto:{{ site.departments.webmastering.email }}  we'll  do our best to answer any questions you have.
 
-<a href="https://github.com/hopeww/hopeww.github.com" class="btn icon-external-link">&#160;Hosted on Github, fork a copy here.</a>
+<br />
+
+"(btn icon-external-link) &nbsp;Hosted on Github, fork a copy here( Github)":https://github.com/hopeww/hopeww.github.com
+
