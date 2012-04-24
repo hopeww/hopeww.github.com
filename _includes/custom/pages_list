@@ -12,7 +12,7 @@
     		<li class="project {{span}}">
     			<a href="{{ BASE_PATH }}{{node.url}}" class="active">
     				<img src="{{node.image}}" />
-    				<h5>{{node.title}} {{ post.date | date:  "%B %e, %Y" }}</h5>
+    				<h5>{{node.title}} {{ page.date | date:  "%B %e, %Y" }}</h5>
     				{{node.blurb}}
     			</a>
     		</li>
@@ -20,7 +20,7 @@
     		<li class="project {{span}}">
     			<a href="{{ BASE_PATH }}{{node.url}}">
     				<img src="{{node.image}}" />
-    				<h5>{{node.title}} {{ post.date | date:  "%B %e, %Y" }}</h5>
+    				<h5>{{node.title}} {{ page.date | date:  "%B %e, %Y" }}</h5>
     				{{node.blurb}}
     			</a>
     		</li>
