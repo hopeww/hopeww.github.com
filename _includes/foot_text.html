@@ -3,42 +3,9 @@
   <hr />
 
   <div class="row-fluid" >
-    <div class="span6"  align="left" >
-      <br />
-      <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-      <script>
-      new TWTR.Widget({
-        version: 2,
-        type: 'search',
-        search: 'hopeworldwide',
-        interval: 30000,
-        title: '',
-        subject: '',
-        width: 'auto',
-        height: 50,
-        theme: {
-          shell: {
-            background: 'silver',
-            color: '#ffffff'
-          },
-          tweets: {
-            background: '#f5f5f5',
-            color: '#444444',
-            links: '#b31919'
-          }
-        },
-        features: {
-          scrollbar: false,
-          loop: true,
-          live: true,
-          behavior: 'default'
-        }
-      }).render().start();
-      </script>
-      <br />
-    </div>
+    
 
-    <div id="foot" class="span6" align="left">
+    <div id="foot" class="span6" align="right">
       <p  class="pull-right" style="font-size: smaller;"><a href="#">Back to top</a> &#160; &#160;</p>
       <p><br /><br /><p>
       &#160;<a href="/pages/site/privacy_policy.html">Privacy Policy</a><br />
@@ -62,5 +29,41 @@
       &#160;<a href="/atom.xml" title="Subscribe on RSS">
         <img height=16 width=16 src="{{ ASSET_PATH }}/images/icons/glyphicons_397_rss.png" alt="RSS" ></a>
     </div>
+
+    <div class="span6"  align="left" >
+      <br />
+      <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+      <script>
+      new TWTR.Widget({
+        version: 2,
+        type: 'search',
+        search: 'hopeworldwide',
+        interval: 30000,
+        title: '',
+        subject: '',
+        width: '200',
+        height: 50,
+        theme: {
+          shell: {
+            background: 'silver',
+            color: '#ffffff'
+          },
+          tweets: {
+            background: '#f5f5f5',
+            color: '#444444',
+            links: '#b31919'
+          }
+        },
+        features: {
+          scrollbar: false,
+          loop: true,
+          live: true,
+          behavior: 'default'
+        }
+      }).render().start();
+      </script>
+      <br />
+    </div>
+
   </div>
 </div>
