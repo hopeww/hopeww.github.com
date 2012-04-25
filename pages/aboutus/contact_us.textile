@@ -45,5 +45,5 @@ Icons by <a href="http://glyphicons.com/">Glyph Icons</a> & <a href="http://fort
 
 <br />
 
-"(btn icon-external-link) &nbsp;Hosted on Github, fork your own copy( Github)":https://github.com/hopeww/hopeww.github.com
+<iframe class="github-btn" src="http://markdotto.github.com/github-buttons/github-btn.html?user=hopeww&repo=hopeww.github.com&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="98px" height="20px"></iframe>
 
