@@ -38,22 +38,24 @@
         {% include fp_5.html %}  
         {% include fp_6.html %}  
       </div>
+
       <div align="right" class="row-fluid">
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'search', search: 'hopeworldwide', interval: 6000,
-  title: '', subject: '',width: 524, height: 100,
-  theme: {
-    shell: {background: '#ffffff', color: '#444444' },
-    tweets: {background: '#ffffff', color: '#444444', links: '#3d3d3d' }
-  },
-  features: {
-    scrollbar: false, loop: true, live: true, hashtags: true, timestamp: true, avatars: false, toptweets: true, behavior: 'default'
-  }
-}).render().start();
-</script></div>
+        <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+        <script>
+        new TWTR.Widget({
+          version: 2,
+          type: 'search', search: 'hopeworldwide', interval: 6000,
+          title: '', subject: '',width: 524, height: 100,
+          theme: {
+            shell: {background: '#ffffff', color: '#444444' },
+            tweets: {background: '#ffffff', color: '#444444', links: '#3d3d3d' }
+          },
+          features: {
+            scrollbar: false, loop: true, live: true, hashtags: true, timestamp: true, avatars: false, toptweets: true, behavior: 'default'
+          }
+        }).render().start();
+        </script>
+      </div>
 
       {% include foot_text.html %}
     </div><!-- .container-->
