@@ -39,24 +39,6 @@
         {% include fp_6.html %}  
       </div>
 
-      <div align="right" class="row-fluid">
-        <br />
-        <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-        <script>
-        new TWTR.Widget({
-          version: 2,
-          type: 'search', search: 'hopeworldwide', interval: 6000,
-          title: '', subject: '',width: 800, height: 50,
-          theme: {
-            shell: {background: '#f5f5f5', color: '#444444' },
-            tweets: {background: '#f5f5f5', color: '#444444', links: '#EB005E' }
-          },
-          features: {
-            scrollbar: false, loop: true, live: true, hashtags: true, timestamp: true, avatars: false, toptweets: true, behavior: 'default'
-          }
-        }).render().start();
-        </script>
-      </div>
 
       {% include foot_text.html %}
     </div><!-- .container-->
