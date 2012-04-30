@@ -27,6 +27,7 @@ large_story_3_lnk : "/Toronto/2012/04/07/improv-is-fun-ywca-workshop/"
 large_story_1_img_lnk : "/2012-04-30-latest_newsletter/main_1.jpg"
 large_story_2_img_lnk : "/2012-04-30-latest_newsletter/main_2.jpg"
 large_story_3_img_lnk : "/2012-04-30-latest_newsletter/main_3.jpg"
+print_pdf_lnk : "https://docs.google.com/open?id=0BzyVKxAUPuAsREtxZGxRZ3hCTlE&embedded=true"
 ---
 
 {% include JB/setup %}
