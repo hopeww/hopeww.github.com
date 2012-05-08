@@ -2,7 +2,7 @@
 layout: post
 title: "Teaching about Personal Finances and Serving at YWCA"
 category: Toronto
-tags: [International]
+tags: [Toronto]
 ---
 {% include JB/setup %}
 
