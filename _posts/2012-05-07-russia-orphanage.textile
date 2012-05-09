@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Russian Orphanage"
+category: International
+tags: [International]
+blurb : "Take a look at the work we are doing in Russia"
+image : /assets/themes/twitter/images/work/international/hope_orphanage.jpg
+---
+{% include JB/setup %}
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Cp9ZndSE64E" frameborder="0" allowfullscreen></iframe>

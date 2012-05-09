@@ -1,7 +1,7 @@
 ---
 layout: newsletter
 title: "HOPE worldwide of Canada Newsletter"
-category: Newsletter
+category: Latest_Newsletter
 tags: [Newsletter]
 published_date : "Apr 30, 2012"
 date_string : "2012/04/30"
