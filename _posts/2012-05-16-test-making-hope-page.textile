@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Test making HOPE page"
+category: Toronto
+tags: [Toronto]
+---
+{% include JB/setup %}
+
+h2. We are testing creating a page
+
+today we've created  new page for the hope website.
