@@ -14,11 +14,11 @@ div#foot {
 #footer {
     clear: both;
     text-align: center;
-    
+
     height: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+
     position: relative;
     margin-top: -50px;
 }
@@ -32,7 +32,7 @@ div#foot {
 body {
   /*background: url(/assets/themes/twitter/images/backgrounds/daimond_eyes.png) repeat;*/
   /* background: url(/assets/themes/twitter/images/backgrounds/gradient_squares.png) repeat;*/
-  background: url(/assets/themes/twitter/images/backgrounds/tex2res5.png) repeat;
+  background: url(/assets/themes/twitter/images/backgrounds/wood_patterns.jpg) repeat;
   font-family: Verdana;
 }
 
@@ -58,7 +58,7 @@ body > .container {
 }
 .post_container p {
   text-indent: 3em;
-  padding: 3px 0px 3px 0px; 
+  padding: 3px 0px 3px 0px;
   font-family: Georgia, 'EB Garamond','Brawler','Ovo', 'Rosarivo', Verdana,serif ;
 }
 .page_container ul li{
@@ -107,7 +107,7 @@ h4, {
 margin-left:auto;
 margin-right:auto;
 }
- 
+
 article,
 aside,
 details,
