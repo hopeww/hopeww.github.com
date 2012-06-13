@@ -7,5 +7,5 @@ blurb : "Since 2010, HOPE worldwide of Canada has contributed funds to restore a
 image : /assets/themes/twitter/images/work/international/main_1_phillipns.jpg
 ---
 {% include JB/setup %}
-
+<a href="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U"> Please click here, if you cannot see the embedded pdf file</a>
 <iframe src="https://docs.google.com/open?id=0B5-xkEf58AbIUGVVanhnd3E4M1U&embedded=true" style="width:1024px; height:900px;" frameborder="0"></iframe>
